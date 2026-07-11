@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+permalink: /opensource/
+title: open source
+description: I maintain <a href="https://github.com/pysal/spopt">PySAL/spopt</a>, an open-source Python package for spatial optimisation, and have mentored spopt contributors through <a href="https://summerofcode.withgoogle.com/">Google Summer of Code</a> (2021–2025).
 nav: true
-nav_order: 4
+nav_order: 7
 ---
 
 {% if site.data.repositories.github_users %}
