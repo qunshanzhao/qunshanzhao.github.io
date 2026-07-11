@@ -1,8 +1,8 @@
-# qszhao.github.io
+# qunshanzhao.github.io
 
 Personal and lab website of **Qunshan Zhao** — Professor of Urban Analytics and Deputy Director of the [Urban Big Data Centre](https://www.ubdc.ac.uk/), University of Glasgow.
 
-Live site: <https://qszhao.github.io>
+Live site: <https://qunshanzhao.github.io> (repo lives in the `qunshanzhao` GitHub organisation; personal account remains `qszhao`)
 
 Built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https://github.com/alshedivat/al-folio) theme (v1.x). Pushing to `main` triggers the bundled GitHub Action, which builds the site and publishes it to the `gh-pages` branch.
 
