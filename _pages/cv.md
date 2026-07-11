@@ -19,7 +19,7 @@ description: a short academic timeline — the full CV is available as a PDF.
 
 ## Education
 
-- **PhD in Geography (GIScience)**, Arizona State University — dissertation received the AAG J. Warren Nystrom Award (2018)
+- **PhD in Geography (GIScience)**, Arizona State University — dissertation received the AAG [J. Warren Nystrom Award](https://www.aag.org/award-grant/nystrom/) (2018)
 - **MA in Geography (GIScience)**, Arizona State University
 - **BE in Remote Sensing, Photogrammetry and GIS**, Wuhan University
 
