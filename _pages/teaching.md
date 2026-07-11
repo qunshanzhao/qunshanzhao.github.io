@@ -14,6 +14,7 @@ nav_order: 5
 - Fall — [Big Data and Urban Analytics](https://www.gla.ac.uk/coursecatalogue/course/?code=URBAN5125)
 - Spring — [Urban Analytics Group Projects](https://www.gla.ac.uk/coursecatalogue/course/?code=URBAN5124)
 - Spring — [Programming Tools for Urban Analytics](https://www.gla.ac.uk/coursecatalogue/course/?code=URBAN5123) (course materials on [GitHub](https://github.com/qszhao/PTUA2026))
+- Advanced Topics for Urban Analytics (from 2026; course materials on [GitHub](https://github.com/qszhao/ATUA2026))
 
 ## MSc in Urban Analytics
 

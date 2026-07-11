@@ -34,4 +34,4 @@ docker compose up
 
 ## License
 
-Theme code is distributed under the [MIT License](LICENSE) (© the al-folio contributors). Site content — text, images, CV, and bibliography — is © Qunshan Zhao.
+Theme code is distributed under the [MIT License](LICENSE) (© the al-folio contributors). Site content — text, images, CV, and bibliography — is © Qunshan Zhao and licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

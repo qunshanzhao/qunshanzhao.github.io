@@ -11,11 +11,14 @@ description: a short academic timeline — the full CV is available as a PDF.
 
 ## Appointments
 
-- **Professor of Urban Analytics**, Urban Studies & Social Policy, School of Social and Political Sciences, University of Glasgow (2024–present)
-- **Deputy Director**, [Urban Big Data Centre (UBDC)](https://www.ubdc.ac.uk/), University of Glasgow, where I lead the Urban Sensing & Analytics research theme
+- **Professor of Urban Analytics**, Urban Big Data Centre (UBDC), School of Social and Political Sciences, University of Glasgow (2024–present)
+- **Deputy Director**, [Urban Big Data Centre (UBDC)](https://www.ubdc.ac.uk/), University of Glasgow (2025–present), where I lead the Urban Sensing & Analytics research theme; **Associate Director** (2020–2025)
+- **Visiting Professor**, School of Geography, University College Dublin (2026–present)
+- **Visiting Scholar and PhD Supervisor**, School of Engineering, University of Edinburgh (2020–2025)
 - **Senior Lecturer in Urban Analytics**, University of Glasgow (2022–2024)
 - **Lecturer in Urban Analytics**, University of Glasgow (2019–2022)
-- **Postdoctoral Research Associate**, Knowledge Exchange for Resilience (KER) and Spatial Analysis Research Center (SPARC), Arizona State University (until 2019)
+- **Postdoctoral Research Associate**, Knowledge Exchange for Resilience (KER) and Spatial Analysis Research Center (SPARC), Arizona State University (2017–2019)
+- **Research Associate, Teaching Assistant, and Instructor**, School of Geographical Sciences and Urban Planning, Arizona State University (2013–2017)
 
 ## Education
 
