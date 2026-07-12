@@ -25,7 +25,7 @@ nav_order: 2
 
 <div class="publications pub-section" data-type="journal">
 
-## Journal articles
+<h2 style="margin:1.4rem 0 0.2rem;">Journal articles</h2>
 
 {% bibliography -q @article %}
 
@@ -33,7 +33,7 @@ nav_order: 2
 
 <div class="publications pub-section" data-type="chapter">
 
-## Book chapters
+<h2 style="margin:1.4rem 0 0.2rem;">Book chapters</h2>
 
 {% bibliography -q @incollection %}
 
@@ -41,7 +41,7 @@ nav_order: 2
 
 <div class="publications pub-section" data-type="conf">
 
-## Conference papers & other
+<h2 style="margin:1.4rem 0 0.2rem;">Conference papers &amp; other</h2>
 
 {% bibliography -q @inproceedings || @misc || @unpublished %}
 
