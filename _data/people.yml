@@ -1,7 +1,7 @@
 # Lab roster, rendered by _pages/people.md.
-# Each member: name, slug (avatar file assets/img/people/<slug>.svg — drop a real photo
-# and set `photo: /assets/img/people/<slug>.jpg` to replace it), url (optional link),
-# desc (HTML allowed), note (optional smaller line, HTML allowed).
+# Each member: name, slug (avatar file assets/img/people/<slug>.svg), url (optional link),
+# desc (HTML allowed), note (optional smaller line, HTML allowed),
+# photo (optional real photo path — overrides the initials avatar).
 sections:
   - title: Current Members
     groups:
@@ -9,12 +9,24 @@ sections:
         members:
           - name: Dr Mingyu Zhu
             slug: mingyu-zhu
+            photo: /assets/img/people/mingyu-zhu.jpg
             url: https://www.linkedin.com/in/mingyu-zhu/
             desc: Sensor Enhanced Housing Survey, SpaceEPC, ESRC IAA and Creative and Social Futures Fund for Port Digital Twin, IDEAMAPS, and SDR UK Fellowship (2024–now)
+      - title: Research Assistants
+        members:
+          - name: Dr Yunbei Ou
+            slug: yunbei-ou
+            photo: /assets/img/people/yunbei-ou.jpg
+            desc: Research Assistant; completed her PhD in Urban Studies in the lab (2022–2026, see PhD Graduates below)
+          - name: Xingyi Du
+            slug: xingyi-du
+            url: https://www.linkedin.com/in/xingyi-du-1825162a0/
+            desc: Glasgow Urban Transport, IDEAMAPS, SpaceEPC, Sensor Enhanced Housing Survey, and Sensing Gorbals (2024–now)
       - title: PhD Students
         members:
           - name: Mohd Sarim
             slug: mohd-sarim
+            photo: /assets/img/people/mohd-sarim.jpg
             url: https://www.linkedin.com/in/mohd-sarim-2296851a8/
             desc: PhD in Urban Studies, SGSSS open competition PhD Studentship with the Salvation Army UK (2022–2026); first supervisor, with Prof. Joao Porto de Albuquerque and Prof. Morag Treanor
           - name: Adenike Oluwatimilehin Shonowo
@@ -26,23 +38,17 @@ sections:
           - name: Qin Li
             slug: qin-li
             desc: PhD in Urban Studies, University of Glasgow China Scholarship Council PhD Studentship (2026–2030); second supervisor, with Dr Pengyuan Liu
-      - title: MSc Students and Research Assistants
-        members:
-          - name: Xingyi Du
-            slug: xingyi-du
-            url: https://www.linkedin.com/in/xingyi-du-1825162a0/
-            desc: Glasgow Urban Transport, IDEAMAPS, SpaceEPC, Sensor Enhanced Housing Survey, and Sensing Gorbals (2024–now)
       - title: Academic Visitors
         members:
           - name: Siqi Jia
             slug: siqi-jia
             desc: Research Assistant Professor, Division of Landscape Architecture, the University of Hong Kong (2026)
-          - name: Rui Qiao
-            slug: rui-qiao
-            desc: PhD Student, Department of Building and Real Estate, the Hong Kong Polytechnic University (2026)
           - name: Jiameng Hu
             slug: jiameng-hu
             desc: Assistant Professor, College of Public Administration, South-Central Minzu University (2026–27)
+          - name: Mengdi Zhang
+            slug: mengdi-zhang
+            desc: Engineer, Natural Resources Comprehensive Survey Command Centre, China Geology Survey (2025–26)
 
   - title: Past Group Members
     groups:
@@ -50,6 +56,7 @@ sections:
         members:
           - name: Dr Sebastian Hafner
             slug: sebastian-hafner
+            photo: /assets/img/people/sebastian-hafner.jpg
             url: https://www.linkedin.com/in/sebastian-hafner-236b72228/
             desc: IDEAMAPS (2024–2025) — now Researcher at RISE Research Institutes of Sweden
           - name: Dr Qiaosi Li
@@ -66,6 +73,7 @@ sections:
             desc: IDEAMAPS (2023) — now Associate Researcher in Universidad Pública de Navarra with one of the most prestigious Spanish national scholarships, the Juan de la Cierva Scholarship
           - name: Dr Michael Sinclair
             slug: michael-sinclair
+            photo: /assets/img/people/michael-sinclair.jpg
             url: https://www.linkedin.com/in/michael-sinclair-496a25111/
             desc: Understanding Urban Mobility with Mobile Phone Data (2020–2023) — now Permanent Lecturer in Urban Analytics in Urban Studies and UBDC, and PI of the ESRC-SDAI project (2023–2025)
           - name: Dr Saeed Maadi
@@ -80,32 +88,36 @@ sections:
         members:
           - name: Mr Luis Serra
             slug: luis-serra
+            photo: /assets/img/people/luis-serra.jpg
             url: https://www.linkedin.com/in/luis-a-serra/
             desc: SpaceEPC (2025)
       - title: PhD Graduates
         members:
           - name: Niantang Liu
             slug: niantang-liu
-            desc: PhD in Geological and Earth Sciences/Geosciences (2019–2024); second supervisor, with Dr Brian Barrett and Dr Richard Williams. Thesis&#58; <em>Crop mapping using deep learning and multi-source satellite remote sensing</em> — now Assistant Research Fellow in the Chinese Academy of Agricultural Sciences
+            desc: PhD in Geological and Earth Sciences/Geosciences (2019–2024); second supervisor, with Dr Brian Barrett and Dr Richard Williams. Thesis&#58; <a href="https://theses.gla.ac.uk/84306/"><em>Crop mapping using deep learning and multi-source satellite remote sensing</em></a> — now Assistant Research Fellow in the Chinese Academy of Agricultural Sciences
           - name: Henry Ibitolu
             slug: henry-ibitolu
             url: https://www.linkedin.com/in/ibitscholar/
-            desc: PhD in Civil and Environmental Engineering, University of Edinburgh/University of Glasgow Jointly Funded PhD Studentship (2020–2025); Glasgow supervisor, with Dr Chris Beckett and Dr Daniel Fosas from the University of Edinburgh. Thesis&#58; <em>Bridging Indoor and Outdoor Microclimates&#58; A Multiscale Co-simulation Framework for the Thermal Performance of Earthen Buildings</em> — now Project Officer (Estate Energy Optimisation), Glasgow City Council
+            desc: PhD in Civil and Environmental Engineering, University of Edinburgh/University of Glasgow Jointly Funded PhD Studentship (2020–2025); Glasgow supervisor, with Dr Chris Beckett and Dr Daniel Fosas from the University of Edinburgh. Thesis&#58; <a href="https://era.ed.ac.uk/items/0af7d805-0461-43e0-8bc5-c42d38f9cd2f"><em>Bridging Indoor and Outdoor Microclimates&#58; A Multiscale Co-simulation Framework for the Thermal Performance of Earthen Buildings</em></a> — now Project Officer (Estate Energy Optimisation), Glasgow City Council
             note: 'Awards&#58; Allianz Climate Risk Research Award 2021 Finalist (<a href="https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/sustainability/documents/20211203_Allianz_Climate_Risk_Research_Award.pdf">link</a>); University of Edinburgh Delegate to COP27 in Cairo, Egypt; Committee member of the UK Net Zero Carbon Building Standard Committee; RENKEI Early Career Researcher Fellowship, British Council (<a href="https://www.britishcouncil.jp/en/programmes/higher-education/university-industry-partnership/renkei">link</a>); Member of the UK Young Academy (<a href="https://ukyoungacademy.org/members/henry-ibitolu/">link</a>)'
           - name: Yue Li
             slug: yue-li
-            desc: PhD in Urban Studies, University of Glasgow China Scholarship Council PhD Studentship (2021–2026); first supervisor, with Dr Mingshu Wang. Thesis&#58; <em>Estimation and Prediction of Urban Traffic Flows in Response to COVID-19 Using Machine Learning and Foundational Models</em> — now Research Associate in Data Science and Urban Climate Modelling, University of Manchester
+            photo: /assets/img/people/yue-li.jpg
+            desc: PhD in Urban Studies, University of Glasgow China Scholarship Council PhD Studentship (2021–2026); first supervisor, with Dr Mingshu Wang. Thesis&#58; <a href="https://theses.gla.ac.uk/86073/"><em>Estimation and prediction of urban traffic flows in response to global pandemic using machine learning and foundational models</em></a> — now Research Associate in Data Science and Urban Climate Modelling, University of Manchester
             note: 'Awards&#58; Alan Turing Institute PhD Enrichment Scheme 2022; Postgraduate Representative of QMRG (<a href="https://qmrg.github.io/past_committee">link</a>)'
           - name: Ziying Guo
             slug: ziying-guo
-            desc: PhD in Environmental Sustainability (2021–2025); second supervisor, with Dr John Xiaogang Shi. Thesis&#58; <em>Hydrological Responses to Wetland Changes in the Yangtze River Basin</em> — now Assistant Professor in Shanghai Maritime University
+            desc: PhD in Environmental Sustainability (2021–2025); second supervisor, with Dr John Xiaogang Shi. Thesis&#58; <a href="https://theses.gla.ac.uk/85720/"><em>Hydrological responses to wetland changes in the Yangtze River Basin</em></a> — now Assistant Professor in Shanghai Maritime University
           - name: Zixin Feng
             slug: zixin-feng
+            photo: /assets/img/people/zixin-feng.jpg
             desc: PhD in Urban Studies, University of Glasgow China Scholarship Council PhD Studentship (2022–2026); first supervisor, with Prof. Alison Heppenstall. Thesis&#58; <em>Exploring the Use of Agent-based Models for Electric Vehicle Driver Behaviour Simulation</em> — now Research Fellow in Agent-based Modelling, University of Leeds
             note: 'Awards&#58; Alan Turing Institute Data Study Group 2023; BEHAVE ESSA Summer School 2023 on "Agent-based modelling for social scientists"; Alan Turing Institute PhD Enrichment Scheme 2024'
-          - name: Yunbei Ou
+          - name: Dr Yunbei Ou
             slug: yunbei-ou
-            desc: PhD in Urban Studies, SGSSS Steers PhD Studentship (2022–2026); third supervisor, with Prof. Nick Bailey and Dr David McArthur. Thesis&#58; <em>Assessing the housing market incentives from residential building energy efficiency regulations</em>
+            photo: /assets/img/people/yunbei-ou.jpg
+            desc: PhD in Urban Studies, SGSSS Steers PhD Studentship (2022–2026); third supervisor, with Prof. Nick Bailey and Dr David McArthur. Thesis&#58; <a href="https://theses.gla.ac.uk/86042/"><em>Assessing the housing market incentives from residential building energy efficiency regulations</em></a> — now Research Assistant in the lab
             note: 'Awards&#58; Alan Turing Institute Data Study Group 2023; Alan Turing Institute PhD Enrichment Scheme 2024. Intern&#58; Sensor Enhanced Housing Survey and 3D City Modeling'
       - title: MSc Students and Research Assistants
         members:
@@ -142,13 +154,14 @@ sections:
             desc: Glasgow Urban Analytics, COVID-19 Mobility Study (2019–2020) — now Environmental Science PhD at Central European University
           - name: Mohd Sarim
             slug: mohd-sarim
+            photo: /assets/img/people/mohd-sarim.jpg
             url: https://www.linkedin.com/in/mohd-sarim-2296851a8/
             desc: Glasgow Urban Analytics, COVID-19 Mobility Study (2019–2020) — now Urban Analytics PhD student at UBDC
       - title: Academic Visitors
         members:
-          - name: Mengdi Zhang
-            slug: mengdi-zhang
-            desc: Engineer, Natural Resources Comprehensive Survey Command Centre, China Geology Survey (2025–26)
+          - name: Rui Qiao
+            slug: rui-qiao
+            desc: PhD Student, Department of Building and Real Estate, the Hong Kong Polytechnic University (2026) — now back in Hong Kong
           - name: Qimin Cheng
             slug: qimin-cheng
             desc: Professor, School of Electronic Information and Communications, Huazhong University of Science and Technology (2024–25)
@@ -167,6 +180,7 @@ sections:
       - members:
           - name: Zixin Feng
             slug: zixin-feng
+            photo: /assets/img/people/zixin-feng.jpg
             desc: '[PySAL&#58; spopt development] Flow-based Facility Location Models (<a href="https://summerofcode.withgoogle.com/programs/2025/projects/rCb85IXn">project link</a>), Summer 2025'
           - name: Rongbo Xu
             slug: rongbo-xu

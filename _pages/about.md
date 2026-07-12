@@ -38,4 +38,4 @@ I joined Glasgow in May 2019 as a Lecturer, and was promoted to Senior Lecturer 
 
 **Service highlights:** Secretary of the [RGS-IBG Quantitative Methods Research Group](https://qmrg.github.io/about) (since 2021); [ESRC SDAI](https://www.ukri.org/opportunity/esrc-responsive-mode-secondary-data-analysis-round-two/) Grant Assessment Panel; Series Advisory Editor of the [Springer Urban Book Series](https://www.springer.com/series/14773); organiser/programme (co-)chair for [GISRUK 2023](https://gisruk.org/gisruk-2023/) (Glasgow), [CPGIS 2023](https://www.cpgis.org/Conferences/ConferenceDefault.aspx?ID=2079) (London), [GIScience 2023](https://giscience2023.github.io/) (Leeds), and [AGILE 2024](https://agile-gi.eu/conference-2024) (Glasgow).
 
-If you are interested in joining the lab, please see the [opportunities]({{ '/opportunities/' | relative_url }}) page.
+If you are interested in joining the lab, please see the [opportunities]({{ '/opportunities/' | relative_url }}) page. My full academic CV is available as a <a href="{{ '/assets/pdf/Qunshan_Zhao_CV.pdf' | relative_url }}">PDF</a>.

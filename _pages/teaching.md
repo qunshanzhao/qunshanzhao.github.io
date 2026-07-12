@@ -2,19 +2,31 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Courses I teach at the University of Glasgow, and the MSc in Urban Analytics.
+description: Courses I teach at the University of Glasgow, short courses and PhD schools, and the MSc in Urban Analytics.
 nav: true
 nav_order: 5
 ---
 
-## Course information
+## Courses at the University of Glasgow
 
-**Postgraduate**
+**Current**
 
-- Fall — [Big Data and Urban Analytics](https://www.gla.ac.uk/coursecatalogue/course/?code=URBAN5125)
-- Spring — [Urban Analytics Group Projects](https://www.gla.ac.uk/coursecatalogue/course/?code=URBAN5124)
-- Spring — [Programming Tools for Urban Analytics](https://www.gla.ac.uk/coursecatalogue/course/?code=URBAN5123) (course materials on [GitHub](https://github.com/qszhao/PTUA2026))
-- Advanced Topics for Urban Analytics (from 2026; course materials on [GitHub](https://github.com/qszhao/ATUA2026))
+- [Programming Tools for Urban Analytics](https://www.gla.ac.uk/coursecatalogue/course/?code=URBAN5123) — course convener, Spring, 2019–now (course materials on [GitHub](https://github.com/qszhao/PTUA2026))
+- Advanced Topics for Urban Analytics — course contributor, 2026–now (course materials on [GitHub](https://github.com/qszhao/ATUA2026))
+
+**Past**
+
+- [Urban Analytics Group Projects](https://www.gla.ac.uk/coursecatalogue/course/?code=URBAN5124) — course convener, Spring, 2019–2024
+- [Big Data and Urban Analytics](https://www.gla.ac.uk/coursecatalogue/course/?code=URBAN5125) — course convener/contributor, Fall, 2019–2022
+- Quantitative Data Analysis — course tutor, Fall 2019
+- Undergraduate (course contributor): Social & Public Policy 2B: Policy, Politics and Power (Spring, 2019–2023); Big Data, Policy & Power (Spring, 2021–2023)
+
+## Short courses & PhD schools
+
+- **AGILE PhD School 2026** — *Urban Analytics in the AI Era: From Smart Data to Participatory Action*, University of Glasgow, September 2026 (PI, funded with €5,000)
+- **Workshop: Introduction to Open-Source Spatial Optimization**, Aalto University, Finland, 2023 (materials on [GitHub](https://github.com/qszhao/Aalto2023-spopt))
+- **Aalto/Glasgow urban analytics open-source programming camp**, 2022–2024 — Turing Scheme-funded study visits to Aalto University for 12 MSc students (PI; see the [study visit blog](https://www.ubdc.ac.uk/news/msc-in-urban-analytics-study-visit-to-aalto-university-in-finland))
+- **GIS 461/561: Optimization Fundamentals for Spatial Analysis**, Arizona State University, Spring 2017 (hybrid course instructor)
 
 ## MSc in Urban Analytics
 
@@ -24,39 +36,29 @@ Around the world, city governments are realising the growing importance of harne
 
 Career opportunities include positions in government agencies, urban planning organisations, city governments, public health boards, retail business, real estate companies, transport and other private consulting firms, as well as non-profit organisations.
 
-### Required core courses + MSc dissertation
+### Core courses
 
-**Urban science domain knowledge courses**
+- Big Data, AI & Urban Analytics
+- Principles and Applications of GIS
+- Programming Tools for Urban Analytics
+- Quantitative Data Analysis (Semester 1)
+- Urban Analytics Group Project\*
 
-- Big data and urban analytics
-- Sustainable urban futures
+### Optional courses
 
-**Data science skill-focused courses**
+- Advanced Topics for Urban Analytics
+- Digital Planning Systems and Tools
+- Fundamentals of Transport Studies
+- Smart Cities and Infrastructure
+- Sustainable Urban Futures\*
+- Statistical Methods for Transport Planning
+- Understanding Transport Choices
 
-- Programming tools for urban analytics
-- Principles and applications of GIS
-- Quantitative data analysis
+### Dissertation
 
-### Optional courses may include
+- MSc Dissertation Project (Urban Studies)
 
-**Urban Analytics**
-
-- Urban analytics group project
-- Programming with GIS
-- Location analysis and modeling (pending)
-- Quantitative data visualization (pending)
-
-**Urban Transport**
-
-- Transport studies
-- Transport planning methods
-- Transport planning lab
-
-**Urban Policy**
-
-- Evidence and evaluation for policy
-- Regenerating cities
-- Urban design policy and practice
+\* Programme structure is currently under review; proposed changes for September 2026 entry include making *Urban Analytics Group Project* a core course and *Sustainable Urban Futures* an optional course (subject to approval — see the [official programme page](https://www.gla.ac.uk/postgraduate/taught/urbananalytics/) for the up-to-date structure).
 
 ### English requirement
 

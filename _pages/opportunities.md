@@ -66,10 +66,6 @@ We are also more than happy to support your application to the [UKRI Future Lead
 - [PhD funding — a checklist of possible sources](https://career-advice.jobs.ac.uk/phd-studentship/phd-funding-a-checklist-of-possible-sources/) (jobs.ac.uk)
 - [RGS-IBG grants](https://www.rgs.org/in-the-field/in-the-field-grants/)
 
-## Urban Studies international exchange programme
-
-Urban and Regional Planning, [University of Glasgow–Nankai University Joint Graduate School](https://www.gla.ac.uk/study/nankai/); [Urban Management (城市管理)](https://zfxy.nankai.edu.cn/info/1478/6118.htm), University of Glasgow–Nankai University Undergraduate Exchange Program (inactive for now)
-
 ## REF results
 
-[2014 UK Research Excellence Framework (REF) results](https://www.timeshighereducation.com/sites/default/files/Attachments/2014/12/17/x/o/z/sub-14-01.pdf): Urban Studies is ranked joint #1 in the UK in the area of Architecture, Built Environment and Planning.
+[2021 UK Research Excellence Framework (REF) results](https://results2021.ref.ac.uk/profiles/units-of-assessment/13): 96% of the University of Glasgow's research in Unit of Assessment 13 — Architecture, Built Environment and Planning, where Urban Studies is submitted — was rated world-leading (4*: 41%) or internationally excellent (3*: 55%).
