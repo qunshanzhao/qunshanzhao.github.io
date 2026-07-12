@@ -51,3 +51,22 @@ nav_order: 3
 ---
 
 **Prospective members:** funded PhD and postdoc opportunities, application routes, and topic ideas are listed on the [opportunities]({{ '/opportunities/' | relative_url }}) page.
+
+<script>
+  (function () {
+    function jump() {
+      var id = decodeURIComponent(location.hash.slice(1));
+      if (!id) return;
+      var el = document.getElementById(id);
+      if (!el) return;
+      el.scrollIntoView({ block: 'start' });
+      el.style.transition = 'background-color 0.4s';
+      el.style.borderRadius = '8px';
+      el.style.backgroundColor = 'rgba(180, 30, 120, 0.14)';
+      setTimeout(function () { el.style.backgroundColor = 'transparent'; }, 2200);
+    }
+    document.addEventListener('DOMContentLoaded', jump);
+    window.addEventListener('load', function () { setTimeout(jump, 150); });
+    window.addEventListener('hashchange', jump);
+  })();
+</script>
