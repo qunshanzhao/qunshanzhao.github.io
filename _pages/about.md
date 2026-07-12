@@ -38,7 +38,7 @@ I joined Glasgow in May 2019 as a Lecturer, and was promoted to Senior Lecturer 
 
 **Service highlights:** Secretary of the [RGS-IBG Quantitative Methods Research Group](https://qmrg.github.io/about) (since 2021); [ESRC SDAI](https://www.ukri.org/opportunity/esrc-responsive-mode-secondary-data-analysis-round-two/) Grant Assessment Panel; Series Advisory Editor of the [Springer Urban Book Series](https://www.springer.com/series/14773); organiser/programme (co-)chair for [GISRUK 2023](https://gisruk.org/gisruk-2023/) (Glasgow), [CPGIS 2023](https://www.cpgis.org/Conferences/ConferenceDefault.aspx?ID=2079) (London), [GIScience 2023](https://giscience2023.github.io/) (Leeds), and [AGILE 2024](https://agile-gi.eu/conference-2024) (Glasgow).
 
-## More about me
+## Beyond research
 
 I was born in a small mountainous town in Southeast China. When I was young, I was amazed by the succinctness of maths and physics, the power of computer programming, and the imagination of astronomy and geography. I then moved to Wuhan and spent four years at Wuhan University for my undergraduate engineering degree in Remote Sensing, building a comprehensive understanding of remote sensing, photogrammetry, and geographic information systems — while also taking optional courses in social science and the humanities (history and philosophy) to broaden my understanding of the world. I still remember how excited I was in my junior year when I first read a conference proceeding (《空间综合人文学与社会科学研究》) about using GIScience to tackle social science and humanities problems. That made me decide to pursue this direction in my career.
 

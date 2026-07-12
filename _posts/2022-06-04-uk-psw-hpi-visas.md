@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Some Thoughts on the UK PSW and HPI Visas"
+date: 2022-06-04
+description: "What the Graduate (PSW) route and the new High Potential Individual visa actually offer — and who they are really for."
+tags: uk visa career
+related_posts: false
+---
+
+> Translated from my original Chinese post on [Zhihu](https://zhuanlan.zhihu.com/p/524359148) (published June 2022). 中文原文请见知乎。
+
+The UK recently opened applications for the new High Potential Individual (HPI) visa, which drew plenty of attention from UK-focused social media accounts and the press. The list of qualifying universities has been much discussed (and mocked). I initially thought the policy would not attract many people, but recently I saw several threads about this visa while browsing 1point3acres, so here are some quick thoughts.
+
+The HPI visa is essentially an international version of the PSW visa. First, the PSW. The PSW visa was scrapped by Theresa May about a decade ago; it was roughly a British version of an unrestricted OPT: graduates of UK bachelor's, master's, or doctoral programmes could work legally for 2 years (3 years for PhDs) in any kind of job — at the extreme, you could spend two years waiting tables or running your own business. You do not need a job to apply — graduating is enough. It cannot be counted towards (five-year) settlement (the ten-year route should still count it), and it cannot be extended. If you want to stay and work beyond the 2–3 years, you need to switch to a regular work visa such as Tier 2 or the Global Talent Visa (the old Tier 1). In short, it is one of the UK's post-Brexit measures to skim off talent.
+
+The HPI extends the PSW idea to top universities worldwide: graduates from the past five years (in practice six years of rankings) of universities on a UK government list can apply. UK universities are not on the list (their graduates already have the PSW, whether the school ranks in the top ten or the hundreds). The list changes a bit across those five–six years; the universally recognised world top 30 are all on it, while schools ranked around 40–50 fluctuate. Because eligibility requires being in the top 50 of at least two of the three major world rankings (QS, THE, ARWU — I am not entirely sure), the list clearly favours universities in English-speaking countries (the US, Australia, Canada, and so on). Many excellent European universities are missing (roughly only Switzerland's top two and a few in Germany, France, and Sweden make it — the absence of the Netherlands strikes me as absurd), and it is unfriendly to schools with top subject rankings but lower overall rankings. From Asia, the list includes mainland China's top two, Singapore's top two, HKU (HKUST some years), and the Universities of Tokyo and Kyoto. Like the PSW, the HPI itself cannot lead to settlement and cannot be extended — somewhat like the Dutch "search year" visa.
+
+The visa homepage is here: [High Potential Individual (HPI) visa](https://www.gov.uk/high-potential-individual-visa). The rankings/eligibility are here: [HPI visa eligibility](https://www.gov.uk/government/publications/high-potential-individual-visa-global-universities-list).
+
+Personally, I think the PSW and HPI are clearly good news for students who want to stay in the UK: more time to find a job, and the option to land in the UK directly from another country and start working. Many UK government jobs and smaller companies are reluctant to sponsor Tier 2; these visas provide a transition — two or three years to build UK work experience and try out life here, while looking for a sponsored route to settlement. In my own master's programme this year, one student got a data-focused role with the Scottish Government before even graduating and used the PSW to take it up. He told me that without the PSW, the role simply could not have been offered to him.
+
+The UK job market is of course much smaller. Finance is the mainstay; in IT, beyond branches of the US giants there are some smaller firms, and data science jobs are plentiful. Manufacturing is limited — Rolls-Royce, Dyson, ARM, some carmakers (Aston Martin, Jaguar) — plus pharma (GSK, AstraZeneca). Universities also offer plenty of jobs, and people are beginning to use this visa to recruit short-term research and teaching staff from abroad.
+
+For PhD holders the visa is not hugely attractive: if you are doing a postdoc, the Global Talent Visa or Tier 2 route works fine without the extra hassle. I think the PSW matters far more than the HPI: if you have already studied in the UK for a few years, staying another two is familiar and convenient. The HPI, by contrast, means arriving from another country — and mostly from the world's top universities, whose graduates can certainly find good jobs at home. Without prior UK study or networks, coming over for a two-year stint of work and life is no small challenge; and many people only consider the UK once they already have a job offer and work-visa sponsorship. As for how effective the HPI proves, we can wait for next year's official statistics to see how many people actually applied.
+
+Since Brexit, students and migrants from Europe have plummeted. Attracting high-skilled talent is certainly a good move — but how to replace the basic labour force that used to come from Eastern and Southern Europe will be a long-term problem.
