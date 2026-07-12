@@ -43,6 +43,7 @@ sections:
         members:
           - name: Siqi Jia
             slug: siqi-jia
+            photo: /assets/img/people/siqi-jia.jpg
             desc: Research Assistant Professor, Division of Landscape Architecture, the University of Hong Kong (2026)
           - name: Jiameng Hu
             slug: jiameng-hu
@@ -150,6 +151,7 @@ sections:
             desc: UCL Urban Analytics, AGILE open-source location allocation modeling (2023) — now Associate Data Engineer at Vortexa
           - name: Samuel Honle
             slug: samuel-honle
+            photo: /assets/img/people/samuel-honle.jpg
             url: https://www.linkedin.com/in/samuelhoenle/
             desc: Glasgow Urban Analytics, Urban Cycling Analysis (2022) — now Junior Research Engineer at the Austrian Institute of Technology
           - name: Reka Vonnak
@@ -169,6 +171,7 @@ sections:
             desc: PhD Student, Department of Building and Real Estate, the Hong Kong Polytechnic University (2026) — now back in Hong Kong
           - name: Qimin Cheng
             slug: qimin-cheng
+            photo: /assets/img/people/qimin-cheng.jpg
             desc: Professor, School of Electronic Information and Communications, Huazhong University of Science and Technology (2024–25)
           - name: Zhenfeng Shao
             slug: zhenfeng-shao

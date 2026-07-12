@@ -18,7 +18,7 @@ See the [publications]({{ '/publications/' | relative_url }}) page for related p
   <a href="{{ '/people/' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/andre-kurniawan.svg' | relative_url }}" alt="Andre Kurniawan" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Andre Kurniawan</span></a>
   <a href="{{ '/people/' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/michael-sinclair.jpg' | relative_url }}" alt="Michael Sinclair" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Michael Sinclair</span></a>
   <a href="{{ '/people/' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/saeed-maadi.svg' | relative_url }}" alt="Saeed Maadi" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Saeed Maadi</span></a>
-  <a href="{{ '/people/' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/samuel-honle.svg' | relative_url }}" alt="Samuel Honle" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Samuel Honle</span></a>
+  <a href="{{ '/people/' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/samuel-honle.jpg' | relative_url }}" alt="Samuel Honle" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Samuel Honle</span></a>
 </div>
 
 ## Key publications
