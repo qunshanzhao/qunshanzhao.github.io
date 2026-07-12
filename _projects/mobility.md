@@ -2,6 +2,7 @@
 layout: page
 title: Urban mobility, EV & transport analytics
 description: High-resolution traffic flow, electric vehicle behaviour, e-scooters and shared mobility — analysed with agent-based and reinforcement-learning models.
+img: assets/img/projects/mobility.png
 importance: 5
 ---
 

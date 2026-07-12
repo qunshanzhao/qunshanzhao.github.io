@@ -2,6 +2,7 @@
 layout: page
 title: GeoAI & foundation models for cities
 description: Zero-shot urban prediction, remote-sensing captioning, and large-scale 3D city modelling from airborne LiDAR.
+img: assets/img/projects/geoai.png
 importance: 6
 ---
 

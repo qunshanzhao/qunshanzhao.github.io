@@ -2,6 +2,7 @@
 layout: page
 title: Urban heat & indoor climate vulnerability
 description: How people experience extreme heat indoors and outdoors — sensor-enhanced housing surveys and citywide thermal stress mapping in London and Glasgow.
+img: assets/img/projects/urban-heat.png
 importance: 1
 ---
 

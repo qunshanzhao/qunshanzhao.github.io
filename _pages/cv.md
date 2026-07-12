@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 8
-description: a short academic timeline — the full CV is available as a PDF.
+description: A short academic timeline — the full CV is available as a PDF.
 ---
 
-<a href="{{ '/assets/pdf/Qunshan_Zhao_CV.pdf' | relative_url }}" class="btn btn-primary" role="button">Download full CV (PDF, Aug 2025)</a>
+<a href="{{ '/assets/pdf/Qunshan_Zhao_CV.pdf' | relative_url }}" style="display:inline-block;padding:0.5rem 1.1rem;border:1.5px solid currentColor;border-radius:0.5rem;font-weight:600;text-decoration:none;">Download full CV (PDF)</a>
 
 ## Appointments
 

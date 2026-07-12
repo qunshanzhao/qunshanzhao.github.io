@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /opportunities/
-title: opportunities
+title: Opportunities
 description: PhD, postdoc, and visiting student/scholar openings in the Urban Sensing & Analytics Lab.
 nav: true
 nav_order: 4

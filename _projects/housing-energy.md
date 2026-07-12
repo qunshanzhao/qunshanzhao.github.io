@@ -2,6 +2,7 @@
 layout: page
 title: Housing energy efficiency & fuel poverty
 description: EPC and emerging urban big data, deep learning, and willingness-to-pay evidence on energy-efficient homes and fuel poverty.
+img: assets/img/projects/housing-energy.png
 importance: 4
 ---
 

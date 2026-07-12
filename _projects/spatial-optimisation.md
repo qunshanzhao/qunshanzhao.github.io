@@ -2,6 +2,7 @@
 layout: page
 title: Spatial optimisation & open-source methods
 description: Location–allocation and other spatial optimisation methods for urban infrastructure, shipped as open-source software in PySAL/spopt.
+img: assets/img/projects/spatial-optimisation.png
 importance: 3
 ---
 

@@ -2,6 +2,7 @@
 layout: page
 title: Informal settlement mapping & Global South EO
 description: Earth observation, machine learning and community knowledge to map informal settlements and urban deprivation — IDEAMaps work in Nairobi, Lagos and Kano.
+img: assets/img/projects/informal-settlements.png
 importance: 2
 ---
 

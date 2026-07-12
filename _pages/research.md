@@ -1,8 +1,8 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
-description: current research themes in the Urban Sensing & Analytics Lab. Publications for each theme are on the <a href="/publications/">publications</a> page.
+description: Current research themes in the Urban Sensing & Analytics Lab — publications for each theme are on the publications page.
 nav: true
 nav_order: 1
 horizontal: false

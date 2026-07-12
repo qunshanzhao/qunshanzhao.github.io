@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: >
   Professor of Urban Analytics · Deputy Director, <a href="https://www.ubdc.ac.uk/">Urban Big Data Centre</a> · University of Glasgow

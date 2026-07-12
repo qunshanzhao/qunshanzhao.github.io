@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: courses I teach at the University of Glasgow, and the MSc in Urban Analytics.
+title: Teaching
+description: Courses I teach at the University of Glasgow, and the MSc in Urban Analytics.
 nav: true
 nav_order: 5
 ---
