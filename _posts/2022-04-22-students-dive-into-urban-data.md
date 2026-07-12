@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: "Urban Analytics students dive into urban data"
 date: 2022-04-22
 description: "Four of our MSc in Urban Analytics students took part in the Centre for Urban Science and Progress London (CUSP London) Data Dive on 4-7 April with the theme of Working Towards Healthier Cities. As you can imagine, it..."

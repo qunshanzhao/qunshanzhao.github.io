@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: "Reviewing the reproducibility of research at AGILE PhD School"
 date: 2022-09-01
 description: "Three of our PhD students recently participated in the AGILE PhD School - a forum for the next generation of scientists and research leaders to develop their networks and exchange ideas."

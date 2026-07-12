@@ -68,7 +68,7 @@
         {%- endif -%}
       {%- endfor -%}
       {%- if self_index >= author_array_limit -%}
-        {%- assign author_array_limit = author_array_limit | minus: 1 -%}
+        {%- assign author_array_limit = self_index | plus: 1 -%}
       {%- endif -%}
 
       {%- for author in entry.author_array limit: author_array_limit -%}
@@ -106,7 +106,7 @@
           {%- if coauthor_url -%}
             {%- assign co_slug = coauthor_url | split: '#' | last -%}
             {%- if phd_slugs contains co_slug -%}
-              <a href="{{ coauthor_url }}" style="color: #0ca678">
+              <a href="{{ coauthor_url }}" style="color: #087f5b">
                 {{- author.first }}
                 {{ author_last_html -}}
               </a>
@@ -122,16 +122,7 @@
           {% endif %}
         {%- endif -%}
       {% endfor %}
-      {%- if self_index >= author_array_limit and self_index > -1 -%}
-        {%- assign self_author = entry.author_array[self_index] -%}
-        {%- assign self_last_html = self_author.last | regex_replace: '([*∗†‡§¶‖&^]+)', '<sup>\1</sup>' -%}
-        , &hellip;,
-        <em>{{ self_author.first }} {{ self_last_html }}</em>
-      {%- endif -%}
       {%- assign more_authors = author_array_size | minus: author_array_limit -%}
-      {%- if self_index >= author_array_limit and self_index > -1 -%}
-        {%- assign more_authors = more_authors | minus: 1 -%}
-      {%- endif -%}
 
       {%- assign more_authors_hide = more_authors | append: ' more author' -%}
       {% if more_authors > 0 %}
@@ -140,10 +131,7 @@
         {%- endif -%}
         {% assign more_authors_show = '' %}
         {%- for author in entry.author_array offset: author_array_limit -%}
-          {%- assign a_idx = forloop.index0 | plus: author_array_limit -%}
-          {%- unless a_idx == self_index -%}
-            {%- assign more_authors_show = more_authors_show | append: author.first | append: ' ' | append: author.last | append: ', ' -%}
-          {%- endunless -%}
+          {%- assign more_authors_show = more_authors_show | append: author.first | append: ' ' | append: author.last | append: ', ' -%}
         {%- endfor -%}
         {%- assign more_authors_show = more_authors_show | regex_replace: ', $', '' -%}
         {%- assign more_authors_show = more_authors_show | regex_replace: '([*∗†‡§¶‖&^]+)', '<sup>\1</sup>' -%}

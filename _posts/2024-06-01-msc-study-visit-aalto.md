@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: "MSc in Urban Analytics study visit to Aalto University in Finland"
 date: 2024-06-01
 description: "Reposted from the Urban Big Data Centre blog."

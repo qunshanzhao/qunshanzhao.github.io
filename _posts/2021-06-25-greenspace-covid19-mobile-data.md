@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: "Are we visiting greenspace differently during the COVID-19 pandemic?"
 date: 2021-06-25
 description: "Engagement with natural areas has increased during the COVID-19 pandemic, which may well form one of the enduring legacies of this time."

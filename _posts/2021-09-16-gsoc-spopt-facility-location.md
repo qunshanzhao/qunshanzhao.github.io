@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: "A summer of Python coding — open-source facility location modelling (spopt) development"
 date: 2021-09-16
 description: "Since its launch in 2005, the Google Summer of Code programme has introduced over 16,000 students to open-source software development."

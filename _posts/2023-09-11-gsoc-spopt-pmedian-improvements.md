@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: "Improving the P-Median model with capacity and near-far cost allocation in spopt"
 date: 2023-09-11
 description: "Reposted from the Urban Big Data Centre blog."

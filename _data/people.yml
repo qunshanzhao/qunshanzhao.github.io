@@ -119,6 +119,7 @@ sections:
           - name: Dr Zixin Feng
             slug: zixin-feng
             photo: /assets/img/people/zixin-feng.jpg
+            url: https://www.linkedin.com/in/zixinfeng/
             desc: PhD in Urban Studies, University of Glasgow China Scholarship Council PhD Studentship (2022–2026); first supervisor, with Prof. Alison Heppenstall. Thesis&#58; <strong><em>Exploring the Use of Agent-based Models for Electric Vehicle Driver Behaviour Simulation</em></strong> — now Research Fellow in Agent-based Modelling, University of Leeds
             note: 'Awards&#58; Alan Turing Institute Data Study Group 2023; BEHAVE ESSA Summer School 2023 on "Agent-based modelling for social scientists"; Alan Turing Institute PhD Enrichment Scheme 2024'
           - name: Dr Yunbei Ou
@@ -183,16 +184,17 @@ sections:
           - name: Pengyu Wang
             slug: pengyu-wang
             desc: Master of Science in Geo-information Science and Earth Observation, University of Twente (2024)
-          - name: Prof Li Tian
+          - name: Dr Li Tian
             slug: li-tian
             desc: Associate Professor, Institute of Geographic Science and Natural Resources, Chinese Academy of Sciences (2023)
 
   - title: Google Summer of Code Students
     groups:
       - members:
-          - name: Zixin Feng
+          - name: Dr Zixin Feng
             slug: zixin-feng
             photo: /assets/img/people/zixin-feng.jpg
+            url: https://www.linkedin.com/in/zixinfeng/
             desc: '[PySAL&#58; spopt development] Flow-based Facility Location Models (<a href="https://summerofcode.withgoogle.com/programs/2025/projects/rCb85IXn">project link</a>), Summer 2025'
           - name: Rongbo Xu
             slug: rongbo-xu
