@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Open data release: [sensor-enhanced housing survey data for urban heat investigation in Southwark, London](https://doi.org/10.5281/zenodo.14444475) (Zenodo), with analysis code on [GitHub](https://github.com/qszhao/SensorEnhancedSurveyHeatInvestigation).
+Open data release: [sensor-enhanced housing survey data for urban heat investigation in Southwark, London](https://doi.org/10.5281/zenodo.14444475) (Zenodo), built with lab members **Congying Hu**, **Yunbei Ou** and **Mingkang Wang** — analysis code on [GitHub](https://github.com/qszhao/SensorEnhancedSurveyHeatInvestigation).

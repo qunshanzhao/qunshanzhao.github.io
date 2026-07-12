@@ -46,6 +46,18 @@ A selection of recorded talks and seminars:
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:22px;margin-top:14px;">
   <div>
     <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
+      <iframe src="https://www.youtube-nocookie.com/embed/Mdm3oCl3rEU?start=2409" title="Understanding Cities by Urban Sensing and Analytics — CPGIS Educational Webinar Series, March 2024" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+    </div>
+    <p style="margin:8px 0 0;font-size:0.95em;">Understanding Cities by Urban Sensing and Analytics — CPGIS Educational Webinar Series (2024)</p>
+  </div>
+  <div>
+    <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
+      <iframe src="https://www.youtube-nocookie.com/embed/u9EOdfe82Gs" title="spopt capacitated p-median demo — AGILE funding initiative" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+    </div>
+    <p style="margin:8px 0 0;font-size:0.95em;">Demo: capacitated p-median in spopt — AGILE funding initiative (2023)</p>
+  </div>
+  <div>
+    <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
       <iframe src="https://www.youtube-nocookie.com/embed/iQPXM-57BkM" title="Towards Urban Analytics 2.0" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
     </div>
     <p style="margin:8px 0 0;font-size:0.95em;">Towards Urban Analytics 2.0</p>

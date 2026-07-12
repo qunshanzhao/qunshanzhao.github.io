@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper in *Scientific Data*: [High-resolution traffic flow data from the urban traffic control system in Glasgow](https://doi.org/10.1038/s41597-025-04494-y).
+New paper in *Scientific Data*, led by lab PhD student **Yue Li**: [High-resolution traffic flow data from the urban traffic control system in Glasgow](https://doi.org/10.1038/s41597-025-04494-y).
