@@ -28,3 +28,52 @@ horizontal: false
   </div>
   {% endif %}
 </div>
+
+## Research talks
+
+A selection of recorded talks and seminars:
+
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:22px;margin-top:14px;">
+  <div>
+    <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
+      <iframe src="https://www.youtube-nocookie.com/embed/iQPXM-57BkM" title="Towards Urban Analytics 2.0" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+    </div>
+    <p style="margin:8px 0 0;font-size:0.95em;">Towards Urban Analytics 2.0</p>
+  </div>
+  <div>
+    <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
+      <iframe src="https://www.youtube-nocookie.com/embed/rJT6h267IBo" title="MoHeap 2021 — Workshop on Mobility, Health, and Place, University of Zurich" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+    </div>
+    <p style="margin:8px 0 0;font-size:0.95em;">MoHeap 2021 — Workshop on Mobility, Health, and Place, University of Zurich</p>
+  </div>
+  <div>
+    <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
+      <iframe src="https://www.youtube-nocookie.com/embed/N17ehdINW88" title="Brown Bag Seminar Series — Geographic Data Science Lab, University of Liverpool" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+    </div>
+    <p style="margin:8px 0 0;font-size:0.95em;">Brown Bag Seminar Series — Geographic Data Science Lab, University of Liverpool</p>
+  </div>
+  <div>
+    <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
+      <iframe src="https://www.youtube-nocookie.com/embed/tKYkbKpNPDY" title="Articulating strategies to address heat resilience — Geography, Life, and Data" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+    </div>
+    <p style="margin:8px 0 0;font-size:0.95em;">Articulating strategies to address heat resilience — Geography, Life, and Data</p>
+  </div>
+  <div>
+    <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
+      <iframe src="https://www.youtube-nocookie.com/embed/Kp_XmAXIhWw" title="An exploration of fuel poverty in the private rental housing market — UBDC" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+    </div>
+    <p style="margin:8px 0 0;font-size:0.95em;">An exploration of fuel poverty in the private rental housing market — UBDC</p>
+  </div>
+  <div>
+    <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
+      <iframe src="https://www.youtube-nocookie.com/embed/CEo5vh9BkL4" title="Introduction to Adzuna job market data — UBDC" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+    </div>
+    <p style="margin:8px 0 0;font-size:0.95em;">Introduction to Adzuna job market data — UBDC</p>
+  </div>
+  <div>
+    <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
+      <iframe src="https://www.youtube-nocookie.com/embed/-OWdtLpHko0" title="GISRUK 2020 — Fuel Poverty and Income Deprivation in Bristol, UK" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+    </div>
+    <p style="margin:8px 0 0;font-size:0.95em;">GISRUK 2020 — Fuel Poverty and Income Deprivation in Bristol, UK</p>
+  </div>
+</div>

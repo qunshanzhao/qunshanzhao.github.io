@@ -32,6 +32,10 @@ nav_order: 5
 
 We aim to educate the next generation of urban data analysts/scientists!
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;max-width:720px;margin:10px 0 18px;">
+  <iframe src="https://www.youtube-nocookie.com/embed/d_wWTkNfCNI" title="Urban Analytics MSc — University of Glasgow" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>
+
 Around the world, city governments are realising the growing importance of harnessing the power of urban big data. This programme will provide you with the knowledge and skills to design and conduct appropriate analyses, and experience of working with cutting-edge datasets.
 
 Career opportunities include positions in government agencies, urban planning organisations, city governments, public health boards, retail business, real estate companies, transport and other private consulting firms, as well as non-profit organisations.

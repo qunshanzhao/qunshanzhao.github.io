@@ -95,6 +95,7 @@ sections:
         members:
           - name: Niantang Liu
             slug: niantang-liu
+            photo: /assets/img/people/niantang-liu.jpg
             desc: PhD in Geological and Earth Sciences/Geosciences (2019–2024); second supervisor, with Dr Brian Barrett and Dr Richard Williams. Thesis&#58; <a href="https://theses.gla.ac.uk/84306/"><em>Crop mapping using deep learning and multi-source satellite remote sensing</em></a> — now Assistant Research Fellow in the Chinese Academy of Agricultural Sciences
           - name: Henry Ibitolu
             slug: henry-ibitolu
@@ -150,6 +151,7 @@ sections:
             desc: Glasgow Urban Analytics, Urban Cycling Analysis (2022) — now Junior Research Engineer at the Austrian Institute of Technology
           - name: Reka Vonnak
             slug: reka-vonnak
+            photo: /assets/img/people/reka-vonnak.jpg
             url: https://www.linkedin.com/in/reka-vonnak/
             desc: Glasgow Urban Analytics, COVID-19 Mobility Study (2019–2020) — now Environmental Science PhD at Central European University
           - name: Mohd Sarim
