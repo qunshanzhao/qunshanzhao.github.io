@@ -21,7 +21,7 @@
   }
 </style> <link rel="stylesheet" href="/assets/css/tailwind.css?v=50c64c15cbb9fd1ce6056fdb8bcb4b62"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/css/all.min.css" integrity="sha256-MVopmdyC2tYTiJ8wlktf0uh0v4NgT+vNdyVFepi7Q0c=" crossorigin="anonymous"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.5/css/academicons.min.css" integrity="sha256-SzrCOBJbGVFMahewkgjwnApaV2+av1DwMAA+/QGLyZw=" crossorigin="anonymous"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/scholar-icons@1.0.3/css/scholar-icons.css" integrity="sha256-VY3hHVj/hNX3fYG6wtbA6TcKJQl7+FthzGSyIB64klY=" crossorigin="anonymous"> <link defer rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&amp;display=swap"> <link defer rel="stylesheet" href="/assets/css/jekyll-pygments-themes-github.css?v=591dab5a4e56573bf4ef7fd332894c99" media="" id="highlight_theme_light"> <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%F0%9F%8F%99%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;"> <link rel="stylesheet" href="/assets/css/main.css?v=f0b101217084a90093badfe99ff9a7d1"> <link rel="canonical" href="https://qunshanzhao.github.io/blog/2021/gsoc-spopt-facility-location/"> <script src="/assets/js/theme.js?v=7af685e2ba20b37fef545c97b8064050"></script> <link defer rel="stylesheet" href="/assets/css/jekyll-pygments-themes-native.css?v=5847e5ed4a4568527aa6cfab446049ca" media="none" id="highlight_theme_dark"> <script>
     initTheme();
-  </script> </head> <body class="fixed-top-nav "> <header> <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top" role="navigation"> <div class="container"> <a class="navbar-brand title font-weight-lighter" href="/"> <span class="font-weight-bold">Qunshan</span> Zhao </a> <button class="navbar-toggler collapsed navbar-toggler-main" type="button" data-nav-toggle="navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button> <div class="collapse navbar-collapse navbar-collapse-main" id="navbarNav"> <ul class="navbar-nav navbar-menu-list flex-nowrap"> <li class="nav-item "> <a class="nav-link" href="/">About </a> </li> <li class="nav-item "> <a class="nav-link" href="/research/">Research </a> </li> <li class="nav-item "> <a class="nav-link" href="/publications/">Publications </a> </li> <li class="nav-item "> <a class="nav-link" href="/people/">People </a> </li> <li class="nav-item "> <a class="nav-link" href="/opportunities/">Opportunities </a> </li> <li class="nav-item "> <a class="nav-link" href="/teaching/">Teaching </a> </li> <li class="nav-item "> <a class="nav-link" href="/news/">News </a> </li> <li class="nav-item "> <a class="nav-link" href="/opensource/">Open Source </a> </li> <li class="nav-item active"> <a class="nav-link" href="/blog/">Blog </a> </li> <li class="nav-item"> <button id="search-toggle" type="button" title="Search" aria-label="Open search"> <span class="nav-link">ctrl k <i class="fa-solid fa-magnifying-glass"></i></span> </button> </li> <li class="toggle-container"> <button id="light-toggle" type="button" title="Change theme" aria-label="Change color theme"> <i class="fa-half-sun-moon" id="light-toggle-system"></i> <i class="fa-solid fa-moon" id="light-toggle-dark"></i> <i class="fa-solid fa-sun" id="light-toggle-light"></i> </button> </li> </ul> </div> </div> </nav> <progress id="progress" value="0"> <div class="progress-container"> <span class="progress-bar"></span> </div> </progress> </header> <div class="container mt-5" role="main"> <div class="post"> <header class="post-header"> <h1 class="post-title">A summer of Python coding — open-source facility location modelling (spopt) development</h1> <p class="post-meta"> Created on September 16, 2021 </p> <p class="post-tags"> <a href="/blog/2021"> <i class="fa-solid fa-calendar fa-sm"></i> 2021 </a>   ·   <a href="/blog/tag/ubdc"> <i class="fa-solid fa-hashtag fa-sm"></i> ubdc</a>   <a href="/blog/tag/spopt"> <i class="fa-solid fa-hashtag fa-sm"></i> spopt</a>   <a href="/blog/tag/open-source"> <i class="fa-solid fa-hashtag fa-sm"></i> open-source</a>   <a href="/blog/tag/gsoc"> <i class="fa-solid fa-hashtag fa-sm"></i> gsoc</a> </p> </header> <article class="post-content"> <div id="markdown-content"> <blockquote> <p>Originally published on the Urban Big Data Centre blog on 16 September 2021 (by Germano Barcelos, James Gaboardi, Levi Wolf and Qunshan Zhao). The original page is no longer online — an <a href="https://web.archive.org/web/20210917123554/https://www.ubdc.ac.uk/news-media/2021/september/open-source-facility-location-modelling-spopt-development/" rel="external nofollow noopener" target="_blank">archived copy</a> is available on the Wayback Machine, including the figures omitted here.</p> </blockquote> <p><em>Since its launch in 2005, the Google Summer of Code programme has introduced over 16,000 students to open-source software development.</em></p> <p>This global initiative has partnered participants with 13,000 mentors from over 118 countries worldwide to work on a ten-week programming project. In 2021, Germano Barcelos worked with three mentors from <a href="https://github.com/pysal/pysal" rel="external nofollow noopener" target="_blank">PySAL</a> and <a href="https://numfocus.org/" rel="external nofollow noopener" target="_blank">NumFOCUS</a> to develop a facility location modelling module to optimally solve facility location problems under various distance metrics.</p> <p>In this blog, the <a href="#Team">project team</a> explain the four facility location models developed by Germano and share the future plans for this project.</p> <h3 id="background-to-the-project">Background to the project</h3> <p>Facility Location Modelling first appeared more than 100 years ago during the industrial revolution. Businesses needed to find the optimal locations to place factories to reduce logistical costs or build retail centres to generate more revenue from customers. Since then, researchers have developed coverage models to answer questions such as where to locate fire stations to fully cover the residential neighbourhoods within a given distance/time threshold or build a defined number of wireless towers to cover a certain percentage of the wireless communication network. Most facility location modelling problems have been formulated as mixed-integer programming problems. Given these problems are computationally difficult (NP-hard), they require the most powerful solvers from availing in Operations Research to find a solution in a tolerable period of time. Facility location modelling is also a geographical problem, so we need to work with spatial datasets such as road networks and polygon areas and use GIS to facilitate the data preparation, processing, storage, and visualisation.</p> <p>In one recent review paper, <a href="https://link.springer.com/article/10.1007%2Fs10109-021-00350-w" rel="external nofollow noopener" target="_blank">Chen et al. (2021)</a> discussed open source and proprietary software developed for facility location modelling (Location Set Covering Problem (LSCP) and Maximal Coverage Location Problem (MCLP)) including Microsoft Excel (FLP Solver), ArcGIS, R (Maxcovr), and Python (PySpatialOpt). The first two solutions are rooted in commercial software, using a heuristic approach to solve the MCLP and LSCP. Alternatively, Maxcovr and PySpatialOpt are based on open-source software (R/Python) and use an exact approach to solve the same models with generalised optimisation solvers. However, all these tools only provide very limited options for various metrics in the facility location modelling such as facility capacity, distance metrics, demand object shapes, demand weights, and solution approach. None of the software here can provide a single ‘one-stop’ open-source ecosystem to comprehensively address facility location modelling problems for the general users.</p> <p>During the Google Summer of Code 2021, Germano developed four facility location models including LSCP/MCLP/P-Center/P-Median models in the PySAL Spopt repository. More information about these models can be found in books by Church, R. L., &amp; Murray, A. T.: <a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9780470432761" rel="external nofollow noopener" target="_blank">Business Site Selection, Location Analysis and GIS</a> and <a href="https://www.springer.com/gp/book/9783319998459" rel="external nofollow noopener" target="_blank">Location covering models: History, applications and advancements</a>. All models are solved by using an exact approach with <a href="https://github.com/coin-or/pulp" rel="external nofollow noopener" target="_blank">PULP</a> and can compute distance matrices with different metrics, such as Euclidean and Manhattan. The module provides the objective values for each model. Furthermore, for the P-Median model, the module can compute the mean distance of the objective value and the MCLP module can compute the percentage of model coverage.</p> <h3 id="model-evaluation-and-validation">Model evaluation and validation</h3> <p>For validation purposes, we first tested the MCLP results with the same example in Chen et al. (2021). It used U.S. census tract centroids as demand points and 16 candidate store sites. The objective is to cover the maximum amount of demand points given the population in the 2000s for each demand point given that only 4 stores can be located within the area. The MCLP results are shown in Figure 1. The figure shows where stores are sited to cover the maximum population in census tracts. The percentage of demand points covered is 87.76% and 21 points are not covered by any of the stores (white dots in the figure).</p> <p>Figure 1. MCLP results from Pysal Spopt package (<a href="https://nbviewer.jupyter.org/github/pysal/spopt/blob/main/notebooks/mclp.ipynb" rel="external nofollow noopener" target="_blank">Jupyter Notebook example</a>).</p> <p>Moreover, we used the same dataset to solve the other three problems supported by the new module developed. Figure 2 represents the solution for the LSCP problem. The objective of this model is to minimize the number of facilities placed to cover all the demand points. Figure 2 shows that 8 facility sites must be placed to achieve full coverage.</p> <p>Figure 2. LSCP results from Pysal Spopt package (<a href="https://nbviewer.jupyter.org/github/pysal/spopt/blob/main/notebooks/lscp.ipynb" rel="external nofollow noopener" target="_blank">Jupyter Notebook example</a>).</p> <p>Figure 3 displays the P-Median problem example. This model aims to minimize the sum of the travel distances from demand to supply by locating a fixed number of facilities. We located 4 facilities in our example here. Besides that, the population in each centroid is the weight of the model. In the solution results, the mean distance is approximately 2982.13 meters.</p> <p>Figure 3. P-median results from Pysal Spopt package (<a href="https://nbviewer.jupyter.org/github/pysal/spopt/blob/main/notebooks/p-median.ipynb" rel="external nofollow noopener" target="_blank">Jupyter Notebook example</a>).</p> <p>Figure 4 displays the P-Center model that aims to minimize the maximum distance between a demand point and store site with a fixed number of stores to be placed. We located 4 facilities in our example here. The maximum distance of a demand point to a facility site in this solution is 7403.06 meters.</p> <p>Figure 4. P-Center results from Pysal Spopt package (<a href="https://nbviewer.jupyter.org/github/pysal/spopt/blob/main/notebooks/p-center.ipynb" rel="external nofollow noopener" target="_blank">Jupyter Notebook example</a>).</p> <h3 id="future-plans">Future plans</h3> <p>We plan in the future to add capacity constraints in models and aim to provide a polygon partial coverage, which is another feature that no library supports yet. Since this is an open-source project, feel free to contribute your code and raise issues at our <a href="https://github.com/pysal/spopt" rel="external nofollow noopener" target="_blank">GitHub repository</a>.</p> <p>Note: One thing to remember is the solver wrapper PULP used by our module as well as PySpatialOpt. PULP makes it possible to use many solvers like Gurobi, CPLEX, CBC, and other solvers if they are installed. Therefore, the module can be used to solve problems that require a large amount of resources.</p> <h3 id="final-thoughts-on-the-project-from-germano">Final thoughts on the project from Germano</h3> <p>“Before the start of the programme, I did not have any background on the facility location modelling topic and this inspired me to work hard to get a good understanding of it to develop the module. During the summer, working on an open-source project introduced me to a new world of developing tests and running them automatically using continuous integration and delivery (CI/CD) tools like GitHub Actions. Besides that, I managed to know how the open-source community works were marvellous. Furthermore, I have significantly improved my communication skills including how to elaborate what I was thinking objectively and discuss ideas with my mentors to solve the problems in the best way.”</p> <h3 id="project-team">Project Team</h3> <ul> <li> <p>Germano Barcelos, Universidade Federal de Viçosa, Brazil</p> </li> <li> <p>Dr James Gaboardi, Oak Ridge National Laboratory, USA</p> </li> <li> <p>Dr Levi John Wolf, School of Geographical Sciences, University of Bristol, UK</p> </li> <li> <p><a href="https://www.ubdc.ac.uk/about-ubdc/who-we-are/team-profiles/directors/qunshan-zhao/" rel="external nofollow noopener" target="_blank">Dr Qunshan Zhao</a>, UBDC and Urban Studies, University of Glasgow, UK</p> </li> </ul> </div> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Qunshan Zhao. Site content is licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="external nofollow noopener">CC BY 4.0</a>. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. </div> </footer> <script>
+  </script> </head> <body class="fixed-top-nav "> <header> <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top" role="navigation"> <div class="container"> <a class="navbar-brand title font-weight-lighter" href="/"> <span class="font-weight-bold">Qunshan</span> Zhao </a> <button class="navbar-toggler collapsed navbar-toggler-main" type="button" data-nav-toggle="navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button> <div class="collapse navbar-collapse navbar-collapse-main" id="navbarNav"> <ul class="navbar-nav navbar-menu-list flex-nowrap"> <li class="nav-item "> <a class="nav-link" href="/">About </a> </li> <li class="nav-item "> <a class="nav-link" href="/research/">Research </a> </li> <li class="nav-item "> <a class="nav-link" href="/publications/">Publications </a> </li> <li class="nav-item "> <a class="nav-link" href="/people/">People </a> </li> <li class="nav-item "> <a class="nav-link" href="/opportunities/">Opportunities </a> </li> <li class="nav-item "> <a class="nav-link" href="/teaching/">Teaching </a> </li> <li class="nav-item "> <a class="nav-link" href="/news/">News </a> </li> <li class="nav-item "> <a class="nav-link" href="/opensource/">Open Source </a> </li> <li class="nav-item active"> <a class="nav-link" href="/blog/">Blog <span class="sr-only">(current)</span> </a> </li> <li class="nav-item"> <button id="search-toggle" type="button" title="Search" aria-label="Open search"> <span class="nav-link">ctrl k <i class="fa-solid fa-magnifying-glass"></i></span> </button> </li> <li class="toggle-container"> <button id="light-toggle" type="button" title="Change theme" aria-label="Change color theme"> <i class="fa-half-sun-moon" id="light-toggle-system"></i> <i class="fa-solid fa-moon" id="light-toggle-dark"></i> <i class="fa-solid fa-sun" id="light-toggle-light"></i> </button> </li> </ul> </div> </div> </nav> <progress id="progress" value="0"> <div class="progress-container"> <span class="progress-bar"></span> </div> </progress> </header> <div class="container mt-5" role="main"> <div class="post"> <header class="post-header"> <h1 class="post-title">A summer of Python coding — open-source facility location modelling (spopt) development</h1> <p class="post-meta"> Created on September 16, 2021 </p> <p class="post-tags"> <a href="/blog/2021"> <i class="fa-solid fa-calendar fa-sm"></i> 2021 </a>   ·   <a href="/blog/tag/ubdc"> <i class="fa-solid fa-hashtag fa-sm"></i> ubdc</a>   <a href="/blog/tag/spopt"> <i class="fa-solid fa-hashtag fa-sm"></i> spopt</a>   <a href="/blog/tag/open-source"> <i class="fa-solid fa-hashtag fa-sm"></i> open-source</a>   <a href="/blog/tag/gsoc"> <i class="fa-solid fa-hashtag fa-sm"></i> gsoc</a> </p> </header> <article class="post-content"> <div id="markdown-content"> <blockquote> <p>Originally published on the Urban Big Data Centre blog on 16 September 2021 (by Germano Barcelos, James Gaboardi, Levi Wolf and Qunshan Zhao). The original page is no longer online — an <a href="https://web.archive.org/web/20210917123554/https://www.ubdc.ac.uk/news-media/2021/september/open-source-facility-location-modelling-spopt-development/" rel="external nofollow noopener" target="_blank">archived copy</a> is available on the Wayback Machine, including the figures omitted here.</p> </blockquote> <p><em>Since its launch in 2005, the Google Summer of Code programme has introduced over 16,000 students to open-source software development.</em></p> <p>This global initiative has partnered participants with 13,000 mentors from over 118 countries worldwide to work on a ten-week programming project. In 2021, Germano Barcelos worked with three mentors from <a href="https://github.com/pysal/pysal" rel="external nofollow noopener" target="_blank">PySAL</a> and <a href="https://numfocus.org/" rel="external nofollow noopener" target="_blank">NumFOCUS</a> to develop a facility location modelling module to optimally solve facility location problems under various distance metrics.</p> <p>In this blog, the <a href="#Team">project team</a> explain the four facility location models developed by Germano and share the future plans for this project.</p> <h3 id="background-to-the-project">Background to the project</h3> <p>Facility Location Modelling first appeared more than 100 years ago during the industrial revolution. Businesses needed to find the optimal locations to place factories to reduce logistical costs or build retail centres to generate more revenue from customers. Since then, researchers have developed coverage models to answer questions such as where to locate fire stations to fully cover the residential neighbourhoods within a given distance/time threshold or build a defined number of wireless towers to cover a certain percentage of the wireless communication network. Most facility location modelling problems have been formulated as mixed-integer programming problems. Given these problems are computationally difficult (NP-hard), they require the most powerful solvers from availing in Operations Research to find a solution in a tolerable period of time. Facility location modelling is also a geographical problem, so we need to work with spatial datasets such as road networks and polygon areas and use GIS to facilitate the data preparation, processing, storage, and visualisation.</p> <p>In one recent review paper, <a href="https://link.springer.com/article/10.1007%2Fs10109-021-00350-w" rel="external nofollow noopener" target="_blank">Chen et al. (2021)</a> discussed open source and proprietary software developed for facility location modelling (Location Set Covering Problem (LSCP) and Maximal Coverage Location Problem (MCLP)) including Microsoft Excel (FLP Solver), ArcGIS, R (Maxcovr), and Python (PySpatialOpt). The first two solutions are rooted in commercial software, using a heuristic approach to solve the MCLP and LSCP. Alternatively, Maxcovr and PySpatialOpt are based on open-source software (R/Python) and use an exact approach to solve the same models with generalised optimisation solvers. However, all these tools only provide very limited options for various metrics in the facility location modelling such as facility capacity, distance metrics, demand object shapes, demand weights, and solution approach. None of the software here can provide a single ‘one-stop’ open-source ecosystem to comprehensively address facility location modelling problems for the general users.</p> <p>During the Google Summer of Code 2021, Germano developed four facility location models including LSCP/MCLP/P-Center/P-Median models in the PySAL Spopt repository. More information about these models can be found in books by Church, R. L., &amp; Murray, A. T.: <a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9780470432761" rel="external nofollow noopener" target="_blank">Business Site Selection, Location Analysis and GIS</a> and <a href="https://www.springer.com/gp/book/9783319998459" rel="external nofollow noopener" target="_blank">Location covering models: History, applications and advancements</a>. All models are solved by using an exact approach with <a href="https://github.com/coin-or/pulp" rel="external nofollow noopener" target="_blank">PULP</a> and can compute distance matrices with different metrics, such as Euclidean and Manhattan. The module provides the objective values for each model. Furthermore, for the P-Median model, the module can compute the mean distance of the objective value and the MCLP module can compute the percentage of model coverage.</p> <h3 id="model-evaluation-and-validation">Model evaluation and validation</h3> <p>For validation purposes, we first tested the MCLP results with the same example in Chen et al. (2021). It used U.S. census tract centroids as demand points and 16 candidate store sites. The objective is to cover the maximum amount of demand points given the population in the 2000s for each demand point given that only 4 stores can be located within the area. The MCLP results are shown in Figure 1. The figure shows where stores are sited to cover the maximum population in census tracts. The percentage of demand points covered is 87.76% and 21 points are not covered by any of the stores (white dots in the figure).</p> <p>Figure 1. MCLP results from Pysal Spopt package (<a href="https://nbviewer.jupyter.org/github/pysal/spopt/blob/main/notebooks/mclp.ipynb" rel="external nofollow noopener" target="_blank">Jupyter Notebook example</a>).</p> <p>Moreover, we used the same dataset to solve the other three problems supported by the new module developed. Figure 2 represents the solution for the LSCP problem. The objective of this model is to minimize the number of facilities placed to cover all the demand points. Figure 2 shows that 8 facility sites must be placed to achieve full coverage.</p> <p>Figure 2. LSCP results from Pysal Spopt package (<a href="https://nbviewer.jupyter.org/github/pysal/spopt/blob/main/notebooks/lscp.ipynb" rel="external nofollow noopener" target="_blank">Jupyter Notebook example</a>).</p> <p>Figure 3 displays the P-Median problem example. This model aims to minimize the sum of the travel distances from demand to supply by locating a fixed number of facilities. We located 4 facilities in our example here. Besides that, the population in each centroid is the weight of the model. In the solution results, the mean distance is approximately 2982.13 meters.</p> <p>Figure 3. P-median results from Pysal Spopt package (<a href="https://nbviewer.jupyter.org/github/pysal/spopt/blob/main/notebooks/p-median.ipynb" rel="external nofollow noopener" target="_blank">Jupyter Notebook example</a>).</p> <p>Figure 4 displays the P-Center model that aims to minimize the maximum distance between a demand point and store site with a fixed number of stores to be placed. We located 4 facilities in our example here. The maximum distance of a demand point to a facility site in this solution is 7403.06 meters.</p> <p>Figure 4. P-Center results from Pysal Spopt package (<a href="https://nbviewer.jupyter.org/github/pysal/spopt/blob/main/notebooks/p-center.ipynb" rel="external nofollow noopener" target="_blank">Jupyter Notebook example</a>).</p> <h3 id="future-plans">Future plans</h3> <p>We plan in the future to add capacity constraints in models and aim to provide a polygon partial coverage, which is another feature that no library supports yet. Since this is an open-source project, feel free to contribute your code and raise issues at our <a href="https://github.com/pysal/spopt" rel="external nofollow noopener" target="_blank">GitHub repository</a>.</p> <p>Note: One thing to remember is the solver wrapper PULP used by our module as well as PySpatialOpt. PULP makes it possible to use many solvers like Gurobi, CPLEX, CBC, and other solvers if they are installed. Therefore, the module can be used to solve problems that require a large amount of resources.</p> <h3 id="final-thoughts-on-the-project-from-germano">Final thoughts on the project from Germano</h3> <p>“Before the start of the programme, I did not have any background on the facility location modelling topic and this inspired me to work hard to get a good understanding of it to develop the module. During the summer, working on an open-source project introduced me to a new world of developing tests and running them automatically using continuous integration and delivery (CI/CD) tools like GitHub Actions. Besides that, I managed to know how the open-source community works were marvellous. Furthermore, I have significantly improved my communication skills including how to elaborate what I was thinking objectively and discuss ideas with my mentors to solve the problems in the best way.”</p> <h3 id="project-team">Project Team</h3> <ul> <li> <p>Germano Barcelos, Universidade Federal de Viçosa, Brazil</p> </li> <li> <p>Dr James Gaboardi, Oak Ridge National Laboratory, USA</p> </li> <li> <p>Dr Levi John Wolf, School of Geographical Sciences, University of Bristol, UK</p> </li> <li> <p><a href="https://www.ubdc.ac.uk/about-ubdc/who-we-are/team-profiles/directors/qunshan-zhao/" rel="external nofollow noopener" target="_blank">Dr Qunshan Zhao</a>, UBDC and Urban Studies, University of Glasgow, UK</p> </li> </ul> </div> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Qunshan Zhao. Site content is licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="external nofollow noopener">CC BY 4.0</a>. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. </div> </footer> <script>
   window.alFolio = {
     compatBootstrap: false
   };
@@ -106,6 +106,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/five-years-uk-faculty/";
           
         },
+      },{id: "post-英国教职五年谈",
+        
+          title: "英国教职五年谈",
+        
+        description: "首发于知乎的中文原文;English version available.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/five-years-uk-faculty-zh/";
+          
+        },
       },{id: "post-msc-in-urban-analytics-study-visit-to-aalto-university-in-finland",
         
           title: "MSc in Urban Analytics study visit to Aalto University in Finland",
@@ -139,6 +150,17 @@ ninja.data = [{
             window.location.href = "/blog/2022/2022-year-in-review/";
           
         },
+      },{id: "post-2022年年终总结-新常态",
+        
+          title: "2022年年终总结：新常态",
+        
+        description: "首发于知乎的中文原文;English version available.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/2022-year-in-review-zh/";
+          
+        },
       },{id: "post-reviewing-the-reproducibility-of-research-at-agile-phd-school",
         
           title: "Reviewing the reproducibility of research at AGILE PhD School",
@@ -159,6 +181,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2022/uk-psw-hpi-visas/";
+          
+        },
+      },{id: "post-关于英国-psw-hpi-签证的一些讨论",
+        
+          title: "关于英国 PSW/HPI 签证的一些讨论",
+        
+        description: "首发于知乎的中文原文;English version available.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/uk-psw-hpi-visas-zh/";
           
         },
       },{id: "post-urban-analytics-students-dive-into-urban-data",
@@ -183,6 +216,17 @@ ninja.data = [{
             window.location.href = "/blog/2022/uk-global-talent-visa/";
           
         },
+      },{id: "post-关于英国全球英才签证-global-talent-visa-的一点想法",
+        
+          title: "关于英国全球英才签证 (Global Talent Visa) 的一点想法",
+        
+        description: "首发于知乎的中文原文;English version available.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/uk-global-talent-visa-zh/";
+          
+        },
       },{id: "post-2021-year-in-review-the-pandemic-research-interests-and-life",
         
           title: "2021 Year in Review: The Pandemic, Research Interests, and Life",
@@ -192,6 +236,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2022/2021-year-in-review/";
+          
+        },
+      },{id: "post-2021年年终总结-疫情-科研兴趣与生活",
+        
+          title: "2021年年终总结：疫情、科研兴趣与生活",
+        
+        description: "首发于知乎的中文原文;English version available.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/2021-year-in-review-zh/";
           
         },
       },{id: "post-a-summer-of-python-coding-open-source-facility-location-modelling-spopt-development",
@@ -216,6 +271,17 @@ ninja.data = [{
             window.location.href = "/blog/2021/glasgow-urban-data-science/";
           
         },
+      },{id: "post-英国格拉斯哥大学城市-地理-社会数据科学近期发展",
+        
+          title: "英国格拉斯哥大学城市/地理/社会数据科学近期发展",
+        
+        description: "首发于知乎的中文原文;English version available.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/glasgow-urban-data-science-zh/";
+          
+        },
       },{id: "post-are-we-visiting-greenspace-differently-during-the-covid-19-pandemic",
         
           title: "Are we visiting greenspace differently during the COVID-19 pandemic?",
@@ -238,6 +304,17 @@ ninja.data = [{
             window.location.href = "/blog/2021/gaokao-major-choice/";
           
         },
+      },{id: "post-高考报志愿随想和一些个人思考",
+        
+          title: "高考报志愿随想和一些个人思考",
+        
+        description: "首发于知乎的中文原文;English version available.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/gaokao-major-choice-zh/";
+          
+        },
       },{id: "post-covid-19-and-the-outlook-for-higher-education-in-the-uk-and-us",
         
           title: "COVID-19 and the Outlook for Higher Education in the UK and US",
@@ -249,6 +326,17 @@ ninja.data = [{
             window.location.href = "/blog/2020/covid19-higher-education/";
           
         },
+      },{id: "post-新冠疫情对英美高等教育的影响和展望",
+        
+          title: "新冠疫情对英美高等教育的影响和展望",
+        
+        description: "首发于知乎的中文原文;English version available.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/covid19-higher-education-zh/";
+          
+        },
       },{id: "post-application-season-how-phd-admission-and-training-differ-between-the-us-and-the-uk",
         
           title: "Application Season: How PhD Admission and Training Differ between the US and the...",
@@ -258,6 +346,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2019/phd-us-vs-uk/";
+          
+        },
+      },{id: "post-申请季-英美博士生申请和培养方式的差异",
+        
+          title: "申请季：英美博士生申请和培养方式的差异",
+        
+        description: "首发于知乎的中文原文;English version available.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2019/phd-us-vs-uk-zh/";
           
         },
       },{id: "news-our-sensor-enhanced-housing-survey-for-urban-heat-investigation-a-collaboration-with-the-bureau-of-investigative-journalism-kicks-off-in-southwark-london-the-rising-danger-of-hot-summers-https-www-thebureauinvestigates-com-blog-2023-06-30-the-rising-danger-of-hot-summers-project-code-and-data-on-github-https-github-com-qszhao-sensorenhancedsurveyheatinvestigation",
