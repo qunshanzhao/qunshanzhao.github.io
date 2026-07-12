@@ -1,0 +1,12 @@
+{% comment %}Site hook: append first/corresponding-author pills to the entry's date line.{% endcomment %}
+{% if entry.firstauthor or entry.corresponding %}
+  {% capture author_badges %}
+    {%- if entry.firstauthor -%}
+      <span style="display:inline-block;margin-left:6px;padding:0 7px;border:1px solid currentColor;border-radius:0.7rem;font-size:0.72em;font-weight:600;vertical-align:middle;">first author</span>
+    {%- endif -%}
+    {%- if entry.corresponding -%}
+      <span style="display:inline-block;margin-left:6px;padding:0 7px;border:1px solid currentColor;border-radius:0.7rem;font-size:0.72em;font-weight:600;vertical-align:middle;">corresponding author</span>
+    {%- endif -%}
+  {% endcapture %}
+  {% capture entryyear %}{{ entryyear }}{{ author_badges }}{% endcapture %}
+{% endif %}

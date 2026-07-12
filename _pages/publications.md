@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications from the University of Glasgow Enlighten repository — filter by type and year, or search. See also Google Scholar and ORCID.
+description: Publications from the University of Glasgow Enlighten repository — filter by type and year, or search. Linked author names are lab PhD students; badges mark papers where I am first or corresponding author.
 nav: true
 nav_order: 2
 ---

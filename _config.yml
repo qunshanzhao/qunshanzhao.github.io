@@ -368,6 +368,8 @@ filtered_bibtex_keywords:
     award,
     award_name,
     bibtex_show,
+    corresponding,
+    firstauthor,
     blog,
     code,
     dimensions,
