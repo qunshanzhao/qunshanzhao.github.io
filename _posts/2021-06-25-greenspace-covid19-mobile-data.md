@@ -25,7 +25,7 @@ Traditionally, the survey/questionnaire is the most common tool used to understa
 
 ### What are the key questions that practitioners want to answer?
 
-Researchers at the Urban Big Data Centre recently connected with the [Park Managers Forum](https://www.greenspacescotland.org.uk/park-managers-forum-19-may-2021) and stakeholders engaged with greenspace across Scotland to discuss the importance of data when making decisions. Stakeholders at the meeting were asked “what is the first challenge you would address using mobile phone data in greenspace?’
+Researchers at the Urban Big Data Centre recently connected with the [Park Managers Forum](https://web.archive.org/web/2021/https://www.greenspacescotland.org.uk/park-managers-forum-19-may-2021) and stakeholders engaged with greenspace across Scotland to discuss the importance of data when making decisions. Stakeholders at the meeting were asked “what is the first challenge you would address using mobile phone data in greenspace?’
 
 From the responses came two key areas of interest:
 
@@ -115,7 +115,7 @@ City Centre
 
 ### Site-specific example: Alexandra Park before and during the Covid-19 Pandemic
 
-For one site of specific interest to policy makers, [Alexandra Park](https://www.mypark.scot/parks/alexandra-park-glasgow/) (Figure 2), we tested some more detailed analysis in terms of the changes in use caused by the COVID-19 pandemic.
+For one site of specific interest to policy makers, [Alexandra Park](https://web.archive.org/web/2021/https://www.mypark.scot/parks/alexandra-park-glasgow/) (Figure 2), we tested some more detailed analysis in terms of the changes in use caused by the COVID-19 pandemic.
 
  
 
@@ -153,7 +153,7 @@ The analysis presented here relies on the number of impressions (GPS points) and
 
 This session aims to provide a venue for studies that use social media and mobile phone data for the assessment of human-nature interactions and preferences towards the natural environment.
 
-[Find out more and register for this event](https://www.ubdc.ac.uk/education-and-events/events-and-courses/upcoming-events/mobile-phone-and-social-media-data-for-human-nature-research/)
+[Find out more and register for this event](https://web.archive.org/web/2022/https://www.ubdc.ac.uk/education-and-events/events-and-courses/upcoming-events/mobile-phone-and-social-media-data-for-human-nature-research/)
 
 [Michael Sinclair](https://www.ubdc.ac.uk/about-ubdc/who-we-are/team-profiles/researchers/michael-sinclair/)
 Michael is a Research Assistant at the Urban Big Data Centre where he works on human mobility through spatial big data. Alongside his role in UBDC, he is also an environmental consultant and completing his PhD in Natural Resources and Environmental Management.

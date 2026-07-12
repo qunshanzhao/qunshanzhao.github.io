@@ -24,7 +24,7 @@ nav_order: 2
 </div>
 
 <p style="font-size:0.86em;opacity:0.85;margin:6px 0 0;">
-  Author names shown as <a href="{{ '/people/' | relative_url }}">links</a> are PhD students I (co-)supervise(d) — click a name to jump to their profile on the People page.
+  Author names shown as <a href="{{ '/people/' | relative_url }}">links</a> are members of the lab (PhD students, postdocs, research assistants, and visitors) — click a name to jump to their profile on the People page.
   The <span style="display:inline-block;padding:0 7px;border:1px solid currentColor;border-radius:0.7rem;font-size:0.85em;font-weight:600;vertical-align:middle;">first author</span>
   and <span style="display:inline-block;padding:0 7px;border:1px solid currentColor;border-radius:0.7rem;font-size:0.85em;font-weight:600;vertical-align:middle;">corresponding author</span>
   badges mark my role on a paper, following my <a href="{{ '/assets/pdf/Qunshan_Zhao_CV.pdf' | relative_url }}">CV</a>.

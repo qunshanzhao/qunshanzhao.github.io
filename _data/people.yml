@@ -41,14 +41,14 @@ sections:
             desc: PhD in Urban Studies, University of Glasgow China Scholarship Council PhD Studentship (2026–2030); second supervisor, with Dr Pengyuan Liu
       - title: Academic Visitors
         members:
-          - name: Siqi Jia
+          - name: Dr Siqi Jia
             slug: siqi-jia
             photo: /assets/img/people/siqi-jia.jpg
             desc: Research Assistant Professor, Division of Landscape Architecture, the University of Hong Kong (2026)
-          - name: Jiameng Hu
+          - name: Dr Jiameng Hu
             slug: jiameng-hu
             desc: Assistant Professor, College of Public Administration, South-Central Minzu University (2026–27)
-          - name: Mengdi Zhang
+          - name: Dr Mengdi Zhang
             slug: mengdi-zhang
             desc: Engineer, Natural Resources Comprehensive Survey Command Centre, China Geology Survey (2025–26)
 
@@ -95,25 +95,25 @@ sections:
             desc: SpaceEPC (2025)
       - title: PhD Graduates
         members:
-          - name: Niantang Liu
+          - name: Dr Niantang Liu
             slug: niantang-liu
             photo: /assets/img/people/niantang-liu.jpg
             desc: PhD in Geological and Earth Sciences/Geosciences (2019–2024); second supervisor, with Dr Brian Barrett and Dr Richard Williams. Thesis&#58; <strong><a href="https://theses.gla.ac.uk/84306/"><em>Crop mapping using deep learning and multi-source satellite remote sensing</em></a></strong> — now Assistant Research Fellow in the Chinese Academy of Agricultural Sciences
-          - name: Henry Ibitolu
+          - name: Dr Henry Ibitolu
             slug: henry-ibitolu
             photo: /assets/img/people/henry-ibitolu.jpg
             url: https://www.linkedin.com/in/ibitscholar/
             desc: PhD in Civil and Environmental Engineering, University of Edinburgh/University of Glasgow Jointly Funded PhD Studentship (2020–2025); Glasgow supervisor, with Dr Chris Beckett and Dr Daniel Fosas from the University of Edinburgh. Thesis&#58; <strong><a href="https://era.ed.ac.uk/items/0af7d805-0461-43e0-8bc5-c42d38f9cd2f"><em>Bridging Indoor and Outdoor Microclimates&#58; A Multiscale Co-simulation Framework for the Thermal Performance of Earthen Buildings</em></a></strong> — now Project Officer (Estate Energy Optimisation), Glasgow City Council
             note: 'Awards&#58; Allianz Climate Risk Research Award 2021 Finalist (<a href="https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/sustainability/documents/20211203_Allianz_Climate_Risk_Research_Award.pdf">link</a>); University of Edinburgh Delegate to COP27 in Cairo, Egypt; Committee member of the UK Net Zero Carbon Building Standard Committee; RENKEI Early Career Researcher Fellowship, British Council (<a href="https://www.britishcouncil.jp/en/programmes/higher-education/university-industry-partnership/renkei">link</a>); Member of the UK Young Academy (<a href="https://ukyoungacademy.org/members/henry-ibitolu/">link</a>)'
-          - name: Yue Li
+          - name: Dr Yue Li
             slug: yue-li
             photo: /assets/img/people/yue-li.jpg
             desc: PhD in Urban Studies, University of Glasgow China Scholarship Council PhD Studentship (2021–2026); first supervisor, with Dr Mingshu Wang. Thesis&#58; <strong><a href="https://theses.gla.ac.uk/86073/"><em>Estimation and prediction of urban traffic flows in response to global pandemic using machine learning and foundational models</em></a></strong> — now Research Associate in Data Science and Urban Climate Modelling, University of Manchester
             note: 'Awards&#58; Alan Turing Institute PhD Enrichment Scheme 2022; Postgraduate Representative of QMRG (<a href="https://qmrg.github.io/past_committee">link</a>)'
-          - name: Ziying Guo
+          - name: Dr Ziying Guo
             slug: ziying-guo
             desc: PhD in Environmental Sustainability (2021–2025); second supervisor, with Dr John Xiaogang Shi. Thesis&#58; <strong><a href="https://theses.gla.ac.uk/85720/"><em>Hydrological responses to wetland changes in the Yangtze River Basin</em></a></strong> — now Assistant Professor in Shanghai Maritime University
-          - name: Zixin Feng
+          - name: Dr Zixin Feng
             slug: zixin-feng
             photo: /assets/img/people/zixin-feng.jpg
             desc: PhD in Urban Studies, University of Glasgow China Scholarship Council PhD Studentship (2022–2026); first supervisor, with Prof. Alison Heppenstall. Thesis&#58; <strong><em>Exploring the Use of Agent-based Models for Electric Vehicle Driver Behaviour Simulation</em></strong> — now Research Fellow in Agent-based Modelling, University of Leeds
@@ -128,7 +128,7 @@ sections:
           - name: Mohammed Abdelaaty Hassan
             slug: mohammed-hassan
             desc: Glasgow Electrical Engineering PhD student, LoRa sensor development (2025)
-          - name: Maoran Sun
+          - name: Dr Maoran Sun
             slug: maoran-sun
             photo: /assets/img/people/maoran-sun.jpg
             url: https://www.linkedin.com/in/maoran-sun/
@@ -169,17 +169,17 @@ sections:
           - name: Rui Qiao
             slug: rui-qiao
             desc: PhD Student, Department of Building and Real Estate, the Hong Kong Polytechnic University (2026) — now back in Hong Kong
-          - name: Qimin Cheng
+          - name: Prof Qimin Cheng
             slug: qimin-cheng
             photo: /assets/img/people/qimin-cheng.jpg
             desc: Professor, School of Electronic Information and Communications, Huazhong University of Science and Technology (2024–25)
-          - name: Zhenfeng Shao
+          - name: Prof Zhenfeng Shao
             slug: zhenfeng-shao
             desc: Professor, State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University (2024–25)
           - name: Pengyu Wang
             slug: pengyu-wang
             desc: Master of Science in Geo-information Science and Earth Observation, University of Twente (2024)
-          - name: Li Tian
+          - name: Prof Li Tian
             slug: li-tian
             desc: Associate Professor, Institute of Geographic Science and Natural Resources, Chinese Academy of Sciences (2023)
 

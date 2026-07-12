@@ -17,7 +17,7 @@ nav_order: 3
   <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Qunshan Zhao" style="width:72px;height:72px;border-radius:50%;object-fit:cover;flex-shrink:0;" loading="lazy">
   <div>
     <strong><a href="{{ '/' | relative_url }}">Qunshan Zhao</a></strong><br>
-    Professor of Urban Analytics; Deputy Director, <a href="https://www.ubdc.ac.uk/">Urban Big Data Centre</a>, University of Glasgow.
+    Professor in Urban Analytics; Deputy Director, <a href="https://www.ubdc.ac.uk/">Urban Big Data Centre</a>, Division of Urban Studies & Social Policy, University of Glasgow; Visiting Professor, School of Geography, University College Dublin.
   </div>
 </div>
 

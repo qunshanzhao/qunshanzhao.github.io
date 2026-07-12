@@ -11,7 +11,7 @@ related_posts: false
 
 *Three of our PhD students recently participated in the AGILE PhD School - a forum for the next generation of scientists and research leaders to develop their networks and exchange ideas.*
 
-The Urban Big Data Centre [joined the Association of Geographic Information Laboratories in Europe (AGILE) in November 2019](https://www.ubdc.ac.uk/news-media/2019/november/urban-big-data-centre-joins-agile/) to represent the University of Glasgow in the European GIScience academic community, along with the University of St Andrews, University of Leeds, University of Nottingham, and the University of Leicester in the United Kingdom. A full list of AGILE members appears [on their website](https://agile-online.org/agile-community/members).
+The Urban Big Data Centre [joined the Association of Geographic Information Laboratories in Europe (AGILE) in November 2019](https://www.ubdc.ac.uk/news-media/2019/november/urban-big-data-centre-joins-agile/) to represent the University of Glasgow in the European GIScience academic community, along with the University of St Andrews, University of Leeds, University of Nottingham, and the University of Leicester in the United Kingdom. A full list of AGILE members appears [on their website](https://web.archive.org/web/2022/https://agile-online.org/agile-community/members).
 
 AGILE was established in 1998 with a mission to promote the geographic information teaching and research community and ensure that the community’s views are fully represented at the European level. They organise initiatives on specific topics to influence the future European geographic information research agenda.
 

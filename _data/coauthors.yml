@@ -1,39 +1,107 @@
-# coauthor links for the publications page — lab PhD students link to their entry on the People page.
+# coauthor links for the publications page — lab members link to their entry on the People page.
 # keys are lowercase last names; firstname lists disambiguate
+"abascal":
+  - firstname: ["Angela"]
+    url: /people/#angela-abascal
+
+"barcelos":
+  - firstname: ["Germano"]
+    url: /people/#germano-dos-santos
+
+"cheng":
+  - firstname: ["Qimin"]
+    url: /people/#qimin-cheng
+
+"du":
+  - firstname: ["Xingyi"]
+    url: /people/#xingyi-du
+
 "feng":
   - firstname: ["Zixin"]
     url: /people/#zixin-feng
+
+"guo":
+  - firstname: ["Ziying"]
+    url: /people/#ziying-guo
+
+"hafner":
+  - firstname: ["Sebastian"]
+    url: /people/#sebastian-hafner
+
+"hu":
+  - firstname: ["Congying"]
+    url: /people/#congying-hu
+
+"ibitolu":
+  - firstname: ["Henry"]
+    url: /people/#henry-ibitolu
+
+"jia":
+  - firstname: ["Siqi"]
+    url: /people/#siqi-jia
+
+"kurniawan":
+  - firstname: ["Andre"]
+    url: /people/#andre-kurniawan
 
 "li":
   - firstname: ["Yue"]
     url: /people/#yue-li
   - firstname: ["Qin"]
     url: /people/#qin-li
-
-"ou":
-  - firstname: ["Yunbei"]
-    url: /people/#yunbei-ou
-
-"guo":
-  - firstname: ["Ziying"]
-    url: /people/#ziying-guo
+  - firstname: ["Qiaosi"]
+    url: /people/#qiaosi-li
 
 "liu":
   - firstname: ["Niantang"]
     url: /people/#niantang-liu
 
+"maadi":
+  - firstname: ["Saeed"]
+    url: /people/#saeed-maadi
+
+"ou":
+  - firstname: ["Yunbei"]
+    url: /people/#yunbei-ou
+
 "sarim":
   - firstname: ["Mohd"]
     url: /people/#mohd-sarim
+
+"shao":
+  - firstname: ["Zhenfeng"]
+    url: /people/#zhenfeng-shao
 
 "shonowo":
   - firstname: ["Oluwatimilehin", "Oluwatimilehin Adenike", "Adenike"]
     url: /people/#adenike-shonowo
 
-"ibitolu":
-  - firstname: ["Henry"]
-    url: /people/#henry-ibitolu
+"sinclair":
+  - firstname: ["Michael"]
+    url: /people/#michael-sinclair
 
-"kurniawan":
-  - firstname: ["Andre"]
-    url: /people/#andre-kurniawan
+"sun":
+  - firstname: ["Maoran"]
+    url: /people/#maoran-sun
+
+"tregonning":
+  - firstname: ["Grant"]
+    url: /people/#grant-tregonning
+
+"vonnak":
+  - firstname: ["Reka"]
+    url: /people/#reka-vonnak
+
+"wang":
+  - firstname: ["Mingkang"]
+    url: /people/#mingkang-wang
+  - firstname: ["Pengyu"]
+    url: /people/#pengyu-wang
+
+"xu":
+  - firstname: ["Rongbo"]
+    url: /people/#rongbo-xu
+
+"zhu":
+  - firstname: ["Mingyu"]
+    url: /people/#mingyu-zhu

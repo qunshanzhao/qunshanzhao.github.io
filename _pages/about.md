@@ -2,19 +2,24 @@
 layout: about
 title: About
 permalink: /
+title_suffix: Ph.D.
 subtitle: >
-  Professor of Urban Analytics · Deputy Director, <a href="https://www.ubdc.ac.uk/">Urban Big Data Centre</a> · University of Glasgow
+  Professor in Urban Analytics · Deputy Director of the <a href="https://www.ubdc.ac.uk/">Urban Big Data Centre (UBDC)</a><br>
+  Division of Urban Studies &amp; Social Policy, School of Social and Political Sciences, University of Glasgow<br>
+  Visiting Professor, School of Geography, University College Dublin, Ireland
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Urban Big Data Centre 6-303</p>
-    <p>7 Lilybank Gardens</p>
-    <p>University of Glasgow</p>
-    <p>Glasgow, G12 8RZ, UK</p>
-    <p>+44 (0)141 330 8534</p>
+    <div style="font-family: Roboto, 'Helvetica Neue', Arial, sans-serif; font-size: 0.83rem; line-height: 1.6; letter-spacing: 0; text-align: center;">
+      <p style="margin: 0;">Urban Big Data Centre 6-303</p>
+      <p style="margin: 0;">7 Lilybank Gardens</p>
+      <p style="margin: 0;">University of Glasgow</p>
+      <p style="margin: 0;">Glasgow, G12 8RZ, UK</p>
+      <p style="margin: 6px 0 0;"><a href="tel:+441413308534" style="text-decoration: none;">+44 (0)141 330 8534</a></p>
+    </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -30,7 +35,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a **Professor of Urban Analytics** in Urban Studies & Social Policy, School of Social and Political Sciences, and **Deputy Director of the [Urban Big Data Centre (UBDC)](https://www.ubdc.ac.uk/)** at the University of Glasgow, where I lead the Urban Sensing & Analytics research theme.
+I am a **Professor in Urban Analytics** in the Division of Urban Studies & Social Policy, School of Social and Political Sciences, and **Deputy Director of the [Urban Big Data Centre (UBDC)](https://www.ubdc.ac.uk/)** at the University of Glasgow, where I lead the Urban Sensing & Analytics research theme. I am also a **Visiting Professor** in the School of Geography at University College Dublin, Ireland.
 
 My research focuses on creating a sustainable urban future — tackling social, economic, and environmental problems in cities with **new forms of urban big data** and analytical approaches spanning GIScience (GIS, remote sensing, spatial analysis), machine learning/deep learning and foundation models, operations research, sensor networks, and urban climate modelling and instrumentation. Ongoing work includes urban infrastructure location optimisation, human–environment interactions and mobility, housing energy efficiency and fuel poverty, indoor and outdoor urban heat, informal settlement mapping, 3D city modelling, and open-source spatial optimisation ([PySAL/spopt](https://github.com/pysal/spopt)).
 
@@ -42,15 +47,17 @@ I joined Glasgow in May 2019 as a Lecturer, and was promoted to Senior Lecturer 
 
 I was born in a small mountainous town in Southeast China. When I was young, I was amazed by the succinctness of maths and physics, the power of computer programming, and the imagination of astronomy and geography. I then moved to Wuhan and spent four years at Wuhan University for my undergraduate engineering degree in Remote Sensing, building a comprehensive understanding of remote sensing, photogrammetry, and geographic information systems — while also taking optional courses in social science and the humanities (history and philosophy) to broaden my understanding of the world. I still remember how excited I was in my junior year when I first read a conference proceeding (《空间综合人文学与社会科学研究》) about using GIScience to tackle social science and humanities problems. That made me decide to pursue this direction in my career.
 
-In 2013 I joined the GeoDa Center / Spatial Analysis Research Center in the School of Geographical Sciences and Urban Planning at Arizona State University, where I learnt cutting-edge GIScience, spatial analytics, statistics, and optimization from world-renowned experts in both geography and industrial engineering, and worked on research projects funded by NSF, NASA, NIH, AAG, ASU, and the Piper Trust during six years in Arizona. I owe deep gratitude to my PhD advisor, [Prof. Elizabeth Wentz](https://sgsup.asu.edu/elizabeth-wentz), for her continuous support. After my North American journey, I joined the Urban Big Data Centre and Urban Studies at the University of Glasgow in 2019 — a new journey in Western Europe. Now I focus on making our cities more liveable and sustainable through urban sensing, new forms of urban big data, and advanced urban analytics.
+In 2013 I joined the GeoDa Center / Spatial Analysis Research Center in the School of Geographical Sciences and Urban Planning at Arizona State University, where I learnt cutting-edge GIScience, spatial analytics, statistics, and optimization from world-renowned experts in both geography and industrial engineering, and worked on research projects funded by NSF, NASA, NIH, AAG, ASU, and the Piper Trust during six years in Arizona. I owe deep gratitude to my PhD advisor, [Prof. Elizabeth Wentz](https://search.asu.edu/profile/108171), for her continuous support. After my North American journey, I joined the Urban Big Data Centre and Urban Studies at the University of Glasgow in 2019 — a new journey in Western Europe. Now I focus on making our cities more liveable and sustainable through urban sensing, new forms of urban big data, and advanced urban analytics.
 
 **Geographical trajectory:** Fujian, China → Wuhan, China → Tempe, Arizona, USA → Glasgow, Scotland, UK. **Subject trajectory:** Remote Sensing/Photogrammetry → Geography/GIScience → Urban Studies.
+
+<img src="{{ '/assets/img/trajectory-map.png' | relative_url }}" alt="Geographical trajectory map: Fujian → Wuhan → Tempe, Arizona → Glasgow, with a visiting position in Dublin" style="width:100%;max-width:980px;display:block;margin:6px auto 4px;" loading="lazy">
 
 ## The Urban Sensing & Analytics Lab
 
 We are a multidisciplinary research group focusing on urban big data analytics, geographic data science, and urban remote sensing/climatology at the [Urban Big Data Centre (UBDC)](https://www.ubdc.ac.uk/), Urban Studies, University of Glasgow. UBDC is a research centre and national data service funded by the ESRC since 2014, promoting the use of new forms of urban big data and innovative research methods to improve social, economic and environmental well-being in cities. Urban Studies at Glasgow is internationally renowned — in [REF 2021](https://results2021.ref.ac.uk/profiles/units-of-assessment/13), 96% of the University's research in Architecture, Built Environment and Planning was rated world-leading or internationally excellent.
 
-In the lab, we are particularly interested in how new forms of urban big data — from government agencies (NHS, Glasgow City Council/Region), commercial companies ([Strava](https://www.ubdc.ac.uk/data-services/data-catalogue/transport-data/strava-metro-data/), [Zoopla](https://www.ubdc.ac.uk/data-services/data-catalogue/housing-data/zoopla-property-data/)), non-profit sectors (the Salvation Army, the British Red Cross), sensor networks (Urban Observatory, Urban Climatology Testbed), and citizens (portable sensing via smartphone/watch apps such as ActivityLog — [App Store](https://apps.apple.com/us/app/myactivitylog/id1388722187), [Google Play](https://play.google.com/store/apps/details?id=com.ziqi.activitylog&hl=en)) — can help us understand, develop, and govern future cities.
+In the lab, we are particularly interested in how new forms of urban big data — from government agencies (NHS, Glasgow City Council/Region), commercial companies ([Strava](https://data.ubdc.ac.uk/dataset/strava), [Zoopla](https://data.ubdc.ac.uk/dataset/zoopla)), non-profit sectors (the Salvation Army, the British Red Cross), sensor networks (Urban Observatory, Urban Climatology Testbed), and citizens (portable sensing via smartphone/watch apps such as ActivityLog — [App Store](https://apps.apple.com/us/app/myactivitylog/id1388722187)) — can help us understand, develop, and govern future cities.
 
 We embrace an open-access and reproducible/replicable research culture, with open-source data, tools, and code wherever available. Our ultimate goal is to advance fundamental understanding of the human–environment nexus in urban areas and to promote sustainable and smart cities in the near future.
 

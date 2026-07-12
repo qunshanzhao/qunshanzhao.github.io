@@ -77,7 +77,7 @@ One interesting feature of the process was the format of the presentations. The 
 
 Nick Holliman, Professor of Computer Science and Director of CUSP, explained that this was the most effective way to communicate research to decision-makers when tested with the British Army.
 
-I am proud to say that my team received the Best Technical Contribution Award for our analysis and [presentation (PDF 0.98MB)](https://www.ubdc.ac.uk/media/2381/the-effects-of-policy-interventions-on-covid19-220422.pdf). You can view the code behind our analysis on [GitHub](https://github.com/samuelhoenle/cusp-dd-2022-group2).
+I am proud to say that my team received the Best Technical Contribution Award for our analysis and [presentation (PDF 0.98MB)](https://web.archive.org/web/2022/https://www.ubdc.ac.uk/media/2381/the-effects-of-policy-interventions-on-covid19-220422.pdf). You can view the code behind our analysis on [GitHub](https://github.com/samuelhoenle/cusp-dd-2022-group2).
 
 Image: Winners of the Best Technical Contribution Award. From left to right: Elika Sinha, Yuning Jiang, Tongqing Zhu (also an MSc in Urban Analytics student), and Samuel Hönle.
 

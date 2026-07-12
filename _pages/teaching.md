@@ -12,7 +12,7 @@ nav_order: 5
 **Current**
 
 - [Programming Tools for Urban Analytics](https://www.gla.ac.uk/coursecatalogue/course/?code=URBAN5123) — course convener, Spring, 2019–now (course materials on [GitHub](https://github.com/qszhao/PTUA2026))
-- Advanced Topics for Urban Analytics — course contributor, 2026–now (course materials on [GitHub](https://github.com/qszhao/ATUA2026))
+- [Advanced Topics for Urban Analytics](https://www.gla.ac.uk/coursecatalogue/course/?code=URBAN5160) — course contributor, 2026–now (course materials on [GitHub](https://github.com/qszhao/ATUA2026))
 
 **Past**
 
@@ -78,7 +78,7 @@ More information can be found on the [University of Glasgow](https://www.gla.ac.
 
 ### Scholarship information
 
-Our Urban Analytics MSc programme is part of the Data Lab MSc programme, which offers a full tuition waiver, professional training, and a summer internship placement to Scotland/EU students. More information about the scholarship can be found on the [University website](https://www.gla.ac.uk/scholarships/datalabmastersscholarship/) and the [Data Lab website](https://www.thedatalab.com/skills-talent/the-data-lab-msc/the-data-lab-msc-where-to-study/).
+Our Urban Analytics MSc programme is part of the Data Lab MSc programme, which offers a full tuition waiver, professional training, and a summer internship placement to Scotland/EU students. More information about the scholarship can be found on the [University website](https://www.gla.ac.uk/scholarships/) and the [Data Lab website](https://www.thedatalab.com/skills-talent/the-data-lab-msc/the-data-lab-msc-where-to-study/).
 
 We also have a few international students who receive a Chevening Scholarship to study in our MSc programme. More information can be found on the [Chevening Scholarship](https://www.chevening.org/scholarships/) website.
 

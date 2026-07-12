@@ -25,7 +25,7 @@ The genesis of this project can be traced back to the Institute of Education (IO
 
 In accordance with the specifications provided by UCL IOE, Rongbu initially devised the capacitated p-median model. UCL IOE faces the task of placing approximately 800 students twice a year, and they have a pool of roughly 500 schools available for placements. The primary goal is to minimize the cumulative travel time for all students by using public transport. This objective is contingent upon ensuring that each student is assigned to a school offering instruction in their respective subject, all while accounting for the capacity and priority level of each school.
 
-We have received support for this project from AGILE initiative, and you can find the corresponding initiative (https://agile-online.org/agile-actions/initiatives/development-of-open-source-python-modelling-package) and paper (Bearman et al., 2023) here.
+We have received support for this project from AGILE initiative, and you can find the corresponding initiative (https://web.archive.org/web/2022/https://agile-online.org/agile-actions/initiatives/development-of-open-source-python-modelling-package) and paper (Bearman et al., 2023) here.
 
 **Results and Conclusions**
 

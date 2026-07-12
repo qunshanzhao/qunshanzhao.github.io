@@ -29,6 +29,16 @@ horizontal: false
   {% endif %}
 </div>
 
+## Major funded projects
+
+Selected projects I lead as academic Principal Investigator:
+
+- **[SpaceEPC](https://business.esa.int/projects/spaceepc)** — modelling building energy efficiency at scale with satellite Earth observation (ESA Business Applications)
+- **[HotHome](https://www.mirror.co.uk/news/uk-news/uks-overheating-summer-health-crisis-31597681)** — investigating summer overheating in UK homes with in-home sensors (with the Bureau of Investigative Journalism; coverage in the Mirror)
+- **[In-Home Sensors Survey](https://www.understandingsociety.ac.uk/participants/projects/sensor/)** — environmental sensor data collection in Understanding Society households
+- **[Sensing Gorbals](https://www.gla.ac.uk/research/az/sustainablesolutions/ourprojects/gallant/innovationfundprojects/sensingchangeheatandairqualityinthegorbals/)** — community sensing of heat and air quality in the Gorbals, Glasgow (GALLANT Innovation Fund)
+- **[Glasgow3D](https://zenodo.org/records/15000747)** — open large-scale 3D building and tree datasets for Glasgow, constructed from airborne LiDAR point clouds
+
 ## Research talks
 
 A selection of recorded talks and seminars:

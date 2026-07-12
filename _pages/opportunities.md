@@ -39,14 +39,14 @@ If you are from the UK or hold UK ILR, it will be much easier to get a PhD schol
 
 If you have finished your PhD degree elsewhere and want to apply for a postdoc fellowship in the UK, the [EU MSCA Postdoctoral Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) and the [UK Royal Society Newton International Fellowship](https://royalsociety.org/grants/newton-international/) are two of the most prestigious options to pursue.
 
-We are also more than happy to support your application to the [UKRI Future Leaders Fellowship](https://www.ukri.org/what-we-do/developing-people-and-skills/future-leaders-fellowships/), [ERC Starting Grant](https://erc.europa.eu/apply-grant/starting-grant), [ESRC New Investigator Grant](https://www.ukri.org/opportunity/esrc-responsive-mode-new-investigator-grants-round-two/), and [Leverhulme Early Career Fellowship](https://www.leverhulme.ac.uk/early-career-fellowships) at the institutional level.
+We are also more than happy to support your application to the [UKRI Future Leaders Fellowship](https://www.ukri.org/apply-for-funding/our-fellowship-opportunities/future-leaders-fellowships/), [ERC Starting Grant](https://erc.europa.eu/apply-grant/starting-grant), [ESRC New Investigator Grant](https://www.ukri.org/opportunity/esrc-responsive-mode-new-investigator-grants-round-two/), and [Leverhulme Early Career Fellowship](https://www.leverhulme.ac.uk/early-career-fellowships) at the institutional level.
 
 **PhD in Urban Studies English requirement:** IELTS 7.0, with sub-tests at 6.5. This can be waived if you have previously studied at least 2 years as an undergraduate, or 9 months as an MSc student, in a majority English-speaking country, as [approved by UKVI](https://www.gov.uk/student-visa/knowledge-of-english).
 
 ### Funding schemes
 
 - [Scottish Graduate School of Social Science Studentship](https://www.sgsss.ac.uk/studentships/) (both Home/EU and International students (up to 30%) for PhD students; the [postdoc fellowship](https://www.sgsss.ac.uk/fellowships/pdf-scheme/) is only available to UK PhDs)
-- [College of Social Sciences PhD Scholarships](https://www.gla.ac.uk/colleges/socialsciences/studentfundingopportunities/postgraduateresearch/cossscholarships/) (both Home/EU and International students; you need to apply to SGSSS first to enter the competition)
+- [College of Social Sciences PhD Scholarships](https://www.gla.ac.uk/colleges/socialsciences/studentfundingopportunities/) (both Home/EU and International students; you need to apply to SGSSS first to enter the competition)
 - [China Scholarship Council (CSC) PhD Scholarships](https://www.gla.ac.uk/colleges/socialsciences/studentfundingopportunities/postgraduateresearch/chinascholarshipcouncilcscphdscholarships/) — more information [here](https://bg.csc.edu.cn/DownLoad.aspx?PROJECTCODE=629075) (Chinese students; full CSC search website [here](https://bg.csc.edu.cn/))
 - [James McCune Smith PhD Scholarship](https://www.gla.ac.uk/scholarships/mccune-smith/) (UK-domiciled Black students)
 - [Leverhulme Trust Doctoral Scholarship](https://www.leverhulme.ac.uk/leverhulme-doctoral-scholarships) (for PhD students) and [Early Career Fellowship](https://www.leverhulme.ac.uk/early-career-fellowships) (for postdoc researchers)
@@ -59,9 +59,9 @@ We are also more than happy to support your application to the [UKRI Future Lead
 - [LKAS PhD Scholarship](https://www.gla.ac.uk/research/ourresearchenvironment/prs/kelvinsmith/#d.en.398790), University of Glasgow (both Home/EU and International students; inactive for now)
 - [University of Edinburgh and University of Glasgow Jointly Funded PhD Studentship](https://www.gla.ac.uk/research/ourresearchenvironment/prs/uofguofedinphdstudentships/) (both Home/EU and International students; inactive for now)
 - [Carnegie Trust PhD Scholarship](https://carnegie-trust.org/award-categories/postgraduates/) (both Home/EU and International students, but requires a first-class honours undergraduate degree from a Scottish university; inactive for now)
-- [Urban Studies Foundation Postdoctoral Research Fellowships](https://urbanstudiesfoundation.org/funding/postdoctoral-research-fellowships/) (for postdoc researchers; inactive for now)
+- [Urban Studies Foundation Postdoctoral Research Fellowships](https://www.urbanstudiesfoundation.org/funding/) (for postdoc researchers; inactive for now)
 - [University of Glasgow Lord Kelvin/Adam Smith (LKAS) Fellowship](https://www.gla.ac.uk/research/lkas/lkasfellowships/) (postdoc researchers; inactive for now)
-- [The Data Lab Industrial Doctorates](https://www.thedatalab.com/skills-talent/industrial-doctorates/) (Home/EU students; inactive for now)
+- [The Data Lab Industrial Doctorates](https://thedatalab.com/) (Home/EU students; inactive for now)
 - [Student funding and PhD scholarships in the College of Social Sciences](https://www.gla.ac.uk/colleges/socialsciences/studentfundingopportunities/#/postgraduateresearchfundingopportunities), University of Glasgow
 - [PhD funding — a checklist of possible sources](https://career-advice.jobs.ac.uk/phd-studentship/phd-funding-a-checklist-of-possible-sources/) (jobs.ac.uk)
 - [RGS-IBG grants](https://www.rgs.org/in-the-field/in-the-field-grants/)
