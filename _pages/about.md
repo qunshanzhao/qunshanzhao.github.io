@@ -14,11 +14,12 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <div style="font-family: Roboto, 'Helvetica Neue', Arial, sans-serif; font-size: 0.83rem; line-height: 1.6; letter-spacing: 0; text-align: center;">
-      <p style="margin: 0;">Urban Big Data Centre 6-303</p>
-      <p style="margin: 0;">7 Lilybank Gardens</p>
+      <p style="margin: 0;">Urban Big Data Centre</p>
+      <p style="margin: 0;">6-303, 7 Lilybank Gardens</p>
       <p style="margin: 0;">University of Glasgow</p>
       <p style="margin: 0;">Glasgow, G12 8RZ, UK</p>
-      <p style="margin: 6px 0 0;"><a href="tel:+441413308534" style="text-decoration: none;">+44 (0)141 330 8534</a></p>
+      <p style="margin: 6px 0 0;"><a href="mailto:Qunshan.Zhao@glasgow.ac.uk" style="text-decoration: none;">Qunshan.Zhao@glasgow.ac.uk</a></p>
+      <p style="margin: 0;"><a href="tel:+441413308534" style="text-decoration: none;">+44 (0)141 330 8534</a></p>
     </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -57,7 +58,7 @@ In 2013 I joined the GeoDa Center / Spatial Analysis Research Center in the Scho
 
 We are a multidisciplinary research group focusing on urban big data analytics, geographic data science, and urban remote sensing/climatology at the [Urban Big Data Centre (UBDC)](https://www.ubdc.ac.uk/), Urban Studies, University of Glasgow. UBDC is a research centre and national data service funded by the ESRC since 2014, promoting the use of new forms of urban big data and innovative research methods to improve social, economic and environmental well-being in cities. Urban Studies at Glasgow is internationally renowned — in [REF 2021](https://results2021.ref.ac.uk/profiles/units-of-assessment/13), 96% of the University's research in Architecture, Built Environment and Planning was rated world-leading or internationally excellent.
 
-In the lab, we are particularly interested in how new forms of urban big data — from government agencies (NHS, Glasgow City Council/Region), commercial companies ([Strava](https://data.ubdc.ac.uk/dataset/strava), [Zoopla](https://data.ubdc.ac.uk/dataset/zoopla)), non-profit sectors (the Salvation Army, the British Red Cross), sensor networks (Urban Observatory, Urban Climatology Testbed), and citizens (portable sensing via smartphone/watch apps such as ActivityLog — [App Store](https://apps.apple.com/us/app/myactivitylog/id1388722187)) — can help us understand, develop, and govern future cities.
+In the lab, we are particularly interested in how new forms of urban big data — from government agencies (NHS, Glasgow City Council/Region), commercial companies ([Strava](https://data.ubdc.ac.uk/dataset/strava), [Zoopla](https://data.ubdc.ac.uk/dataset/zoopla)), non-profit sectors (the Salvation Army, the British Red Cross), sensor networks (Urban Observatory, Urban Climatology Testbed), and citizens (portable sensing via smartphone/watch apps such as ActivityLog — [iOS](https://github.com/qszhao/ActivityLog-IOS), [Android](https://github.com/qszhao/ActivityLog-Android)) — can help us understand, develop, and govern future cities.
 
 We embrace an open-access and reproducible/replicable research culture, with open-source data, tools, and code wherever available. Our ultimate goal is to advance fundamental understanding of the human–environment nexus in urban areas and to promote sustainable and smart cities in the near future.
 

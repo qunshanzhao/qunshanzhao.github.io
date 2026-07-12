@@ -17,6 +17,7 @@ sections:
           - name: Dr Yunbei Ou
             slug: yunbei-ou
             photo: /assets/img/people/yunbei-ou.jpg
+            url: https://www.linkedin.com/in/yunbei-ou-526887239/
             desc: Research Assistant; completed her PhD in Urban Studies in the lab (2022–2026, see PhD Graduates below)
           - name: Xingyi Du
             slug: xingyi-du
@@ -32,6 +33,7 @@ sections:
           - name: Adenike Oluwatimilehin Shonowo
             slug: adenike-shonowo
             photo: /assets/img/people/adenike-shonowo.jpg
+            url: https://www.linkedin.com/in/adenike-shonowo-b68661b3/
             desc: PhD in Urban Studies, IDEAMAPS PhD Studentship (2023–2027); second supervisor, with Prof. Joao Porto de Albuquerque and Prof. Peter Elias
           - name: Andre Kurniawan
             slug: andre-kurniawan
@@ -108,6 +110,7 @@ sections:
           - name: Dr Yue Li
             slug: yue-li
             photo: /assets/img/people/yue-li.jpg
+            url: https://www.linkedin.com/in/yue-li-782698185/
             desc: PhD in Urban Studies, University of Glasgow China Scholarship Council PhD Studentship (2021–2026); first supervisor, with Dr Mingshu Wang. Thesis&#58; <strong><a href="https://theses.gla.ac.uk/86073/"><em>Estimation and prediction of urban traffic flows in response to global pandemic using machine learning and foundational models</em></a></strong> — now Research Associate in Data Science and Urban Climate Modelling, University of Manchester
             note: 'Awards&#58; Alan Turing Institute PhD Enrichment Scheme 2022; Postgraduate Representative of QMRG (<a href="https://qmrg.github.io/past_committee">link</a>)'
           - name: Dr Ziying Guo
@@ -121,6 +124,7 @@ sections:
           - name: Dr Yunbei Ou
             slug: yunbei-ou
             photo: /assets/img/people/yunbei-ou.jpg
+            url: https://www.linkedin.com/in/yunbei-ou-526887239/
             desc: PhD in Urban Studies, SGSSS Steers PhD Studentship (2022–2026); third supervisor, with Prof. Nick Bailey and Dr David McArthur. Thesis&#58; <strong><a href="https://theses.gla.ac.uk/86042/"><em>Assessing the housing market incentives from residential building energy efficiency regulations</em></a></strong> — now Research Assistant in the lab
             note: 'Awards&#58; Alan Turing Institute Data Study Group 2023; Alan Turing Institute PhD Enrichment Scheme 2024. Intern&#58; Sensor Enhanced Housing Survey and 3D City Modeling'
       - title: MSc Students and Research Assistants
@@ -196,6 +200,7 @@ sections:
           - name: Erin Rosemary
             slug: erin-rosemary
             photo: /assets/img/people/erin-rosemary.jpg
+            url: https://www.linkedin.com/in/erinrolson/
             desc: 'PySAL&#58; Open Source Facility Location Modelling (spopt) Development (<a href="https://summerofcode.withgoogle.com/programs/2022/projects/2wuW8zf8">project link</a>), Summer 2022'
           - name: Germano dos Santos
             slug: germano-dos-santos

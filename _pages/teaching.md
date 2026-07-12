@@ -64,18 +64,6 @@ Career opportunities include positions in government agencies, urban planning or
 
 \* Programme structure is currently under review; proposed changes for September 2026 entry include making *Urban Analytics Group Project* a core course and *Sustainable Urban Futures* an optional course (subject to approval — see the [official programme page](https://www.gla.ac.uk/postgraduate/taught/urbananalytics/) for the up-to-date structure).
 
-### English requirement
-
-**IELTS Academic**
-
-- Overall score 6.5; no sub-test less than 6.0
-
-**ibTOEFL**
-
-- Overall 90; no sub-test less than: Reading 20, Listening 19, Speaking 19, Writing 23
-
-More information can be found on the [University of Glasgow](https://www.gla.ac.uk/postgraduate/taught/urbananalytics/) and [UBDC](https://www.ubdc.ac.uk/education-and-events/education/msc-programmes/urban-analytics/) pages, and in my [Chinese blog (知乎)](https://zhuanlan.zhihu.com/p/69874424).
-
 ### Scholarship information
 
 Our Urban Analytics MSc programme is part of the Data Lab MSc programme, which offers a full tuition waiver, professional training, and a summer internship placement to Scotland/EU students. More information about the scholarship can be found on the [University website](https://www.gla.ac.uk/scholarships/) and the [Data Lab website](https://www.thedatalab.com/skills-talent/the-data-lab-msc/the-data-lab-msc-where-to-study/).
