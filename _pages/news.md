@@ -1,6 +1,6 @@
 ---
 layout: page
-title: News Highlights
+title: News
 permalink: /news/
 description: News highlights from the lab — papers, projects, and people.
 nav: true

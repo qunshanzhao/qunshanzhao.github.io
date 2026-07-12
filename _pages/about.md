@@ -36,7 +36,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<small><em>🔊 "Qunshan" is pronounced roughly <strong>chun-shan</strong> — <a href="https://www.howtopronounce.com/qunshan">hear it here</a>.</em></small>
+<small><em>🔊 "Qunshan Zhao" is pronounced <strong>Chween-shahn Jow</strong> — hear <a href="https://www.howtopronounce.com/qunshan">Qunshan</a> and <a href="https://www.youtube.com/watch?v=lbV39MD-KDY">Zhao (赵)</a>.</em></small>
 
 I am a **Professor in Urban Analytics** in the [Division of Urban Studies & Social Policy](https://www.gla.ac.uk/schools/socialpolitical/research/urban-studies-social-policy-research/), School of Social and Political Sciences, and **Deputy Director of the [Urban Big Data Centre (UBDC)](https://www.ubdc.ac.uk/)** at the University of Glasgow, where I lead the Urban Sensing & Analytics research theme. I am also a **Visiting Professor** in the [School of Geography](https://www.ucd.ie/geography/) at University College Dublin, Ireland.
 
@@ -44,9 +44,23 @@ My research focuses on creating a sustainable urban future — tackling social, 
 
 I joined Glasgow in May 2019 as a Lecturer, and was promoted to Senior Lecturer in 2022 and Professor in 2024. I hold a PhD and MA in Geography/GIScience from Arizona State University and a BE in Remote Sensing, Photogrammetry and GIS from Wuhan University. Before Glasgow I was a postdoctoral research associate at ASU's [Knowledge Exchange for Resilience (KER)](https://resilience.asu.edu/) and [Spatial Analysis Research Center (SPARC)](https://sgsup.asu.edu/SPARC). My dissertation received the AAG [J. Warren Nystrom Award](https://www.aag.org/award-grant/nystrom/) (2018).
 
-**Service highlights:** Board of Directors, [CPGIS](https://www.cpgis.org/) (2026–present); MSc External Examiner in Urban Informatics, King's College London (2023–present); Series Advisory Editor of the [Springer Urban Book Series](https://www.springer.com/series/14773) (2021–present); grant proposal reviewer for ESRC, EPSRC, UKRI Future Leaders Fellowships, and the US NSF (2019–present); Grant Assessment Panels for the ESRC SDR UK Fellowship and the UK Space Agency (2025) and UKRI ESRC Secondary Data Analysis (2022–24); member of the ESRC Future Data Services Programme Board (2022–24); Secretary of the [RGS-IBG Quantitative Methods Research Group](https://qmrg.github.io/) (2021–25); organiser/programme (co-)chair for [GISRUK 2023](https://gisruk.org/gisruk-2023/) (Glasgow), [CPGIS 2023](https://www.cpgis.org/Conferences/ConferenceDefault.aspx?ID=2079) (London), [GIScience 2023](https://giscience2023.github.io/) (Leeds), and [AGILE 2024](https://agile-gi.eu/conference-2024) (Glasgow).
+## Service highlights
 
-**Honours & awards:** GISCup 2024, 3rd place, 32nd ACM SIGSPATIAL (with PhD student Zixin Feng); Finalist, Early Career Researcher Award, RTPI Awards for Research Excellence 2024 (with HKU PhD student Tongping Hao); Shortlist, Most Innovative Transport Project of the Year, Scottish Transport Awards 2022 (Glasgow City Council & UBDC); Fellowship of Recognising Excellence in Teaching, University of Glasgow (2021); Global Young Scientist Award, World Geospatial Developers Conference (2020); AAG [J. Warren Nystrom Award](https://www.aag.org/award-grant/nystrom/) (2018).
+- Board of Directors, [CPGIS](https://www.cpgis.org/) (2026–present)
+- MSc External Examiner in Urban Informatics, King's College London (2023–present)
+- Series Advisory Editor, [Springer Urban Book Series](https://www.springer.com/series/14773) (2021–present)
+- Grant reviewer for ESRC, EPSRC, UKRI Future Leaders Fellowships and US NSF; assessment panels for the ESRC SDR UK Fellowship & UK Space Agency (2025) and ESRC Secondary Data Analysis (2022–24)
+- Secretary, [RGS-IBG Quantitative Methods Research Group](https://qmrg.github.io/) (2021–25)
+- Organiser / programme (co-)chair: [GISRUK 2023](https://gisruk.org/gisruk-2023/) (Glasgow), [CPGIS 2023](https://www.cpgis.org/Conferences/ConferenceDefault.aspx?ID=2079) (London), [GIScience 2023](https://giscience2023.github.io/) (Leeds), [AGILE 2024](https://agile-gi.eu/conference-2024) (Glasgow)
+
+## Honours & awards
+
+- GISCup, 3rd place, 32nd ACM SIGSPATIAL (2024, with PhD student Zixin Feng)
+- Finalist, Early Career Researcher Award, RTPI Awards for Research Excellence (2024)
+- Shortlist, Most Innovative Transport Project of the Year, Scottish Transport Awards (2022)
+- Fellowship of Recognising Excellence in Teaching, University of Glasgow (2021)
+- Global Young Scientist Award, World Geospatial Developers Conference (2020)
+- [J. Warren Nystrom Award](https://www.aag.org/award-grant/nystrom/), American Association of Geographers (2018)
 
 ## Beyond research
 
@@ -68,4 +82,4 @@ In the lab, we are particularly interested in how new forms of urban big data �
 
 We embrace an open-access and reproducible/replicable research culture, with open-source data, tools, and code wherever available. Our ultimate goal is to advance fundamental understanding of the human–environment nexus in urban areas and to promote sustainable and smart cities in the near future.
 
-If you are interested in joining the lab, please see the [opportunities]({{ '/opportunities/' | relative_url }}) page. My academic CV (May 2026) is available as a <a href="{{ '/assets/pdf/Qunshan_Zhao_CV.pdf' | relative_url }}">PDF</a>.
+If you are interested in joining the lab, please see the [opportunities]({{ '/opportunities/' | relative_url }}) page. My full academic CV is available as a <a href="{{ '/assets/pdf/Qunshan_Zhao_CV.pdf' | relative_url }}">PDF</a>.
