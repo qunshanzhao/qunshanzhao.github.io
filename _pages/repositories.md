@@ -13,6 +13,7 @@ nav_order: 7
 - [qszhao/PTUA2026](https://github.com/qszhao/PTUA2026) — course materials for *Programming Tools for Urban Analytics* at the University of Glasgow (see also the [2025](https://github.com/qszhao/PTUA2025), [2024](https://github.com/qszhao/PTUA2024) and [2023](https://github.com/qszhao/PTUA2023) editions).
 - [qszhao/ATUA2026](https://github.com/qszhao/ATUA2026) — course materials for *Advanced Topics for Urban Analytics* at the University of Glasgow.
 - [qszhao/Aalto2023-spopt](https://github.com/qszhao/Aalto2023-spopt) — short course on open-source spatial optimisation at Aalto University (2023).
+- [qszhao/SensorEnhancedSurveyHeatInvestigation](https://github.com/qszhao/SensorEnhancedSurveyHeatInvestigation) — code and [open data](https://doi.org/10.5281/zenodo.14444475) from the sensor-enhanced housing survey for urban heat investigation in Southwark, London (with the Bureau of Investigative Journalism).
 
 
 ## Google Summer of Code
