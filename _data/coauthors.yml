@@ -1,39 +1,39 @@
-# coauthor links for the publications page — lab PhD students link to the People page.
-# keys are lowercase last names; firstname lists disambiguate (see docs/CUSTOMIZE.md)
+# coauthor links for the publications page — lab PhD students link to their entry on the People page.
+# keys are lowercase last names; firstname lists disambiguate
 "feng":
   - firstname: ["Zixin"]
-    url: /people/
+    url: /people/#zixin-feng
 
 "li":
   - firstname: ["Yue"]
-    url: /people/
+    url: /people/#yue-li
   - firstname: ["Qin"]
-    url: /people/
+    url: /people/#qin-li
 
 "ou":
   - firstname: ["Yunbei"]
-    url: /people/
+    url: /people/#yunbei-ou
 
 "guo":
   - firstname: ["Ziying"]
-    url: /people/
+    url: /people/#ziying-guo
 
 "liu":
   - firstname: ["Niantang"]
-    url: /people/
+    url: /people/#niantang-liu
 
 "sarim":
   - firstname: ["Mohd"]
-    url: /people/
+    url: /people/#mohd-sarim
 
 "shonowo":
   - firstname: ["Oluwatimilehin", "Oluwatimilehin Adenike", "Adenike"]
-    url: /people/
+    url: /people/#adenike-shonowo
 
 "ibitolu":
   - firstname: ["Henry"]
-    url: /people/
+    url: /people/#henry-ibitolu
 
 "kurniawan":
   - firstname: ["Andre"]
-    url: /people/
+    url: /people/#andre-kurniawan

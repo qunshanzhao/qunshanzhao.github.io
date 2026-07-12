@@ -13,12 +13,12 @@ See the [publications]({{ '/publications/' | relative_url }}) page for related p
 ## Team
 
 <div style="display:flex;flex-wrap:wrap;gap:10px 22px;margin:12px 0 20px;">
-  <a href="{{ '/people/' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/yunbei-ou.jpg' | relative_url }}" alt="Yunbei Ou" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Yunbei Ou</span></a>
-  <a href="{{ '/people/' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/mingyu-zhu.jpg' | relative_url }}" alt="Mingyu Zhu" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Mingyu Zhu</span></a>
-  <a href="{{ '/people/' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/luis-serra.jpg' | relative_url }}" alt="Luis Serra" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Luis Serra</span></a>
-  <a href="{{ '/people/' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/qiaosi-li.svg' | relative_url }}" alt="Qiaosi Li" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Qiaosi Li</span></a>
-  <a href="{{ '/people/' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/maoran-sun.jpg' | relative_url }}" alt="Maoran Sun" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Maoran Sun</span></a>
-  <a href="{{ '/people/' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/congying-hu.svg' | relative_url }}" alt="Congying Hu" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Congying Hu</span></a>
+  <a href="{{ '/people/#yunbei-ou' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/yunbei-ou.jpg' | relative_url }}" alt="Yunbei Ou" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Yunbei Ou</span></a>
+  <a href="{{ '/people/#mingyu-zhu' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/mingyu-zhu.jpg' | relative_url }}" alt="Mingyu Zhu" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Mingyu Zhu</span></a>
+  <a href="{{ '/people/#luis-serra' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/luis-serra.jpg' | relative_url }}" alt="Luis Serra" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Luis Serra</span></a>
+  <a href="{{ '/people/#qiaosi-li' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/qiaosi-li.svg' | relative_url }}" alt="Qiaosi Li" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Qiaosi Li</span></a>
+  <a href="{{ '/people/#maoran-sun' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/maoran-sun.jpg' | relative_url }}" alt="Maoran Sun" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Maoran Sun</span></a>
+  <a href="{{ '/people/#congying-hu' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/congying-hu.svg' | relative_url }}" alt="Congying Hu" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Congying Hu</span></a>
 </div>
 
 ## Key publications

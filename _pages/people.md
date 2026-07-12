@@ -21,6 +21,7 @@ nav_order: 3
   </div>
 </div>
 
+{% assign anchored_slugs = ',' %}
 {% for section in site.data.people.sections %}
 
 ## {{ section.title }}
@@ -34,7 +35,8 @@ nav_order: 3
 <div>
 {% for m in group.members %}
 {% if m.photo %}{% assign avatar = m.photo %}{% else %}{% assign avatar = '/assets/img/people/' | append: m.slug | append: '.svg' %}{% endif %}
-  <div style="display:flex;align-items:flex-start;gap:14px;margin:14px 0;">
+{% assign slug_token = m.slug | prepend: ',' | append: ',' %}
+  <div {% unless anchored_slugs contains slug_token %}id="{{ m.slug }}" {% assign anchored_slugs = anchored_slugs | append: m.slug | append: ',' %}{% endunless %}style="display:flex;align-items:flex-start;gap:14px;margin:14px 0;scroll-margin-top:90px;">
     <img src="{{ avatar | relative_url }}" alt="{{ m.name }}" style="width:56px;height:56px;border-radius:50%;object-fit:cover;flex-shrink:0;" loading="lazy">
     <div>
       <strong>{% if m.url %}<a href="{{ m.url }}">{{ m.name }}</a>{% else %}{{ m.name }}{% endif %}</strong> — {{ m.desc }}

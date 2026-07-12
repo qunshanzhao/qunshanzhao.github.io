@@ -13,12 +13,12 @@ See the [publications]({{ '/publications/' | relative_url }}) page for related p
 ## Team
 
 <div style="display:flex;flex-wrap:wrap;gap:10px 22px;margin:12px 0 20px;">
-  <a href="{{ '/people/' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/mingyu-zhu.jpg' | relative_url }}" alt="Mingyu Zhu" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Mingyu Zhu</span></a>
-  <a href="{{ '/people/' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/mohd-sarim.jpg' | relative_url }}" alt="Mohd Sarim" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Mohd Sarim</span></a>
-  <a href="{{ '/people/' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/xingyi-du.svg' | relative_url }}" alt="Xingyi Du" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Xingyi Du</span></a>
-  <a href="{{ '/people/' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/henry-ibitolu.jpg' | relative_url }}" alt="Henry Ibitolu" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Henry Ibitolu</span></a>
-  <a href="{{ '/people/' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/chau-man-fung.svg' | relative_url }}" alt="Chau Man Fung" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Chau Man Fung</span></a>
-  <a href="{{ '/people/' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/maoran-sun.jpg' | relative_url }}" alt="Maoran Sun" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Maoran Sun</span></a>
+  <a href="{{ '/people/#mingyu-zhu' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/mingyu-zhu.jpg' | relative_url }}" alt="Mingyu Zhu" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Mingyu Zhu</span></a>
+  <a href="{{ '/people/#mohd-sarim' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/mohd-sarim.jpg' | relative_url }}" alt="Mohd Sarim" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Mohd Sarim</span></a>
+  <a href="{{ '/people/#xingyi-du' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/xingyi-du.svg' | relative_url }}" alt="Xingyi Du" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Xingyi Du</span></a>
+  <a href="{{ '/people/#henry-ibitolu' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/henry-ibitolu.jpg' | relative_url }}" alt="Henry Ibitolu" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Henry Ibitolu</span></a>
+  <a href="{{ '/people/#chau-man-fung' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/chau-man-fung.svg' | relative_url }}" alt="Chau Man Fung" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Chau Man Fung</span></a>
+  <a href="{{ '/people/#maoran-sun' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/maoran-sun.jpg' | relative_url }}" alt="Maoran Sun" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Maoran Sun</span></a>
 </div>
 
 ## Key publications
