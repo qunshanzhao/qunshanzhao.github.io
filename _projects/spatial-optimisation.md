@@ -15,8 +15,8 @@ See the [publications]({{ '/publications/' | relative_url }}) page for related p
 <div style="display:flex;flex-wrap:wrap;gap:10px 22px;margin:12px 0 20px;">
   <a href="{{ '/people/' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/zixin-feng.jpg' | relative_url }}" alt="Zixin Feng" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Zixin Feng</span></a>
   <a href="{{ '/people/' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/rongbo-xu.svg' | relative_url }}" alt="Rongbo Xu" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Rongbo Xu</span></a>
-  <a href="{{ '/people/' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/erin-rosemary.svg' | relative_url }}" alt="Erin Rosemary" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Erin Rosemary</span></a>
-  <a href="{{ '/people/' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/germano-dos-santos.svg' | relative_url }}" alt="Germano dos Santos" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Germano dos Santos</span></a>
+  <a href="{{ '/people/' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/erin-rosemary.jpg' | relative_url }}" alt="Erin Rosemary" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Erin Rosemary</span></a>
+  <a href="{{ '/people/' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/germano-dos-santos.jpg' | relative_url }}" alt="Germano dos Santos" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Germano dos Santos</span></a>
 </div>
 
 ## Key publications
