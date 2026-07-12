@@ -89,16 +89,6 @@ div#notebook {
   background-color: #ffffff;
 }
 
-#header .header-bar {
-  background: #ffffff;
-  background-color: #ffffff;
-}
-
-body > #header .header-bar {
-  width: 100%;
-  background: #ffffff;
-}
-
 .navbar {
   border: none;
 }
@@ -525,6 +515,13 @@ hr {
   color: #126dce;
   text-decoration: underline;
   cursor: auto;
+}
+
+mark,
+.mark {
+  background-color: #ffffff;
+  color: #353535;
+  padding: 0.15em;
 }
 
 
