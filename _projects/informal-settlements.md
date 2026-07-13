@@ -12,12 +12,17 @@ See the [publications]({{ '/publications/' | relative_url }}) page for related p
 
 ## Team
 
-<div style="display:flex;flex-wrap:wrap;gap:10px 22px;margin:12px 0 20px;">
+<div style="display:flex;flex-wrap:wrap;gap:10px 22px;align-items:center;margin:12px 0 4px;">
+  <span style="font-weight:700;min-width:70px;">Current:</span>
   <a href="{{ '/people/#adenike-shonowo' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/adenike-shonowo.jpg' | relative_url }}" alt="Adenike Shonowo" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Adenike Shonowo</span></a>
+  <a href="{{ '/people/#xingyi-du' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/xingyi-du.svg' | relative_url }}" alt="Xingyi Du" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Xingyi Du</span></a>
+</div>
+
+<div style="display:flex;flex-wrap:wrap;gap:10px 22px;align-items:center;margin:8px 0 20px;">
+  <span style="font-weight:700;min-width:70px;opacity:0.75;">Past:</span>
   <a href="{{ '/people/#sebastian-hafner' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/sebastian-hafner.jpg' | relative_url }}" alt="Sebastian Hafner" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Sebastian Hafner</span></a>
   <a href="{{ '/people/#grant-tregonning' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/grant-tregonning.svg' | relative_url }}" alt="Grant Tregonning" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Grant Tregonning</span></a>
   <a href="{{ '/people/#angela-abascal' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/angela-abascal.svg' | relative_url }}" alt="Angela Abascal" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Angela Abascal</span></a>
-  <a href="{{ '/people/#xingyi-du' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/xingyi-du.svg' | relative_url }}" alt="Xingyi Du" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Xingyi Du</span></a>
   <a href="{{ '/people/#manuella-comerio' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/manuella-comerio.svg' | relative_url }}" alt="Manuella Comerio de Paulo" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Manuella Comerio de Paulo</span></a>
 </div>
 
