@@ -12,6 +12,11 @@ See the [publications]({{ '/publications/' | relative_url }}) page for related p
 
 ## Team
 
+<div style="display:flex;flex-wrap:wrap;gap:10px 22px;align-items:center;margin:12px 0 4px;">
+  <span style="font-weight:700;min-width:70px;">Current:</span>
+  <a href="{{ '/people/#jiameng-hu' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/jiameng-hu.svg' | relative_url }}" alt="Jiameng Hu" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Jiameng Hu</span></a>
+</div>
+
 <div style="display:flex;flex-wrap:wrap;gap:10px 22px;align-items:center;margin:8px 0 20px;">
   <span style="font-weight:700;min-width:70px;opacity:0.75;">Past:</span>
   <a href="{{ '/people/#zixin-feng' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/zixin-feng.jpg' | relative_url }}" alt="Zixin Feng" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Zixin Feng</span></a>

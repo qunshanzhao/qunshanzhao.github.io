@@ -24,6 +24,7 @@ See the [publications]({{ '/publications/' | relative_url }}) page for related p
   <a href="{{ '/people/#michael-sinclair' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/michael-sinclair.jpg' | relative_url }}" alt="Michael Sinclair" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Michael Sinclair</span></a>
   <a href="{{ '/people/#saeed-maadi' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/saeed-maadi.svg' | relative_url }}" alt="Saeed Maadi" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Saeed Maadi</span></a>
   <a href="{{ '/people/#samuel-honle' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/samuel-honle.jpg' | relative_url }}" alt="Samuel Honle" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Samuel Honle</span></a>
+  <a href="{{ '/people/#reka-vonnak' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/reka-vonnak.svg' | relative_url }}" alt="Reka Vonnak" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Reka Vonnak</span></a>
 </div>
 
 ## Key publications

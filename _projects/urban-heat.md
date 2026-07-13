@@ -24,6 +24,8 @@ See the [publications]({{ '/publications/' | relative_url }}) page for related p
   <span style="font-weight:700;min-width:70px;opacity:0.75;">Past:</span>
   <a href="{{ '/people/#henry-ibitolu' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/henry-ibitolu.jpg' | relative_url }}" alt="Henry Ibitolu" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Henry Ibitolu</span></a>
   <a href="{{ '/people/#maoran-sun' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/maoran-sun.jpg' | relative_url }}" alt="Maoran Sun" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Maoran Sun</span></a>
+  <a href="{{ '/people/#mohammed-hassan' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/mohammed-hassan.svg' | relative_url }}" alt="Mohammed Hassan" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Mohammed Hassan</span></a>
+  <a href="{{ '/people/#rui-qiao' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/rui-qiao.svg' | relative_url }}" alt="Rui Qiao" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Rui Qiao</span></a>
 </div>
 
 ## Key publications

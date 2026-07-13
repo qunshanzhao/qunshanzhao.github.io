@@ -25,6 +25,8 @@ See the [publications]({{ '/publications/' | relative_url }}) page for related p
   <a href="{{ '/people/#qiaosi-li' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/qiaosi-li.svg' | relative_url }}" alt="Qiaosi Li" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Qiaosi Li</span></a>
   <a href="{{ '/people/#maoran-sun' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/maoran-sun.jpg' | relative_url }}" alt="Maoran Sun" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Maoran Sun</span></a>
   <a href="{{ '/people/#congying-hu' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/congying-hu.svg' | relative_url }}" alt="Congying Hu" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Congying Hu</span></a>
+  <a href="{{ '/people/#chau-man-fung' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/chau-man-fung.svg' | relative_url }}" alt="Chau Man Fung" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Chau Man Fung</span></a>
+  <a href="{{ '/people/#mingkang-wang' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/mingkang-wang.svg' | relative_url }}" alt="Mingkang Wang" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Mingkang Wang</span></a>
 </div>
 
 ## Key publications
