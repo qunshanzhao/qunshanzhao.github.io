@@ -26,7 +26,6 @@ nav_order: 3
   <button type="button" data-sec="all" class="people-filter-btn active" style="padding:0.3rem 0.85rem;border:2px solid currentColor;border-radius:1rem;background:none;font-weight:700;cursor:pointer;">All</button>
   <button type="button" data-sec="current-members" class="people-filter-btn" style="padding:0.3rem 0.85rem;border:1px solid currentColor;border-radius:1rem;background:none;cursor:pointer;">Current members</button>
   <button type="button" data-sec="past-group-members" class="people-filter-btn" style="padding:0.3rem 0.85rem;border:1px solid currentColor;border-radius:1rem;background:none;cursor:pointer;">Past members</button>
-  <button type="button" data-sec="google-summer-of-code-students" class="people-filter-btn" style="padding:0.3rem 0.85rem;border:1px solid currentColor;border-radius:1rem;background:none;cursor:pointer;">GSoC students</button>
 </div>
 
 <p class="people-jump" style="font-size:0.88em;opacity:0.85;margin:4px 0 0;line-height:1.9;">
@@ -41,7 +40,7 @@ nav_order: 3
   <a href="#g-past-group-members-phd-graduates">PhD Graduates</a> ·
   <a href="#g-past-group-members-msc-students-and-research-assistants">MSc &amp; RAs</a> ·
   <a href="#g-past-group-members-academic-visitors">Visitors</a>
-  &nbsp;<a href="#sec-google-summer-of-code-students"><strong>GSoC</strong></a>
+  &nbsp;<a href="#g-past-group-members-google-summer-of-code-students"><strong>GSoC</strong></a>
 </p>
 
 {% assign anchored_slugs = ',' %}

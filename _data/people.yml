@@ -187,10 +187,8 @@ sections:
           - name: Dr Li Tian
             slug: li-tian
             desc: Associate Professor, Institute of Geographic Science and Natural Resources, Chinese Academy of Sciences (2023)
-
-  - title: Google Summer of Code Students
-    groups:
-      - members:
+      - title: Google Summer of Code Students
+        members:
           - name: Dr Zixin Feng
             slug: zixin-feng
             photo: /assets/img/people/zixin-feng.jpg
