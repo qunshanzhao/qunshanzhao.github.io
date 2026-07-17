@@ -71,10 +71,12 @@ sections:
             desc: 3D City Modeling and SpaceEPC (2022–2024) — now GIS Team Leader in Wirral Council
           - name: Dr Grant Tregonning
             slug: grant-tregonning
+            photo: /assets/img/people/grant-tregonning.jpg
             url: https://www.linkedin.com/in/granttregonning/
             desc: IDEAMAPS and Sensor Enhanced Housing Survey (2023–2024) — now Data Science Manager in DWP Central Analysis and Science Directorate
           - name: Dr Angela Abascal
             slug: angela-abascal
+            photo: /assets/img/people/angela-abascal.jpg
             url: https://www.linkedin.com/in/angela-abascal-imizcoz/
             desc: IDEAMAPS (2023) — now Associate Researcher in Universidad Pública de Navarra with one of the most prestigious Spanish national scholarships, the Juan de la Cierva Scholarship
           - name: Dr Michael Sinclair
@@ -84,10 +86,12 @@ sections:
             desc: Understanding Urban Mobility with Mobile Phone Data (2020–2023) — now Permanent Lecturer in Urban Analytics in Urban Studies and UBDC, and PI of the ESRC-SDAI project (2023–2025)
           - name: Dr Saeed Maadi
             slug: saeed-maadi
+            photo: /assets/img/people/saeed-maadi.jpg
             url: https://www.linkedin.com/in/saeed-maadi-62b940b9/
             desc: Understanding Urban Mobility with Mobile Phone Data (2020–2022) — now Network Performance & Technical Manager in Mobiie (National Traffic Control Centre)
           - name: Dr Chau Man Fung
             slug: chau-man-fung
+            photo: /assets/img/people/chau-man-fung.jpg
             url: https://www.linkedin.com/in/chau-man-fung-755420b8/
             desc: Sensor Enhanced Housing Survey (2021) — now Senior Economist in Ofgem
       - title: Data Scientists
@@ -146,10 +150,12 @@ sections:
             desc: Glasgow Urban Analytics, IDEAMAPS (2024)
           - name: Mingkang Wang
             slug: mingkang-wang
+            photo: /assets/img/people/mingkang-wang.jpg
             url: https://www.linkedin.com/in/mingkangwang-glasgow/
             desc: Glasgow Urban Analytics, Sensor Enhanced Housing Survey, Job–Housing Balance Analysis, 3D City Modeling, and Multilingual Cities (2021–2023) — now Risk Management Analyst in China CITIC Bank
           - name: Congying Hu
             slug: congying-hu
+            photo: /assets/img/people/congying-hu.jpg
             url: https://www.linkedin.com/in/congying-hu/
             desc: Glasgow Urban Analytics, Sensor Enhanced Housing Survey, and 3D City Modeling (2023) — now NPD Data Custodian at Sustrans
           - name: Rongbo Xu

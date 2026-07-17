@@ -27,7 +27,7 @@ See the [publications]({{ '/publications/' | relative_url }}) page for related p
   <a href="{{ '/people/#zhenfeng-shao' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/zhenfeng-shao.svg' | relative_url }}" alt="Zhenfeng Shao" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Zhenfeng Shao</span></a>
   <a href="{{ '/people/#ziying-guo' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/ziying-guo.svg' | relative_url }}" alt="Ziying Guo" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Ziying Guo</span></a>
   <a href="{{ '/people/#pengyu-wang' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/pengyu-wang.svg' | relative_url }}" alt="Pengyu Wang" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Pengyu Wang</span></a>
-  <a href="{{ '/people/#mingkang-wang' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/mingkang-wang.svg' | relative_url }}" alt="Mingkang Wang" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Mingkang Wang</span></a>
+  <a href="{{ '/people/#mingkang-wang' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/mingkang-wang.jpg' | relative_url }}" alt="Mingkang Wang" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Mingkang Wang</span></a>
 </div>
 
 ## Key publications

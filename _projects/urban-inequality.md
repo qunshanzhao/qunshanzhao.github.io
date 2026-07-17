@@ -17,7 +17,7 @@ Cities concentrate both opportunity and disadvantage. With third-sector and publ
 
 <div style="display:flex;flex-wrap:wrap;gap:10px 22px;align-items:center;margin:8px 0 20px;">
   <span style="font-weight:700;min-width:70px;opacity:0.75;">Past:</span>
-  <a href="{{ '/people/#mingkang-wang' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/mingkang-wang.svg' | relative_url }}" alt="Mingkang Wang" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Mingkang Wang</span></a>
+  <a href="{{ '/people/#mingkang-wang' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/mingkang-wang.jpg' | relative_url }}" alt="Mingkang Wang" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Mingkang Wang</span></a>
 </div>
 
 ## Key publications
