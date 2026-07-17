@@ -23,7 +23,7 @@ nav_order: 5
 
 ## Short courses & PhD schools
 
-- **AGILE PhD School 2026** — *Urban Analytics in the AI Era: From Smart Data to Participatory Action*, University of Glasgow, September 2026 (PI, funded with €5,000)
+- **AGILE PhD School 2026** — *Urban Analytics in the AI Era: From Smart Data to Participatory Action*, University of Glasgow, September 2026 (PI, upcoming)
 - **Workshop: Introduction to Open-Source Spatial Optimization**, Aalto University, Finland, 2023 (materials on [GitHub](https://github.com/qszhao/Aalto2023-spopt))
 - **Aalto/Glasgow urban analytics open-source programming camp**, 2022–2024 — Turing Scheme-funded study visits to Aalto University for 12 MSc students (PI; see the [study visit blog](https://www.ubdc.ac.uk/news/msc-in-urban-analytics-study-visit-to-aalto-university-in-finland))
 - **GIS 461/561: Optimization Fundamentals for Spatial Analysis**, Arizona State University, Spring 2017 (hybrid course instructor)

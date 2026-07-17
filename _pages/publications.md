@@ -72,6 +72,20 @@ nav_order: 2
       yearSelect.appendChild(o);
     });
 
+    // CV-style numbering per section: newest entry gets the highest number
+    sections.forEach(sec => {
+      const items = sec.querySelectorAll('ol.bibliography > li, ul.bibliography > li');
+      let n = items.length;
+      items.forEach(li => {
+        const target = li.querySelector('.title') || li;
+        const num = document.createElement('span');
+        num.className = 'pub-num';
+        num.style.cssText = 'font-weight:700;margin-right:6px;';
+        num.textContent = (n--) + '.';
+        target.prepend(num);
+      });
+    });
+
     function apply() {
       const type = document.querySelector('.pub-type-btn.active')?.dataset.type || 'all';
       const year = yearSelect.value;

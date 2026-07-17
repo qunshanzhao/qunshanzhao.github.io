@@ -36,9 +36,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<small><em>🔊 "Qunshan Zhao" is pronounced <strong>Chween-shahn Jow</strong> — hear <a href="https://www.howtopronounce.com/qunshan">Qunshan</a> and <a href="https://www.youtube.com/watch?v=lbV39MD-KDY">Zhao (赵)</a>.</em></small>
+<small><em>🔊 "Qunshan Zhao" is pronounced <strong>Chween-shahn Jow</strong> — hear <a href="https://www.howtopronounce.com/qunshan">Qunshan (群山)</a> and <a href="https://www.youtube.com/watch?v=lbV39MD-KDY">Zhao (赵)</a>.</em></small>
 
-I am a **Professor in Urban Analytics** in the [Division of Urban Studies & Social Policy](https://www.gla.ac.uk/schools/socialpolitical/research/urban-studies-social-policy-research/), School of Social and Political Sciences, and **Deputy Director of the [Urban Big Data Centre (UBDC)](https://www.ubdc.ac.uk/)** at the University of Glasgow, where I lead the Urban Sensing & Analytics research theme. I am also a **Visiting Professor** in the [School of Geography](https://www.ucd.ie/geography/) at University College Dublin, Ireland.
+I am a **Professor in Urban Analytics** in the [Division of Urban Studies & Social Policy](https://www.gla.ac.uk/schools/socialpolitical/research/urban-studies-social-policy-research/), School of Social and Political Sciences, and **Deputy Director of the [Urban Big Data Centre (UBDC)](https://www.ubdc.ac.uk/)** at the University of Glasgow, where I lead the [City Modelling & Sensing](https://www.ubdc.ac.uk/research-theme/city-modelling-sensing) research theme. I am also a **Visiting Professor** in the [School of Geography](https://www.ucd.ie/geography/) at University College Dublin, Ireland.
 
 My research focuses on creating a sustainable urban future — tackling social, economic, and environmental problems in cities with **new forms of urban big data** and analytical approaches spanning GIScience (GIS, remote sensing, spatial analysis), machine learning/deep learning and foundation models, operations research, sensor networks, and **urban climate modelling and instrumentation**. Ongoing work includes urban infrastructure location optimisation, human–environment interactions and mobility, housing energy efficiency and fuel poverty, **indoor and outdoor urban heat**, informal settlement mapping, 3D city modelling, and open-source spatial optimisation ([PySAL/spopt](https://github.com/pysal/spopt)).
 
@@ -47,7 +47,7 @@ I joined Glasgow in May 2019 as a Lecturer, and was promoted to Senior Lecturer 
 ## Service highlights
 
 - Board of Directors, [CPGIS](https://www.cpgis.org/) (2026–present)
-- MSc External Examiner in Urban Informatics, King's College London (2023–present)
+- MSc External Examiner in [Urban Informatics](https://www.kcl.ac.uk/study/postgraduate-taught/courses/urban-informatics-msc), King's College London (2023–present)
 - Series Advisory Editor, [Springer Urban Book Series](https://www.springer.com/series/14773) (2021–present)
 - Grant reviewer for ESRC, EPSRC, UKRI Future Leaders Fellowships and US NSF; assessment panels for the ESRC SDR UK Fellowship & UK Space Agency (2025) and ESRC Secondary Data Analysis (2022–24)
 - Secretary, [RGS-IBG Quantitative Methods Research Group](https://qmrg.github.io/) (2021–25)
@@ -55,16 +55,17 @@ I joined Glasgow in May 2019 as a Lecturer, and was promoted to Senior Lecturer 
 
 ## Honours & awards
 
-- GISCup, 3rd place, 32nd ACM SIGSPATIAL (2024, with PhD student Zixin Feng)
-- Finalist, Early Career Researcher Award, RTPI Awards for Research Excellence (2024)
+- [CPGIS Young Scholar Award](https://www.cpgis.org/Awards), the International Association of Chinese Professionals in Geographic Information Sciences (2026)
+- [GISCup, 3rd place](https://sigspatial2024.sigspatial.org/giscup/), 32nd ACM SIGSPATIAL (2024, with PhD student [Zixin Feng]({{ '/people/#zixin-feng' | relative_url }}))
+- [Finalist, Early Career Researcher Award](https://www.rtpi.org.uk/events-training-and-awards/awards/rtpi-awards-for-research-excellence/previous-winners-and-finalists/2024-winners-and-finalists/), RTPI Awards for Research Excellence (2024)
 - Shortlist, Most Innovative Transport Project of the Year, Scottish Transport Awards (2022)
-- Fellowship of Recognising Excellence in Teaching, University of Glasgow (2021)
+- [Fellowship of Recognising Excellence in Teaching](https://www.gla.ac.uk/myglasgow/anywhere/recognisingexcellenceinteaching/), University of Glasgow (2021)
 - Global Young Scientist Award, World Geospatial Developers Conference (2020)
 - [J. Warren Nystrom Award](https://www.aag.org/award-grant/nystrom/), American Association of Geographers (2018)
 
 ## Beyond research
 
-I was born in a small mountainous town in Southeast China. When I was young, I was amazed by the succinctness of maths and physics, the power of computer programming, and the imagination of astronomy and geography. I then moved to Wuhan and spent four years at Wuhan University for my undergraduate engineering degree in Remote Sensing, building a comprehensive understanding of remote sensing, photogrammetry, and geographic information systems — while also taking optional courses in social science and the humanities (history and philosophy) to broaden my understanding of the world. I still remember how excited I was in my junior year when I first read a conference proceeding (《空间综合人文学与社会科学研究》) about using GIScience to tackle social science and humanities problems. That made me decide to pursue this direction in my career.
+I was born in a small mountainous town in Southeast China. When I was young, I was amazed by the succinctness of maths and physics, the power of computer programming, and the imagination of astronomy and geography. I then moved to Wuhan and spent four years at Wuhan University for my undergraduate engineering degree in Remote Sensing, building a comprehensive understanding of remote sensing, photogrammetry, and geographic information systems — while also taking optional courses in social science and the humanities (history and philosophy) to broaden my understanding of the world. I still remember how excited I was in my junior year when I first read a conference proceeding 《空间综合人文学与社会科学研究》 about using GIScience to tackle social science and humanities problems. That made me decide to pursue this direction in my career.
 
 In 2013 I joined the GeoDa Center / Spatial Analysis Research Center in the School of Geographical Sciences and Urban Planning at Arizona State University, where I learnt cutting-edge GIScience, spatial analytics, statistics, and optimization from world-renowned experts in both geography and industrial engineering, and worked on research projects funded by NSF, NASA, NIH, AAG, ASU, and the Piper Trust during six years in Arizona. I owe deep gratitude to my PhD advisor, [Prof. Elizabeth Wentz](https://search.asu.edu/profile/108171), for her continuous support. After my North American journey, I joined the Urban Big Data Centre and Urban Studies at the University of Glasgow in 2019 — a new journey in Western Europe. Now I focus on making our cities more liveable and sustainable through urban sensing, new forms of urban big data, and advanced urban analytics.
 
@@ -82,4 +83,4 @@ In the lab, we are particularly interested in how new forms of urban big data �
 
 We embrace an open-access and reproducible/replicable research culture, with open-source data, tools, and code wherever available. Our ultimate goal is to advance fundamental understanding of the human–environment nexus in urban areas and to promote sustainable and smart cities in the near future.
 
-If you are interested in joining the lab, please see the [opportunities]({{ '/opportunities/' | relative_url }}) page. My full academic CV is available as a <a href="{{ '/assets/pdf/Qunshan_Zhao_CV.pdf' | relative_url }}">PDF</a>.
+If you are interested in joining the lab, please see the [opportunities]({{ '/opportunities/' | relative_url }}) page. My institutional profile is on the [University of Glasgow staff page](https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/), and my full academic CV is available as a <a href="{{ '/assets/pdf/Qunshan_Zhao_CV.pdf' | relative_url }}">PDF</a>.

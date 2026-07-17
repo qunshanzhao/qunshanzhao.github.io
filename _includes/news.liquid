@@ -39,7 +39,14 @@ original flat list; the /news/ page groups items under year headings.{% endcomme
         {% unless years contains y %}{% assign years = years | append: y | append: ',' %}{% endunless %}
       {% endfor %}
       {% assign year_list = years | split: ',' %}
+      <div id="news-year-filters" style="display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:6px 0 2px;">
+        <button type="button" data-year="all" class="news-year-btn" style="padding:0.3rem 0.85rem;border:2px solid currentColor;border-radius:1rem;background:none;font-weight:700;cursor:pointer;">All</button>
+        {% for y in year_list %}
+          <button type="button" data-year="{{ y }}" class="news-year-btn" style="padding:0.3rem 0.85rem;border:1px solid currentColor;border-radius:1rem;background:none;cursor:pointer;">{{ y }}</button>
+        {% endfor %}
+      </div>
       {% for y in year_list %}
+        <div class="news-year-group" data-year="{{ y }}">
         <h2 class="bibliography" style="margin-top: 1.6rem">{{ y }}</h2>
         <div class="table-responsive">
           <table class="table table-sm table-borderless">
@@ -60,7 +67,25 @@ original flat list; the /news/ page groups items under year headings.{% endcomme
             {% endfor %}
           </table>
         </div>
+        </div>
       {% endfor %}
+      <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          var btns = document.querySelectorAll('.news-year-btn');
+          btns.forEach(function (b) {
+            b.addEventListener('click', function () {
+              document.querySelectorAll('.news-year-group').forEach(function (g) {
+                g.style.display = b.dataset.year === 'all' || g.dataset.year === b.dataset.year ? '' : 'none';
+              });
+              btns.forEach(function (x) {
+                var active = x === b;
+                x.style.fontWeight = active ? '700' : '400';
+                x.style.borderWidth = active ? '2px' : '1px';
+              });
+            });
+          });
+        });
+      </script>
     {% endif %}
   {% else %}
     <p>No news so far...</p>
