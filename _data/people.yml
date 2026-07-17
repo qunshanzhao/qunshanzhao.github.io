@@ -46,6 +46,7 @@ sections:
         members:
           - name: Dr Siqi Jia
             slug: siqi-jia
+            url: https://www.arch.hku.hk/staff/dla/jia-siqi/
             photo: /assets/img/people/siqi-jia.jpg
             desc: Research Assistant Professor, Division of Landscape Architecture, the University of Hong Kong (2026)
           - name: Dr Jiameng Hu
@@ -185,10 +186,13 @@ sections:
             desc: PhD Student, Department of Building and Real Estate, the Hong Kong Polytechnic University (2026) — now back in Hong Kong
           - name: Prof Qimin Cheng
             slug: qimin-cheng
+            url: http://faculty.hust.edu.cn/chengqimin/en/index.htm
             photo: /assets/img/people/qimin-cheng.jpg
             desc: Professor, School of Electronic Information and Communications, Huazhong University of Science and Technology (2024–25)
           - name: Prof Zhenfeng Shao
             slug: zhenfeng-shao
+            photo: /assets/img/people/zhenfeng-shao.jpg
+            url: https://jszy.whu.edu.cn/shaozhenfeng/en/index.htm
             desc: Professor, State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University (2024–25)
           - name: Pengyu Wang
             slug: pengyu-wang
