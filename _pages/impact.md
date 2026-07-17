@@ -109,6 +109,8 @@ Where the products have been used:
   </ul>
 </div>
 
+Project pages and open data: the UBDC project [Understanding the use of urban greenspaces with big data](https://www.ubdc.ac.uk/research-theme/environment-health/understanding-use-of-urban-greenspaces-with-big-data) (in partnership with Glasgow City Council), the open [Mobility Metrics for Glasgow City Region](https://researchdata.gla.ac.uk/1892/) and [Huq packaged data 2019–2024](https://researchdata.gla.ac.uk/1911/) datasets, the UBDC [transport and mobility data catalogue](https://www.ubdc.ac.uk/data-theme/transport-and-mobility), and joint outputs with GCC on greenspace visitation ([GIScience 2021](https://doi.org/10.25436/E2D59P); [GIScience 2023 poster](https://eprints.gla.ac.uk/305577/) — *"A Collaboration with Glasgow City Council to Aid in Open Space Policy and Operations"*).
+
 In this work I deliberately enabled early-career colleagues to lead the partner relationships: PDRA Dr Michael Sinclair is now a permanent Lecturer in Urban Analytics at Glasgow, and PDRA Dr Saeed Maadi moved to a data science leadership role in local government.
 
 <h2 id="charity" style="margin-top:2.4rem;scroll-margin-top:90px;">3 · Data science with charities and the third sector — the Salvation Army &amp; Sustrans</h2>
