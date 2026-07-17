@@ -58,7 +58,7 @@ I joined Glasgow in May 2019 as a Lecturer, and was promoted to Senior Lecturer 
 - [CPGIS Young Scholar Award](https://www.cpgis.org/Awards), the International Association of Chinese Professionals in Geographic Information Sciences (2026)
 - [GISCup, 3rd place](https://sigspatial2024.sigspatial.org/giscup/), 32nd ACM SIGSPATIAL (2024, with PhD student [Zixin Feng]({{ '/people/#zixin-feng' | relative_url }}))
 - [Finalist, Early Career Researcher Award](https://www.rtpi.org.uk/events-training-and-awards/awards/rtpi-awards-for-research-excellence/previous-winners-and-finalists/2024-winners-and-finalists/), RTPI Awards for Research Excellence (2024)
-- Shortlist, Most Innovative Transport Project of the Year, Scottish Transport Awards (2022)
+- [Shortlist, Most Innovative Transport Project of the Year](https://www.glasgow.gov.uk/article/2620/Scottish-Transport-Awards-Shortlisting-Success-for-Council-Teams), Scottish Transport Awards (2022)
 - Fellowship of Recognising Excellence in Teaching, University of Glasgow (2021)
 - [Global Young Scientist Award](https://wgdc.taibo.cn/2020/), World Geospatial Developers Conference (2020)
 - [J. Warren Nystrom Award](https://www.aag.org/award-grant/nystrom/), American Association of Geographers (2018)

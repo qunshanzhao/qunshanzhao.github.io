@@ -4,7 +4,7 @@ permalink: /opensource/
 title: Open Source
 description: I am one of the contributors to PySAL/spopt, an open-source Python package for spatial optimisation, and have mentored spopt contributors through Google Summer of Code (2021–2025).
 nav: true
-nav_order: 7
+nav_order: 8
 ---
 
 ## Featured projects

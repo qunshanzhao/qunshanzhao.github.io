@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Courses I teach at the University of Glasgow, short courses and PhD schools, and the MSc in Urban Analytics.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 ## Courses at the University of Glasgow

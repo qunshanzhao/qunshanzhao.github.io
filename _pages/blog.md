@@ -3,7 +3,7 @@ layout: page
 permalink: /blog/
 title: Blog
 nav: true
-nav_order: 8
+nav_order: 9
 ---
 
 <div style="display:flex;gap:8px;margin:4px 0 18px;">
