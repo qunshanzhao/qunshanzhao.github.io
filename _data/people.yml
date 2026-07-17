@@ -66,7 +66,8 @@ sections:
             desc: IDEAMAPS (2024–2025) — now Researcher at RISE Research Institutes of Sweden
           - name: Dr Qiaosi Li
             slug: qiaosi-li
-            url: https://www.linkedin.com/in/qiaosi-li-820a79284/
+            photo: /assets/img/people/qiaosi-li.jpg
+            url: https://www.linkedin.com/in/joss-qiaosi-li-820a79284/
             desc: 3D City Modeling and SpaceEPC (2022–2024) — now GIS Team Leader in Wirral Council
           - name: Dr Grant Tregonning
             slug: grant-tregonning
@@ -153,6 +154,7 @@ sections:
             desc: Glasgow Urban Analytics, Sensor Enhanced Housing Survey, and 3D City Modeling (2023) — now NPD Data Custodian at Sustrans
           - name: Rongbo Xu
             slug: rongbo-xu
+            photo: /assets/img/people/rongbo-xu.jpg
             url: https://www.linkedin.com/in/rongbo-xu-51302b235/
             desc: UCL Urban Analytics, AGILE open-source location allocation modeling (2023) — now Associate Data Engineer at Vortexa
           - name: Samuel Honle
@@ -184,6 +186,7 @@ sections:
             desc: Professor, State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University (2024–25)
           - name: Pengyu Wang
             slug: pengyu-wang
+            url: https://www.linkedin.com/in/pengyu-wang-256245346/
             desc: Master of Science in Geo-information Science and Earth Observation, University of Twente (2024)
           - name: Dr Li Tian
             slug: li-tian
@@ -197,6 +200,8 @@ sections:
             desc: '[PySAL&#58; spopt development] Flow-based Facility Location Models (<a href="https://summerofcode.withgoogle.com/programs/2025/projects/rCb85IXn">project link</a>), Summer 2025'
           - name: Rongbo Xu
             slug: rongbo-xu
+            photo: /assets/img/people/rongbo-xu.jpg
+            url: https://www.linkedin.com/in/rongbo-xu-51302b235/
             desc: '[PySAL&#58; spopt development] P-Median Model with Near-Far Cost Allocation&#58; Guided by Tobler''s Law (<a href="https://summerofcode.withgoogle.com/programs/2023/projects/05jDO3IG">project link</a>), Summer 2023'
           - name: Erin Rosemary
             slug: erin-rosemary
