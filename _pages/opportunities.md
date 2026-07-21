@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-*Update: 11/07/2026*
+*Update: 17/07/2026*
 
 I am very happy to supervise/host PhD students, Postdoctoral Research Associates, and Visiting Students/Scholars in:
 
@@ -65,6 +65,13 @@ We are also more than happy to support your application to the [UKRI Future Lead
 - [Student funding and PhD scholarships in the College of Social Sciences](https://www.gla.ac.uk/colleges/socialsciences/studentfundingopportunities/#/postgraduateresearchfundingopportunities), University of Glasgow
 - [PhD funding — a checklist of possible sources](https://career-advice.jobs.ac.uk/phd-studentship/phd-funding-a-checklist-of-possible-sources/) (jobs.ac.uk)
 - [RGS-IBG grants](https://www.rgs.org/in-the-field/in-the-field-grants/)
+
+## Visiting scholars & visiting PhD students
+
+I am happy to host visiting scholars and visiting PhD students whose research fits the lab's themes. **Please email me first** with your CV, a short research plan, and your intended dates before starting a formal application.
+
+- **Visiting scholars** (faculty members and researchers) are hosted under the School's [Visiting Scholar Policy](https://www.gla.ac.uk/schools/socialpolitical/research/aboutourresearch/visitingscholarpolicy/). Visiting Affiliate Scholar status comes with library and IT access (desk space and visa sponsorship are not guaranteed); the School charges a £100/month (+VAT) bench fee, and visits longer than one month require the application form on that page. Visitors are expected to take part in the academic life of the School, including offering a talk at a Subject, Centre, or student seminar while in Glasgow.
+- **Visiting PhD students** registered at other universities apply through the College of Social Sciences Graduate School as [Visiting Postgraduate Researchers](https://www.gla.ac.uk/colleges/socialsciences/graduateschool/applications/visiting/). You should normally have completed at least one year of full-time doctoral study (or the part-time equivalent) at your home university, have a clearly identified shared research interest with the lab and funding in place to support the visit; visits longer than 6 months are subject to visa restrictions.
 
 ## REF results
 

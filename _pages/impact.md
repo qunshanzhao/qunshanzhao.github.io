@@ -9,6 +9,8 @@ nav_order: 3
 
 Urban analytics is an applied field that brings the newest developments in data science and AI into the traditional urban planning domain. My aim has always been to positively influence policy and practice in using new forms of urban big data and advanced quantitative methods to understand urban phenomena — and to use credible, persuasive evidence to improve the form and sustainability of the built environment.
 
+<p style="font-size:0.9em;opacity:0.75;font-style:italic;margin-top:10px;">The content is under development and will be updated actively.</p>
+
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:18px;margin:22px 0 8px;">
   <a href="#heat" style="text-decoration:none;color:inherit;border:1px solid rgba(128,128,128,0.3);border-radius:12px;overflow:hidden;display:flex;flex-direction:column;">
     <img src="{{ '/assets/img/impact/impact-heat.png' | relative_url }}" alt="Heat inequality in housing" style="width:100%;aspect-ratio:16/9;object-fit:cover;display:block;" loading="lazy">
