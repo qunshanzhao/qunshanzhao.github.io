@@ -35,6 +35,7 @@ horizontal: false
 
 - **[Sensing Gorbals](https://www.gla.ac.uk/research/az/sustainablesolutions/ourprojects/gallant/innovationfundprojects/sensingchangeheatandairqualityinthegorbals/)** (2025–2026) — community sensing of heat and air quality in the Gorbals, Glasgow (GALLANT Innovation Fund)
 - **[SpaceEPC](https://business.esa.int/projects/spaceepc)** (2024–2025) — modelling building energy efficiency at scale with satellite Earth observation (ESA Business Applications)
+- **[Estimating building energy efficiency and carbon footprint for a net-zero carbon target via urban sensing and AI](https://royalsociety.org/grants/international-exchanges/)** (2023–2026) — Royal Society International Exchanges with NSFC (grant IEC\NSFC\223042, £12,000)
 - **[In-Home Sensors Survey](https://www.understandingsociety.ac.uk/participants/projects/sensor/)** (2023–2025) — environmental sensor data collection in Understanding Society households
 - **[HotHome](https://www.mirror.co.uk/news/uk-news/uks-overheating-summer-health-crisis-31597681)** (2023) — investigating summer overheating in UK homes with in-home sensors (with the Bureau of Investigative Journalism; coverage in the Mirror)
 - **[Glasgow3D](https://zenodo.org/records/15000747)** (2022–2025) — open large-scale 3D building and tree datasets for Glasgow, constructed from airborne LiDAR point clouds
