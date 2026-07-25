@@ -31,13 +31,24 @@ horizontal: false
 
 ## Major funded projects
 
-Selected projects I lead as academic Principal Investigator:
+**As academic Principal Investigator:**
 
 - **[Sensing Gorbals](https://www.gla.ac.uk/research/az/sustainablesolutions/ourprojects/gallant/innovationfundprojects/sensingchangeheatandairqualityinthegorbals/)** (2025–2026) — community sensing of heat and air quality in the Gorbals, Glasgow (GALLANT Innovation Fund)
 - **[SpaceEPC](https://business.esa.int/projects/spaceepc)** (2024–2025) — modelling building energy efficiency at scale with satellite Earth observation (ESA Business Applications)
 - **[In-Home Sensors Survey](https://www.understandingsociety.ac.uk/participants/projects/sensor/)** (2023–2025) — environmental sensor data collection in Understanding Society households
 - **[HotHome](https://www.mirror.co.uk/news/uk-news/uks-overheating-summer-health-crisis-31597681)** (2023) — investigating summer overheating in UK homes with in-home sensors (with the Bureau of Investigative Journalism; coverage in the Mirror)
 - **[Glasgow3D](https://zenodo.org/records/15000747)** (2022–2025) — open large-scale 3D building and tree datasets for Glasgow, constructed from airborne LiDAR point clouds
+
+**As Co-Investigator:**
+
+- **[Urban Big Data Centre — ESRC national data service](https://www.ubdc.ac.uk/)** (Co-I, 2019–2026) — data service extension phases 2 to 4 (PI: Prof Nick Bailey; ESRC grants [ES/L011921/1](https://gtr.ukri.org/projects?ref=ES%2FL011921%2F1) and [ES/S007105/1](https://gtr.ukri.org/projects?ref=ES%2FS007105%2F1))
+- **[IDEAMAPS Data Ecosystem](https://www.ubdc.ac.uk/research-theme/participatory-analytics/ideamaps-data-ecosystem)** (Co-PI, 2022–2026) — a participatory data-modelling ecosystem for deprived-area map production in LMIC cities (PI: Prof João Porto de Albuquerque; Bill &amp; Melinda Gates Foundation, $1,690,337)
+- **[Understanding human–nature interactions with new forms of big data](https://gtr.ukri.org/projects?ref=ES%2FW012979%2F1)** (Co-PI, 2023–2025) — ESRC Secondary Data Analysis Initiative (PI: Dr Michael Sinclair; grant ES/W012979/1, £292,306)
+
+**As fellowship mentor and PhD studentship supervisor:**
+
+- **[From Smart Data to Health Impacts: Thermal Simulation of Indoor Environments in UK Cold Homes](https://gtr.ukri.org/projects?ref=UKRI4008)** (Fellowship Mentor, 2026–2027) — SDR UK Fellowship (Fellow: Dr Mingyu Zhu; £199,799)
+- **ESRC (SGSSS) PhD studentships** — [Mohd Sarim](https://gtr.ukri.org/projects?ref=studentship-2760612) (lead supervisor; third-sector employability services with the Salvation Army UK, 2022–2026) and [Yunbei Ou](https://gtr.ukri.org/projects?ref=studentship-2760675) (co-supervisor; housing market impacts of building energy efficiency regulation, 2022–2026)
 
 ## Research talks
 
