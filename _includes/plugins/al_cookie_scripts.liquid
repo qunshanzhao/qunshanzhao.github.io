@@ -1,0 +1,134 @@
+{% comment %}
+  Local override of the al_cookie gem's {% raw %}{% al_cookie_scripts %}{% endraw %} tag output.
+  Fixes Google Consent Mode never being updated to "granted":
+  (1) the gem read consentData.categories (undefined in vanilla-cookieconsent v3 callbacks),
+  (2) categories is an array, not an object,
+  (3) no callback ran on repeat visits, so every hit was sent with gcs=G100 and dropped by GA4.
+  Uses CookieConsent.acceptedCategory() instead, adds onConsent for repeat visits,
+  and wait_for_update so the initial page_view waits for the consent state.
+{% endcomment %}
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3.1.0/dist/cookieconsent.umd.js"
+  integrity="sha256-vG4vLmOB/AJbJ6awr7Wg4fxonG+fxAp4cIrbIFTvRXU="
+  crossorigin="anonymous"
+></script>
+<script defer src="{{ site.baseurl }}/assets/al_cookie/js/cookie-theme-sync.js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  if (typeof window.gtag !== "function") {
+    window.gtag = function () {
+      window.dataLayer.push(arguments);
+    };
+  }
+
+  var gtag = window.gtag;
+  gtag("consent", "default", {
+    ad_storage: "denied",
+    analytics_storage: "denied",
+    functionality_storage: "denied",
+    personalization_storage: "denied",
+    wait_for_update: 1500,
+  });
+
+  var cookieConsentRetryCount = 0;
+  var COOKIE_CONSENT_MAX_RETRIES = 50;
+
+  function initializeCookieConsent() {
+    if (!window.CookieConsent) {
+      if (cookieConsentRetryCount++ < COOKIE_CONSENT_MAX_RETRIES) {
+        setTimeout(initializeCookieConsent, 100);
+      } else {
+        console.error("CookieConsent library failed to load");
+      }
+      return;
+    }
+
+    function applyConsent(isFirstConsent) {
+      var granted = false;
+      try {
+        granted = window.CookieConsent.acceptedCategory("analytics");
+      } catch (e) {
+        granted = false;
+      }
+      gtag("consent", "update", {
+        analytics_storage: granted ? "granted" : "denied",
+        ad_storage: "denied",
+        functionality_storage: "denied",
+        personalization_storage: "denied",
+      });
+      if (granted && isFirstConsent) {
+        // the automatic page_view on this page went out before consent was granted — resend it
+        gtag("event", "page_view");
+      }
+    }
+
+    window.CookieConsent.run({
+      categories: {
+        necessary: {
+          enabled: true,
+          readOnly: true,
+        },
+        analytics: {},
+      },
+      language: {
+        default: "en",
+        translations: {
+          en: {
+            consentModal: {
+              title: "We use cookies",
+              description:
+                'This website uses cookies to improve your experience and analyze site traffic. By clicking "Accept all", you consent to our use of cookies.',
+              acceptAllBtn: "Accept all",
+              acceptNecessaryBtn: "Reject all",
+              showPreferencesBtn: "Manage Individual preferences",
+            },
+            preferencesModal: {
+              title: "Manage cookie preferences",
+              acceptAllBtn: "Accept all",
+              acceptNecessaryBtn: "Reject all",
+              savePreferencesBtn: "Accept current selection",
+              closeIconLabel: "Close modal",
+              sections: [
+                {
+                  title: "Cookie usage",
+                  description:
+                    "We use cookies to ensure the basic functionalities of the website and to enhance your online experience. You can choose for each category to opt-in/out whenever you want.",
+                },
+                {
+                  title: "Strictly Necessary cookies",
+                  description:
+                    "These cookies are essential for the proper functioning of the website. Without these cookies, the website would not work properly.",
+                  linkedCategory: "necessary",
+                },
+                {
+                  title: "Analytics cookies",
+                  description:
+                    "These cookies allow us to measure traffic and analyze your behavior to improve our service.",
+                  linkedCategory: "analytics",
+                },
+                {
+                  title: "More information",
+                  description:
+                    'For any queries in relation to our policy on cookies and your choices, please <a class="cc-link" href="{{ site.url }}{{ site.baseurl }}/#contact">contact us</a>.',
+                },
+              ],
+            },
+          },
+        },
+      },
+      onFirstConsent: function () {
+        applyConsent(true);
+      },
+      onConsent: function () {
+        applyConsent(false);
+      },
+      onChange: function () {
+        applyConsent(false);
+      },
+    });
+  }
+
+  initializeCookieConsent();
+</script>
