@@ -73,6 +73,15 @@ I am happy to host visiting scholars and visiting PhD students whose research fi
 - **Visiting scholars** (faculty members and researchers) are hosted under the School's [Visiting Scholar Policy](https://www.gla.ac.uk/schools/socialpolitical/research/aboutourresearch/visitingscholarpolicy/). Visiting Affiliate Scholar status comes with library and IT access (desk space and visa sponsorship are not guaranteed); the School charges a **£100/month (+VAT) bench fee**, and visits longer than one month require the application form on that page. Visitors are expected to take part in the academic life of the School, including offering a talk at a Subject, Centre, or student seminar while in Glasgow.
 - **Visiting PhD students** registered at other universities apply through the College of Social Sciences Graduate School as [Visiting Postgraduate Researchers](https://www.gla.ac.uk/colleges/socialsciences/graduateschool/applications/visiting/). You should normally have completed at least one year of full-time doctoral study (or the part-time equivalent) at your home university, have a clearly identified shared research interest with the lab and funding in place to support the visit; visits longer than 6 months are subject to visa restrictions. Fees depend on the visit format: with informal meetings only, **£0 for 1–3 months**, **£500 for 3–6 months**, or **£1,000 for 6–12 months**; visits with formal supervision are charged **pro-rated Home PGR fees** for the duration of the visit (fees cannot be waived by the College or Schools).
 
+### Visiting professor and sabbatical fellowships
+
+Several funded schemes can support a sabbatical or visiting professorship in the lab — the career stage for each is listed to make them easy to compare:
+
+- [Royal Society Wolfson Visiting Fellowship](https://royalsociety.org/grants/royal-society-wolfson-visiting-fellowship/) — **career stage: mid-career to senior researchers** based outside the UK (natural sciences); a flexible 12-month sabbatical (can be spread part-time over up to 24 months), nominated by the UK host institution
+- [Leverhulme Visiting Professorships](https://www.leverhulme.ac.uk/visiting-professorships) — **career stage: eminent senior professors** based overseas, invited by the UK host institution; 3–12 months
+- [British Academy Visiting Fellowships](https://www.thebritishacademy.ac.uk/funding/visiting-fellowships/) — **career stage: postdoctoral or equivalent and above** (humanities and social sciences), based in any country outside the UK; 3–6 months
+- [Fulbright US Scholar Program](https://fulbrightscholars.org/) — **career stage: US citizens from postdoctoral to professorial level**; award lengths vary by programme — an additional option if you hold US citizenship
+
 ## REF results
 
 [2021 UK Research Excellence Framework (REF) results](https://results2021.ref.ac.uk/profiles/units-of-assessment/13): 96% of the University of Glasgow's research in Unit of Assessment 13 — Architecture, Built Environment and Planning, where Urban Studies is submitted — was rated world-leading (4*: 41%) or internationally excellent (3*: 55%).
