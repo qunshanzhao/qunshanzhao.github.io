@@ -11,10 +11,17 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+<style>
+  /* Year group headings default to the divider colour, which is too faint */
+  .publications h2.bibliography {
+    color: var(--global-text-color-light);
+  }
+</style>
+
 <div id="pub-filters" style="display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:14px 0 4px;">
   <button type="button" data-type="all" class="pub-type-btn" style="padding:0.3rem 0.8rem;border:1.5px solid currentColor;border-radius:1rem;background:none;font-weight:600;cursor:pointer;">All</button>
   <button type="button" data-type="journal" class="pub-type-btn" style="padding:0.3rem 0.8rem;border:1px solid currentColor;border-radius:1rem;background:none;cursor:pointer;">Journal articles</button>
-  <button type="button" data-type="chapter" class="pub-type-btn" style="padding:0.3rem 0.8rem;border:1px solid currentColor;border-radius:1rem;background:none;cursor:pointer;">Book chapters</button>
+  <button type="button" data-type="chapter" class="pub-type-btn" style="padding:0.3rem 0.8rem;border:1px solid currentColor;border-radius:1rem;background:none;cursor:pointer;">Books &amp; book chapters</button>
   <button type="button" data-type="conf" class="pub-type-btn" style="padding:0.3rem 0.8rem;border:1px solid currentColor;border-radius:1rem;background:none;cursor:pointer;">Conference &amp; other</button>
   <label style="margin-left:auto;">Year:
     <select id="pub-year-select" style="padding:0.25rem 0.5rem;border:1px solid currentColor;border-radius:0.4rem;background:none;color:inherit;">
@@ -40,9 +47,9 @@ nav_order: 2
 
 <div class="publications pub-section" data-type="chapter">
 
-<h2 style="margin:1.4rem 0 0.2rem;">Book chapters</h2>
+<h2 style="margin:1.4rem 0 0.2rem;">Books &amp; book chapters</h2>
 
-{% bibliography -q @incollection %}
+{% bibliography -q @book || @incollection %}
 
 </div>
 
