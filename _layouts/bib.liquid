@@ -59,6 +59,35 @@
         {% assign author_array_limit = site.max_author_limit %}
       {% endif %}
 
+      {%- if author_array_size == 0 and entry.editor -%}
+        {%- comment -%}Editor-only entries (edited books/proceedings): render editors with "(Eds.)"{%- endcomment -%}
+        {%- assign editor_list = entry.editor | split: ' and ' -%}
+        {%- for ed in editor_list -%}
+          {%- assign ed_name = ed | strip -%}
+          {%- if ed_name contains ',' -%}
+            {%- assign ed_parts = ed_name | split: ',' -%}
+            {%- assign ed_first = ed_parts[1] | strip -%}
+            {%- assign ed_last = ed_parts[0] | strip -%}
+            {%- assign ed_name = ed_first | append: ' ' | append: ed_last -%}
+          {%- endif -%}
+          {%- if forloop.length > 1 -%}
+            {% if forloop.first == false -%}
+              {%- if forloop.length > 2 %}, {% elsif forloop.length == 2 %}  {% endif %}
+            {%- endif %}
+            {%- if forloop.last %}and {% endif -%}
+          {% endif %}
+          {%- assign ed_name_words = ed_name | split: ' ' -%}
+          {%- assign ed_last_word = ed_name_words | last -%}
+          {%- assign ed_first_word = ed_name_words | first -%}
+          {%- if site.scholar.last_name contains ed_last_word and site.scholar.first_name contains ed_first_word -%}
+            <em>{{ ed_name }}</em>
+          {%- else -%}
+            {{ ed_name }}
+          {%- endif -%}
+        {%- endfor %}
+        (Eds.)
+      {%- endif -%}
+
       {% assign self_index = -1 %}
       {%- for a in entry.author_array -%}
         {%- assign a_last = a.last | regex_replace: '[*∗†‡§¶‖&^]', '' -%}
@@ -176,6 +205,8 @@
       {% capture entrytype %}<em>In {{ entry.booktitle }}</em>{% endcapture %}
     {% elsif thesis contains entry.type %}
       {% capture entrytype %}<em>{{ entry.school }}</em>{% endcapture %}
+    {% elsif author_array_size == 0 and entry.editor %}
+      {% capture entrytype %}<em>{{ entry.series }}</em>{% if entry.series and entry.publisher %}, {% endif %}{{ entry.publisher }}{% endcapture %}
     {% else %}
       {% capture entrytype %}{% endcapture %}
     {% endif %}
