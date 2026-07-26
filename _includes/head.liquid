@@ -160,5 +160,5 @@
 
   <!-- Cloudflare Web Analytics (cookie-less; local override of gem head.liquid) -->
   {% if site.analytics.cloudflare %}
-  <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ site.analytics.cloudflare }}"}'></script>
+  <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ site.analytics.cloudflare }}"}'></script>
   {% endif %}
