@@ -42,7 +42,8 @@ horizontal: false
 
 **As Co-Investigator:**
 
-- **[Urban Big Data Centre — ESRC national data service](https://www.ubdc.ac.uk/)** (Co-I, 2019–2026) — data service extension phases 2 to 4 (PI: Prof Nick Bailey; ESRC grants [ES/L011921/1](https://gtr.ukri.org/projects?ref=ES%2FL011921%2F1) and [ES/S007105/1](https://gtr.ukri.org/projects?ref=ES%2FS007105%2F1))
+- **[Urban Big Data Centre — research programme](https://www.ubdc.ac.uk/)** (Co-I, 2019–2030) — big data research to improve social, economic and environmental well-being in cities (PI: Prof Nick Bailey; ESRC grant [ES/S007105/1](https://gtr.ukri.org/projects?ref=ES%2FS007105%2F1))
+- **[Urban Big Data Centre — ESRC national data service](https://www.ubdc.ac.uk/)** (Co-I, 2019–2026) — data service extension phases 2 to 4, concluded March 2026 (PI: Prof Nick Bailey; ESRC grant [ES/L011921/1](https://gtr.ukri.org/projects?ref=ES%2FL011921%2F1))
 - **[IDEAMAPS Data Ecosystem](https://www.ideamapsnetwork.org/project/ideamaps-data-ecosystem)** (Co-PI, 2022–2026) — a participatory data-modelling ecosystem for deprived-area map production in LMIC cities (PI: Prof João Porto de Albuquerque; Bill &amp; Melinda Gates Foundation)
 - **[Human Mobility in Greenspace](https://www.ubdc.ac.uk/research-theme/environment-health/understanding-use-of-urban-greenspaces-with-big-data)** (Co-PI, 2023–2025) — understanding human–nature interactions in urban areas using new forms of big data; ESRC Secondary Data Analysis Initiative (PI: Dr Michael Sinclair; grant [ES/W012979/1](https://gtr.ukri.org/projects?ref=ES%2FW012979%2F1))
 
