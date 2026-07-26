@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-*Update: 17/07/2026*
+*Update: 26/07/2026*
 
 I am very happy to supervise/host PhD students, Postdoctoral Research Associates, and Visiting Students/Scholars in:
 
@@ -73,7 +73,7 @@ I am happy to host visiting scholars and visiting PhD students whose research fi
 - **Visiting scholars** (faculty members and researchers) are hosted under the School's [Visiting Scholar Policy](https://www.gla.ac.uk/schools/socialpolitical/research/aboutourresearch/visitingscholarpolicy/). Visiting Affiliate Scholar status comes with library and IT access (desk space and visa sponsorship are not guaranteed); the School charges a **£100/month (+VAT) bench fee**, and visits longer than one month require the application form on that page. Visitors are expected to take part in the academic life of the School, including offering a talk at a Subject, Centre, or student seminar while in Glasgow.
 - **Visiting PhD students** registered at other universities apply through the College of Social Sciences Graduate School as [Visiting Postgraduate Researchers](https://www.gla.ac.uk/colleges/socialsciences/graduateschool/applications/visiting/). You should normally have completed at least one year of full-time doctoral study (or the part-time equivalent) at your home university, have a clearly identified shared research interest with the lab and funding in place to support the visit; visits longer than 6 months are subject to visa restrictions. Fees depend on the visit format: with informal meetings only, **£0 for 1–3 months**, **£500 for 3–6 months**, or **£1,000 for 6–12 months**; visits with formal supervision are charged **pro-rated Home PGR fees** for the duration of the visit (fees cannot be waived by the College or Schools).
 
-### Visiting professor and sabbatical fellowships
+## Visiting professor and sabbatical fellowships
 
 Several funded schemes can support a sabbatical or visiting professorship in the lab — the career stage for each is listed to make them easy to compare:
 
