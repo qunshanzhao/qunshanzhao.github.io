@@ -148,6 +148,7 @@ sections:
             desc: PhD in Cambridge, SpaceEPC (2024–2025)
           - name: Manuella Comerio de Paulo
             slug: manuella-comerio
+            photo: /assets/img/people/manuella-comerio.jpg
             url: https://www.linkedin.com/in/manuella-comerio-de-paulo/
             desc: Glasgow Urban Analytics, IDEAMAPS (2024)
           - name: Mingkang Wang
@@ -197,10 +198,12 @@ sections:
             desc: Professor, State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University (2024–25)
           - name: Pengyu Wang
             slug: pengyu-wang
+            photo: /assets/img/people/pengyu-wang.jpg
             url: https://www.linkedin.com/in/pengyu-wang-256245346/
             desc: Master of Science in Geo-information Science and Earth Observation, University of Twente (2024)
           - name: Dr Li Tian
             slug: li-tian
+            photo: /assets/img/people/li-tian.jpg
             url: https://people.ucas.ac.cn/~0062471
             desc: Associate Professor, Institute of Geographic Science and Natural Resources, Chinese Academy of Sciences (2023)
       - title: Google Summer of Code Students

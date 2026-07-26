@@ -23,7 +23,7 @@ See the [publications]({{ '/publications/' | relative_url }}) page for related p
   <a href="{{ '/people/#sebastian-hafner' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/sebastian-hafner.jpg' | relative_url }}" alt="Sebastian Hafner" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Sebastian Hafner</span></a>
   <a href="{{ '/people/#grant-tregonning' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/grant-tregonning.jpg' | relative_url }}" alt="Grant Tregonning" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Grant Tregonning</span></a>
   <a href="{{ '/people/#angela-abascal' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/angela-abascal.jpg' | relative_url }}" alt="Angela Abascal" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Angela Abascal</span></a>
-  <a href="{{ '/people/#manuella-comerio' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/manuella-comerio.svg' | relative_url }}" alt="Manuella Comerio de Paulo" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Manuella Comerio de Paulo</span></a>
+  <a href="{{ '/people/#manuella-comerio' | relative_url }}" style="display:flex;align-items:center;gap:8px;"><img src="{{ '/assets/img/people/manuella-comerio.jpg' | relative_url }}" alt="Manuella Comerio de Paulo" style="width:40px;height:40px;border-radius:50%;object-fit:cover;" loading="lazy"><span>Manuella Comerio de Paulo</span></a>
 </div>
 
 ## Key publications
