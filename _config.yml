@@ -116,7 +116,7 @@ analytics:
   cloudflare: # your Cloudflare Web Analytics beacon token (cookie-less; emitted via local _includes/head.liquid)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-google_site_verification: # your google-site-verification ID (Google Search Console)
+google_site_verification: WAJtG9n9eFbWFS0b6sPECBTFS69rGBmd0JK48_r18a8 # google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
