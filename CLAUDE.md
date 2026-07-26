@@ -25,6 +25,8 @@ Push to `main` → GitHub Actions **"Deploy site"** workflow (Jekyll build + pur
   the change on the live URL with curl/grep. The CDN caches ~10 minutes and
   **ignores query strings**, so `?x=1` cache-busting does not work.
 - A green run for the *previous* commit is a classic false positive — match the SHA.
+- The owner has authorised pushing straight to `main` to go live — no PR and no
+  confirmation question needed (26 Jul 2026). Still verify the deploy afterwards.
 
 ## Layout of the content
 
