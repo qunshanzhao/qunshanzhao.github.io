@@ -35,7 +35,7 @@ horizontal: false
 
 - **[Sensing Gorbals](https://www.gla.ac.uk/research/az/sustainablesolutions/ourprojects/gallant/innovationfundprojects/sensingchangeheatandairqualityinthegorbals/)** (2025–2026) — community sensing of heat and air quality in the Gorbals, Glasgow (GALLANT Innovation Fund)
 - **[SpaceEPC](https://business.esa.int/projects/spaceepc)** (2024–2025) — modelling building energy efficiency at scale with satellite Earth observation (ESA Business Applications)
-- **Building Decarbonisation** (2023–2026) — estimating building energy efficiency and carbon footprint for a net-zero carbon target via urban sensing and AI (Royal Society International Exchanges with NSFC, grant IEC\NSFC\223042)
+- **[Building Decarbonisation](https://doi.org/10.1038/s42949-026-00348-7)** (2023–2026) — estimating building energy efficiency and carbon footprint for a net-zero carbon target via urban sensing and AI (Royal Society International Exchanges with NSFC, grant IEC\NSFC\223042)
 - **[In-Home Sensors Survey](https://www.understandingsociety.ac.uk/participants/projects/sensor/)** (2023–2025) — environmental sensor data collection in Understanding Society households
 - **[HotHome](https://www.mirror.co.uk/news/uk-news/uks-overheating-summer-health-crisis-31597681)** (2023) — investigating summer overheating in UK homes with in-home sensors (with the Bureau of Investigative Journalism; coverage in the Mirror)
 - **[Glasgow3D](https://zenodo.org/records/15000747)** (2022–2025) — open large-scale 3D building and tree datasets for Glasgow, constructed from airborne LiDAR point clouds
@@ -49,7 +49,7 @@ horizontal: false
 **As fellowship mentor and PhD studentship supervisor:**
 
 - **[ColdHome](https://www.ubdc.ac.uk/research-theme/city-modelling-sensing/from-smart-data-to-health-impacts-thermal-simulation-of-indoor-environments-in-uk-cold-homes)** (Fellowship Mentor, 2026–2027) — thermal simulation of indoor environments in UK cold homes; SDR UK Fellowship (Fellow: Dr Mingyu Zhu; grant [UKRI4008](https://gtr.ukri.org/projects?ref=UKRI4008))
-- **ESRC (SGSSS) PhD studentships** — [Mohd Sarim](https://gtr.ukri.org/projects?ref=studentship-2760612) (lead supervisor; third-sector employability services with the Salvation Army UK, 2022–2026) and [Yunbei Ou](https://theses.gla.ac.uk/86042/) (co-supervisor; housing market impacts of building energy efficiency regulation, 2022–2026; studentship [2760675](https://gtr.ukri.org/projects?ref=studentship-2760675))
+- **ESRC (SGSSS) PhD studentships** — [Mohd Sarim](https://gtr.ukri.org/projects?ref=studentship-2760612) (lead supervisor; third-sector employability services with the Salvation Army UK, 2022–2026) and [Yunbei Ou](https://gtr.ukri.org/projects?ref=studentship-2760675) (co-supervisor; [housing market impacts of building energy efficiency regulation](https://theses.gla.ac.uk/86042/), 2022–2026)
 
 ## Research talks
 
