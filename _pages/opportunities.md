@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-*Update: 26/07/2026*
+*Update: 27/07/2026*
 
 I am very happy to supervise/host PhD students, Postdoctoral Research Associates, and Visiting Students/Scholars in:
 
@@ -59,7 +59,6 @@ We are also more than happy to support your application to the [UKRI Future Lead
 - [LKAS PhD Scholarship](https://www.gla.ac.uk/research/ourresearchenvironment/prs/kelvinsmith/#d.en.398790), University of Glasgow (both Home/EU and International students; inactive for now)
 - [University of Edinburgh and University of Glasgow Jointly Funded PhD Studentship](https://www.gla.ac.uk/research/ourresearchenvironment/prs/uofguofedinphdstudentships/) (both Home/EU and International students; inactive for now)
 - [Carnegie Trust PhD Scholarship](https://carnegie-trust.org/award-categories/postgraduates/) (both Home/EU and International students, but requires a first-class honours undergraduate degree from a Scottish university; inactive for now)
-- [Urban Studies Foundation Postdoctoral Research Fellowships](https://www.urbanstudiesfoundation.org/funding/) (for postdoc researchers; inactive for now)
 - [University of Glasgow Lord Kelvin/Adam Smith (LKAS) Fellowship](https://www.gla.ac.uk/research/lkas/lkasfellowships/) (postdoc researchers; inactive for now)
 - [The Data Lab Industrial Doctorates](https://thedatalab.com/) (Home/EU students; inactive for now)
 - [Student funding and PhD scholarships in the College of Social Sciences](https://www.gla.ac.uk/colleges/socialsciences/studentfundingopportunities/#/postgraduateresearchfundingopportunities), University of Glasgow
@@ -80,6 +79,7 @@ Several funded schemes can support a sabbatical or visiting professorship in the
 - [Royal Society Wolfson Visiting Fellowship](https://royalsociety.org/grants/royal-society-wolfson-visiting-fellowship/) — **career stage: mid-career to senior researchers** based outside the UK (natural sciences); a flexible 12-month sabbatical (can be spread part-time over up to 24 months), nominated by the UK host institution
 - [Leverhulme Visiting Professorships](https://www.leverhulme.ac.uk/visiting-professorships) — **career stage: eminent senior professors** based overseas, invited by the UK host institution; 3–12 months
 - [British Academy Visiting Fellowships](https://www.thebritishacademy.ac.uk/funding/visiting-fellowships/) — **career stage: postdoctoral or equivalent and above** (humanities and social sciences), based in any country outside the UK; 3–6 months
+- [Urban Studies Foundation International Fellowships](https://www.urbanstudiesfoundation.org/funding/international-fellowships/) — **career stage: early-to-mid-career urban scholars from the Global South** (PhD awarded within the last 10 years; nationals of countries on the OECD DAC list); a 3–9 month writing-up sabbatical at a host university under a senior mentor
 - [Fulbright US Scholar Program](https://fulbrightscholars.org/) — **career stage: US citizens from postdoctoral to professorial level**; award lengths vary by programme — an additional option if you hold US citizenship
 
 ## REF results
