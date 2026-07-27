@@ -83,10 +83,10 @@ A selection of recorded talks, seminars, and media appearances:
   </div>
   <div>
     <a href="https://www.youtube.com/watch?v=WlODfccx89I&t=2141s" style="display:block;position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
-      <img src="https://img.youtube.com/vi/WlODfccx89I/hqdefault.jpg" alt="Understanding the use of greenspace before and during the COVID-19 pandemic — GIScience 2021" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;" loading="lazy">
+      <img src="https://img.youtube.com/vi/WlODfccx89I/hqdefault.jpg" alt="Understanding the use of greenspace before and during the COVID-19 pandemic — GIScience 2021, presented by Dr Michael Sinclair" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;" loading="lazy">
       <span style="position:absolute;inset:0;display:flex;align-items:center;justify-content:center;"><span style="background:rgba(0,0,0,0.65);color:#fff;padding:8px 16px;border-radius:2rem;font-size:0.9em;">▶ Watch on YouTube</span></span>
     </a>
-    <p style="margin:8px 0 0;font-size:0.95em;">Understanding greenspace use before and during COVID-19 with mobile phone app data — GIScience 2021</p>
+    <p style="margin:8px 0 0;font-size:0.95em;">Understanding greenspace use before and during COVID-19 with mobile phone app data — GIScience 2021 (presented by <a href="{{ '/people/#michael-sinclair' | relative_url }}">Dr Michael Sinclair</a>; joint work from our ESRC SDAI project)</p>
   </div>
   <div>
     <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
