@@ -137,5 +137,29 @@ In this work I deliberately enabled early-career colleagues to lead the partner 
 
 <h2 style="margin-top:2.4rem;">Emerging impact</h2>
 
-- **Port digital twin with Peel Ports (Clydeport)** — collaboration on digital twinning for the Clyde ports, supported by ESRC IAA and University of Glasgow Creative and Social Futures funding *(case study in development)*
-- **Larger-scale indoor heat and energy monitoring** — follow-on from the Southwark work with the Understanding Society Innovation Panel and the UCL Smart Energy Research Lab, informing net-zero and retrofitting policy evidence *(case study in development)*
+<h3 style="margin-top:1.4rem;">Port digital twin — Peel Ports (Clydeport)</h3>
+
+<p style="margin:4px 0 10px;">
+  <span style="display:inline-block;padding:2px 10px;border-radius:1rem;font-size:0.8em;font-weight:600;background:rgba(11,114,133,0.14);color:#0b7285;">Partner: Peel Ports Group (Clydeport)</span>
+  <span style="display:inline-block;padding:2px 10px;border-radius:1rem;font-size:0.8em;border:1px solid rgba(128,128,128,0.4);">2025–</span>
+</p>
+
+With Dr Mingyu Zhu, I lead two University of Glasgow projects building a digital twin of the Clyde port in collaboration with Peel Ports: **Digital Twin for Clyde Port — Building Collaborative Foundations for Sustainable Transitions** (ESRC Impact Acceleration Account, 2025–2026) and **Just Transitions in Waterfront — Scaling Up Business User Engagement in Port-City Digital Twin** (University of Glasgow Creative and Social Futures Fund, 2026). The collaboration also brings Peel Ports data into the lab's research data sources. *(Case study in development.)*
+
+<h3 style="margin-top:1.6rem;">Glasgow Low Emission Zone</h3>
+
+<p style="margin:4px 0 10px;">
+  <span style="display:inline-block;padding:2px 10px;border-radius:1rem;font-size:0.8em;font-weight:600;background:rgba(95,61,196,0.14);color:#5f3dc4;">Policy: Glasgow City Council Low Emission Zone</span>
+  <span style="display:inline-block;padding:2px 10px;border-radius:1rem;font-size:0.8em;border:1px solid rgba(128,128,128,0.4);">2024–</span>
+</p>
+
+Our study [*Did the implementation of the Low Emission Zone in Glasgow change the traffic flow and air quality?*](https://doi.org/10.32866/001c.123382) (Findings, 2024) provided one of the first independent evaluations of Glasgow's LEZ after enforcement began, using the city's SCOOT traffic sensor network and air-quality monitoring data. The findings were reported by **BBC Radio Scotland**, **Heart Radio** ([interview]({{ '/research/' | relative_url }})), **the Scotsman**, the Glasgow Chamber of Commerce, and Glasgow City of Science and Innovation, contributing to the ongoing public discussion of LEZ benefits in Glasgow and across Scotland — see also the UBDC project page [Glasgow Low Emission Zone Impact](https://www.ubdc.ac.uk/research-theme/city-modelling-sensing/low-emission-zone). *(Case study in development.)*
+
+<h3 style="margin-top:1.6rem;">Sensing Gorbals — community heat and air quality at the LEZ fringe</h3>
+
+<p style="margin:4px 0 10px;">
+  <span style="display:inline-block;padding:2px 10px;border-radius:1rem;font-size:0.8em;font-weight:600;background:rgba(232,89,12,0.14);color:#e8590c;">Partner: Crossroads Youth &amp; Community Association</span>
+  <span style="display:inline-block;padding:2px 10px;border-radius:1rem;font-size:0.8em;border:1px solid rgba(128,128,128,0.4);">2025–2026</span>
+</p>
+
+**[Sensing Environmental Changes at the fringe of the new Glasgow LEZ](https://www.gla.ac.uk/research/az/sustainablesolutions/ourprojects/gallant/innovationfundprojects/sensingchangeheatandairqualityinthegorbals/)** (GALLANT Innovation Fund) monitors heat and air-quality conditions in the Gorbals — a community sitting just outside the Low Emission Zone boundary — with sensing co-designed and co-funded with the [Crossroads Youth &amp; Community Association](https://www.cyca.org.uk/). The project connects the LEZ evaluation work above to the neighbourhood scale; see the UBDC project page [Environmental Change in Glasgow's Gorbals](https://www.ubdc.ac.uk/research-theme/city-modelling-sensing/environmental-change-in-glasgows-gorbals). *(Case study in development.)*
