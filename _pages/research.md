@@ -54,9 +54,15 @@ horizontal: false
 
 ## Research talks
 
-A selection of recorded talks and seminars:
+A selection of recorded talks, seminars, and media appearances:
 
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:22px;margin-top:14px;">
+  <div>
+    <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
+      <iframe src="https://www.youtube-nocookie.com/embed/rN95AL30raw" title="Glasgow Low Emission Zone — Heart Radio interview, September 2024" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+    </div>
+    <p style="margin:8px 0 0;font-size:0.95em;">Glasgow Low Emission Zone — Heart Radio interview (2024)</p>
+  </div>
   <div>
     <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
       <iframe src="https://www.youtube-nocookie.com/embed/Mdm3oCl3rEU?start=2409" title="Understanding Cities by Urban Sensing and Analytics — CPGIS Educational Webinar Series, March 2024" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
@@ -74,6 +80,12 @@ A selection of recorded talks and seminars:
       <iframe src="https://www.youtube-nocookie.com/embed/iQPXM-57BkM" title="Towards Urban Analytics 2.0" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
     </div>
     <p style="margin:8px 0 0;font-size:0.95em;">Towards Urban Analytics 2.0 — The Alan Turing Institute &amp; University of Leeds (2021)</p>
+  </div>
+  <div>
+    <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
+      <iframe src="https://www.youtube-nocookie.com/embed/WlODfccx89I?start=2141" title="Understanding the use of greenspace before and during the COVID-19 pandemic — GIScience 2021" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+    </div>
+    <p style="margin:8px 0 0;font-size:0.95em;">Understanding greenspace use before and during COVID-19 with mobile phone app data — GIScience 2021</p>
   </div>
   <div>
     <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
@@ -95,6 +107,12 @@ A selection of recorded talks and seminars:
   </div>
   <div>
     <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
+      <iframe src="https://player.bilibili.com/player.html?bvid=BV1Nv411r7L4&autoplay=0" title="基于GIS时空优化的高温社区适应性研究 — GeoInsider 第43期" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+    </div>
+    <p style="margin:8px 0 0;font-size:0.95em;">Spatial optimisation for community heat resilience — GeoInsider Ep. 43, Bilibili (2020, in Chinese)</p>
+  </div>
+  <div>
+    <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
       <iframe src="https://www.youtube-nocookie.com/embed/Kp_XmAXIhWw" title="An exploration of fuel poverty in the private rental housing market — UBDC" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
     </div>
     <p style="margin:8px 0 0;font-size:0.95em;">An exploration of fuel poverty in the private rental housing market — UBDC Interactive Data Dives (2020)</p>
@@ -104,5 +122,11 @@ A selection of recorded talks and seminars:
       <iframe src="https://www.youtube-nocookie.com/embed/-OWdtLpHko0" title="GISRUK 2020 — Fuel Poverty and Income Deprivation in Bristol, UK" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
     </div>
     <p style="margin:8px 0 0;font-size:0.95em;">GISRUK 2020 — Fuel Poverty and Income Deprivation in Bristol, UK</p>
+  </div>
+  <div>
+    <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
+      <iframe src="https://player.bilibili.com/player.html?bvid=BV1Ee411W79c&autoplay=0" title="GIS/Urban Analytics 与英国高教体系 — GeoInsider 第6期" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+    </div>
+    <p style="margin:8px 0 0;font-size:0.95em;">GIS, urban analytics &amp; the UK higher education system — GeoInsider Ep. 6, Bilibili (2019, in Chinese)</p>
   </div>
 </div>
