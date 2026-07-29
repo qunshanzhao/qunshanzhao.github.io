@@ -36,6 +36,14 @@ Urban analytics is an applied field that brings the newest developments in data 
       <span style="display:inline-block;margin-top:8px;padding:2px 10px;border-radius:1rem;font-size:0.78em;border:1px solid rgba(128,128,128,0.4);">2017–</span>
     </span>
   </a>
+  <a href="#spopt" style="text-decoration:none;color:inherit;border:1px solid rgba(128,128,128,0.3);border-radius:12px;overflow:hidden;display:flex;flex-direction:column;">
+    <img src="{{ '/assets/img/impact/impact-spopt.png' | relative_url }}" alt="Open-source spatial optimisation in practice" style="width:100%;aspect-ratio:16/9;object-fit:cover;display:block;" loading="lazy">
+    <span style="padding:12px 14px 14px;display:block;">
+      <strong style="font-size:1.02em;">4 · Open-source spatial optimisation in practice</strong><br>
+      <span style="display:inline-block;margin-top:8px;padding:2px 10px;border-radius:1rem;font-size:0.78em;font-weight:600;background:rgba(8,127,91,0.16);color:#087f5b;">PySAL/spopt · AGILE · UCL</span>
+      <span style="display:inline-block;margin-top:8px;padding:2px 10px;border-radius:1rem;font-size:0.78em;border:1px solid rgba(128,128,128,0.4);">2021–</span>
+    </span>
+  </a>
 </div>
 
 <h2 id="heat" style="margin-top:2.2rem;scroll-margin-top:90px;">1 · Hot Homes — heat inequality and sensor-enhanced housing surveys (Southwark, London)</h2>
@@ -133,6 +141,33 @@ In this work I deliberately enabled early-career colleagues to lead the partner 
     <li>Interview-allocation strategy implemented in the Salvation Army Metro Phoenix utility assistance programme (<a href="https://doi.org/10.1016/j.apgeog.2020.102241">Applied Geography, 2020</a>)</li>
     <li>Analytical results informing internal service decisions in the Salvation Army UK's Employment Plus programme</li>
     <li>School travel analyses incorporated into Sustrans' active travel dashboard for Scottish school streets</li>
+  </ul>
+</div>
+
+<h2 id="spopt" style="margin-top:2.4rem;scroll-margin-top:90px;">4 · Open-source spatial optimisation in practice — from spopt to UCL student placements</h2>
+
+<p style="margin:4px 0 10px;">
+  <span style="display:inline-block;padding:2px 10px;border-radius:1rem;font-size:0.8em;font-weight:600;background:rgba(8,127,91,0.16);color:#087f5b;">Partners: PySAL &amp; AGILE &amp; UCL</span>
+  <span style="display:inline-block;padding:2px 10px;border-radius:1rem;font-size:0.8em;border:1px solid rgba(128,128,128,0.4);">2021–</span>
+</p>
+
+Through [PySAL/spopt](https://github.com/pysal/spopt) I contribute to and mentor open-source facility-location modelling — including four [Google Summer of Code projects]({{ '/opensource/' | relative_url }}) (2021–2025) and the **AGILE funding initiative** project *[Development of the spopt location modelling package to include the capacitated p-median problem](https://agile-gi.eu/activities/initiatives/development-of-open-source-python-modelling-package)* (2023, PI; [final report](https://agile-gi.eu/images/initiatives/documents/Funding_initiative_spopt_finalreport.pdf), [demo video](https://www.youtube.com/watch?v=u9EOdfe82Gs), [workshop materials](https://github.com/ljwolf/intro-to-spatialopt)).
+
+The capacitated location-allocation methods were then applied to a real operational problem: **matching UCL trainee teachers to school placements across London** while respecting school capacities and minimising public-transport journey times ([GISRUK 2025 update](https://doi.org/10.5281/zenodo.15231178) — Bearman, Gaboardi, Roddy, Zhao, Chen &amp; Wolf).
+
+Impact so far (reported by our UCL collaborators, July 2026):
+
+- UCL has built the method into an internal tool — **APA (Automated Placement Allocation)** — now under user testing by the UCL Institute of Education
+- Primary placements that previously took **over a week** of manual work are now allocated in **about 25 minutes**
+- Around **60% of trainee teachers receive better journeys** and a further 20% equivalent journeys, compared with manual allocation
+- UCL plans to extend the tool to **Pharmacy placements** next, and other universities running educational placements have expressed interest in adopting it
+
+<div style="border-left:3px solid var(--global-theme-color, #b509ac);background:rgba(128,128,128,0.08);padding:12px 16px;border-radius:0 8px 8px 0;margin:14px 0;">
+  <strong>📄 Practice outputs</strong>
+  <ul style="margin:8px 0 2px;">
+    <li><a href="https://github.com/pysal/spopt">PySAL/spopt</a> — open-source spatial optimisation package (capacitated p-median added through the AGILE initiative)</li>
+    <li>APA (Automated Placement Allocation) — UCL's internal placement tool built on this location-allocation work, in testing with the UCL Institute of Education</li>
+    <li><a href="https://agile-gi.eu/images/initiatives/documents/Funding_initiative_spopt_finalreport.pdf">AGILE funding initiative final report (PDF)</a> and <a href="https://doi.org/10.5281/zenodo.15231178">GISRUK 2025 paper</a></li>
   </ul>
 </div>
 
