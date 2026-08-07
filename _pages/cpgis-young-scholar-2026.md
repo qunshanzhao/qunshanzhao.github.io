@@ -26,4 +26,4 @@ From the award citation:
   <p style="margin-bottom:0;"><strong>In recognition of his outstanding contributions to GIScience through research, education, mentorship, and professional service, it is our great pleasure to present the 2026 CPGIS Young Scholar Award to Professor Qunshan Zhao. Please join me in congratulating him on this well-deserved honor.</strong></p>
 </blockquote>
 
-Thank you to CPGIS, and to all my mentors, collaborators, and students — this recognition belongs to the whole lab. The award was featured in [University of Glasgow news](https://www.gla.ac.uk/news/headline_1286240_en.html), and more photos are in my [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7485146693399674881/).
+Thank you to CPGIS, and to all my mentors, collaborators, and students — this recognition belongs to the whole lab. The award was featured in [University of Glasgow news](https://www.gla.ac.uk/news/headline_1286240_en.html) and [UBDC news](https://www.ubdc.ac.uk/news/professor-qunshan-zhao-wins-prestigious-young-scholar-award), and more photos are in my [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7485146693399674881/).
