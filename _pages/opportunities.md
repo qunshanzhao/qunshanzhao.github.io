@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 ---
 
-*Update: 27/07/2026*
+*Update: 09/08/2026*
 
 I am very happy to supervise/host PhD students, Postdoctoral Research Associates, and Visiting Students/Scholars in:
 
@@ -42,7 +42,9 @@ I am very happy to supervise/host PhD students, Postdoctoral Research Associates
 
 ## PhD funding opportunities
 
-If you are an international student and want to pursue a PhD with me, you will have three chances in the student-led competition: SGSSS (capped at 30% of the total PhD awards), CoSS, and CSC (if you are from China). You can also apply through a supervisor-led PhD competition — the SGSSS supervisor-led competition typically opens in April (also capped at 30%), with other opportunities opening based on funding availability.
+If you are an international student and want to pursue a PhD with me, you will have three chances in the student-led competition: SGSSS, CoSS, and CSC (if you are from China). You can also apply through a supervisor-led PhD competition — the SGSSS supervisor-led competition typically opens in April, with other opportunities opening based on funding availability.
+
+**SGSSS policy update at Glasgow (2026):** international candidates can still apply to SGSSS, but the financial implications need to be clear from the outset — international awardees pay the difference between the international and Home tuition fees themselves (2026/27: £27,720 vs £5,238 per year; see the [PhD in Urban Studies fees](https://www.gla.ac.uk/postgraduate/research/urbanstudies/)).
 
 If you are from the UK or hold UK ILR, it will be much easier to get a PhD scholarship.
 
@@ -50,7 +52,7 @@ If you are from the UK or hold UK ILR, it will be much easier to get a PhD schol
 
 ### PhD funding schemes
 
-- [Scottish Graduate School of Social Science Studentship](https://www.sgsss.ac.uk/studentships/) (both Home/EU and International students, capped at 30% International)
+- [Scottish Graduate School of Social Science Studentship](https://www.sgsss.ac.uk/studentships/) (both Home/EU and International students; from 2026, international awardees at Glasgow pay the international–Home tuition fee difference themselves — see the policy note above)
 - [College of Social Sciences PhD Scholarships](https://www.gla.ac.uk/colleges/socialsciences/studentfundingopportunities/) (both Home/EU and International students; you need to apply to SGSSS first to enter the competition)
 - [China Scholarship Council (CSC) PhD Scholarships](https://www.gla.ac.uk/colleges/socialsciences/studentfundingopportunities/postgraduateresearch/chinascholarshipcouncilcscphdscholarships/) — more information [here](https://bg.csc.edu.cn/DownLoad.aspx?PROJECTCODE=629075) (Chinese students; full CSC search website [here](https://bg.csc.edu.cn/))
 - [James McCune Smith PhD Scholarship](https://www.gla.ac.uk/scholarships/mccune-smith/) (UK-domiciled Black students)
