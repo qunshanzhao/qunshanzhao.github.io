@@ -206,6 +206,11 @@ sections:
             photo: /assets/img/people/li-tian.jpg
             url: https://people.ucas.ac.cn/~0062471
             desc: Associate Professor, Institute of Geographic Science and Natural Resources, Chinese Academy of Sciences (2023)
+          - name: Dr Xiao Li
+            slug: xiao-li
+            photo: /assets/img/people/xiao-li.jpg
+            url: https://www.polyu.edu.hk/lsgs/people/academic-staff/prof-xiao-li/
+            desc: Assistant Professor, Department of Land Surveying and Geospatial Science, The Hong Kong Polytechnic University (May–June 2023)
       - title: Google Summer of Code Students
         members:
           - name: Dr Zixin Feng
