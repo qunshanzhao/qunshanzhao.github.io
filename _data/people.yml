@@ -128,7 +128,7 @@ sections:
             slug: zixin-feng
             photo: /assets/img/people/zixin-feng.jpg
             url: https://www.linkedin.com/in/zixinfeng/
-            desc: PhD in Urban Studies, University of Glasgow China Scholarship Council PhD Studentship (2022–2026); first supervisor, with Prof. Alison Heppenstall. Thesis&#58; <strong><em>Exploring the Use of Agent-based Models for Electric Vehicle Driver Behaviour Simulation</em></strong> — now Research Fellow in Agent-based Modelling, University of Leeds
+            desc: PhD in Urban Studies, University of Glasgow China Scholarship Council PhD Studentship (2022–2026); first supervisor, with Prof. Alison Heppenstall. Thesis&#58; <strong><a href="https://theses.gla.ac.uk/86249/"><em>Exploring the Use of Agent-based Models for Electric Vehicle Driver Behaviour Simulation</em></a></strong> — now Research Fellow in Agent-based Modelling, University of Leeds
             note: 'Awards&#58; Alan Turing Institute Data Study Group 2023; BEHAVE ESSA Summer School 2023 on "Agent-based modelling for social scientists"; Alan Turing Institute PhD Enrichment Scheme 2024'
           - name: Dr Yunbei Ou
             slug: yunbei-ou
