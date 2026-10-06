@@ -55,7 +55,7 @@ I joined Glasgow in May 2019 as a Lecturer, and was promoted to Senior Lecturer 
 
 ## Honours & awards
 
-- [CPGIS Young Scholar Award](https://www.cpgis.org/Awards), the International Association of Chinese Professionals in Geographic Information Sciences (2026)
+- [CPGIS Young Scholar Award](https://cpgis.org/News/ShowContent.aspx?ID=6106), the International Association of Chinese Professionals in Geographic Information Sciences (2026)
 - [GISCup, 3rd place](https://sigspatial2024.sigspatial.org/giscup/), 32nd ACM SIGSPATIAL (2024, with PhD student [Zixin Feng]({{ '/people/#zixin-feng' | relative_url }}))
 - [Finalist, Early Career Researcher Award](https://www.rtpi.org.uk/events-training-and-awards/awards/rtpi-awards-for-research-excellence/previous-winners-and-finalists/2024-winners-and-finalists/), RTPI Awards for Research Excellence (2024)
 - [Shortlist, Most Innovative Transport Project of the Year](https://www.glasgow.gov.uk/article/2620/Scottish-Transport-Awards-Shortlisting-Success-for-Council-Teams), Scottish Transport Awards (2022)
