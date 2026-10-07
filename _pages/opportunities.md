@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 ---
 
-*Update: 09/08/2026*
+*Update: 07/10/2026*
 
 I am very happy to supervise/host PhD students, Postdoctoral Research Associates, and Visiting Students/Scholars in:
 
@@ -48,7 +48,7 @@ If you are an international student and want to pursue a PhD with me, you will h
 
 If you are from the UK or hold UK ILR, it will be much easier to get a PhD scholarship.
 
-**PhD in Urban Studies English requirement:** IELTS 7.0, with sub-tests at 6.5. This can be waived if you have previously studied at least 2 years as an undergraduate, or 9 months as an MSc student, in a majority English-speaking country, as [approved by UKVI](https://www.gov.uk/student-visa/knowledge-of-english).
+**PhD in Urban Studies English requirement:** IELTS 7.0, with sub-tests at 6.5. This can be waived if you have previously studied for at least 2 years as an undergraduate, or 9 months as an MSc student, in a majority English-speaking country, as [approved by UKVI](https://www.gov.uk/student-visa/knowledge-of-english) (such as the USA, Australia, New Zealand, Ireland, and the UK). **If you want to apply for the full CSC scholarship, you will need to fulfil the English requirement before the UoG CSC scholarship deadline.**
 
 ### PhD funding schemes
 
