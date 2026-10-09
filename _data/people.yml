@@ -14,11 +14,6 @@ sections:
             desc: Sensor Enhanced Housing Survey, SpaceEPC, ESRC IAA and Creative and Social Futures Fund for Port Digital Twin, IDEAMAPS, and SDR UK Fellowship (2024–now)
       - title: Research Assistants
         members:
-          - name: Dr Yunbei Ou
-            slug: yunbei-ou
-            photo: /assets/img/people/yunbei-ou.jpg
-            url: https://www.linkedin.com/in/yunbei-ou-526887239/
-            desc: Research Assistant; completed her PhD in Urban Studies in the lab (2022–2026, see PhD Graduates below)
           - name: Xingyi Du
             slug: xingyi-du
             photo: /assets/img/people/xingyi-du.jpg
@@ -44,17 +39,21 @@ sections:
             desc: PhD in Urban Studies, University of Glasgow China Scholarship Council PhD Studentship (2026–2030); second supervisor, with Dr Pengyuan Liu
       - title: Academic Visitors
         members:
-          - name: Dr Siqi Jia
-            slug: siqi-jia
-            url: https://www.arch.hku.hk/staff/dla/jia-siqi/
-            photo: /assets/img/people/siqi-jia.jpg
-            desc: Research Assistant Professor, Division of Landscape Architecture, the University of Hong Kong (2026)
           - name: Dr Jiameng Hu
             slug: jiameng-hu
             desc: Assistant Professor, College of Public Administration, South-Central Minzu University (2026–27)
           - name: Dr Mengdi Zhang
             slug: mengdi-zhang
             desc: Engineer, Natural Resources Comprehensive Survey Command Centre, China Geology Survey (2025–26)
+          - name: Prof Chia-Pin Kao
+            slug: chia-pin-kao
+            url: https://childcare.stust.edu.tw/en/node/Chia-Pin-Kao
+            desc: Professor, Department of Child Care, Southern Taiwan University of Science and Technology (2026–)
+          - name: Naila
+            slug: naila
+            photo: /assets/img/people/naila.jpg
+            url: https://research.dii.unipd.it/betalab/people/
+            desc: Research Fellow, BETA Lab, Department of Industrial Engineering, University of Padua (2026–)
 
   - title: Past Group Members
     groups:
@@ -134,10 +133,15 @@ sections:
             slug: yunbei-ou
             photo: /assets/img/people/yunbei-ou.jpg
             url: https://www.linkedin.com/in/yunbei-ou-526887239/
-            desc: PhD in Urban Studies, SGSSS Steers PhD Studentship (2022–2026); third supervisor, with Prof. Nick Bailey and Dr David McArthur. Thesis&#58; <strong><a href="https://theses.gla.ac.uk/86042/"><em>Assessing the housing market incentives from residential building energy efficiency regulations</em></a></strong> — now Research Assistant in the lab
+            desc: PhD in Urban Studies, SGSSS Steers PhD Studentship (2022–2026); third supervisor, with Prof. Nick Bailey and Dr David McArthur. Thesis&#58; <strong><a href="https://theses.gla.ac.uk/86042/"><em>Assessing the housing market incentives from residential building energy efficiency regulations</em></a></strong> — then Research Assistant in the lab (2026)
             note: 'Awards&#58; Alan Turing Institute Data Study Group 2023; Alan Turing Institute PhD Enrichment Scheme 2024. Intern&#58; Sensor Enhanced Housing Survey and 3D City Modeling'
       - title: MSc Students and Research Assistants
         members:
+          - name: Dr Yunbei Ou
+            slug: yunbei-ou
+            photo: /assets/img/people/yunbei-ou.jpg
+            url: https://www.linkedin.com/in/yunbei-ou-526887239/
+            desc: Research Assistant in the lab (2026); completed her PhD in Urban Studies in the lab — see PhD Graduates below
           - name: Mohammed Abdelaaty Hassan
             slug: mohammed-hassan
             desc: Glasgow Electrical Engineering PhD student, LoRa sensor development (2025)
@@ -183,6 +187,11 @@ sections:
             desc: Glasgow Urban Analytics, COVID-19 Mobility Study (2019–2020) — now Urban Analytics PhD student at UBDC
       - title: Academic Visitors
         members:
+          - name: Dr Siqi Jia
+            slug: siqi-jia
+            url: https://www.arch.hku.hk/staff/dla/jia-siqi/
+            photo: /assets/img/people/siqi-jia.jpg
+            desc: Research Assistant Professor, Division of Landscape Architecture, the University of Hong Kong (2026)
           - name: Rui Qiao
             slug: rui-qiao
             desc: PhD Student, Department of Building and Real Estate, the Hong Kong Polytechnic University (2026) — now back in Hong Kong
