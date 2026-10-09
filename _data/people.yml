@@ -48,12 +48,12 @@ sections:
           - name: Prof Chia-Pin Kao
             slug: chia-pin-kao
             url: https://childcare.stust.edu.tw/en/node/Chia-Pin-Kao
-            desc: Professor, Department of Child Care, Southern Taiwan University of Science and Technology (2026–)
+            desc: Professor, Department of Child Care, Southern Taiwan University of Science and Technology (2026–27)
           - name: Naila
             slug: naila
             photo: /assets/img/people/naila.jpg
             url: https://research.dii.unipd.it/betalab/people/
-            desc: Research Fellow, BETA Lab, Department of Industrial Engineering, University of Padua (2026–)
+            desc: Research Fellow, BETA Lab, Department of Industrial Engineering, University of Padua (2026–27)
 
   - title: Past Group Members
     groups:
