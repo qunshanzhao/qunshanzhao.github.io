@@ -12,6 +12,11 @@ sections:
             photo: /assets/img/people/mingyu-zhu.jpg
             url: https://www.linkedin.com/in/mingyu-zhu/
             desc: Sensor Enhanced Housing Survey, SpaceEPC, ESRC IAA and Creative and Social Futures Fund for Port Digital Twin, IDEAMAPS, and SDR UK Fellowship (2024–now)
+          - name: Dr Yunbei Ou
+            slug: yunbei-ou
+            photo: /assets/img/people/yunbei-ou.jpg
+            url: https://www.linkedin.com/in/yunbei-ou-526887239/
+            desc: Postdoctoral Research Associate on <a href="https://urbanbigdatacentre.github.io/merv/index.html">MERV&#58; Measuring Renewables Uptake &amp; Value</a>, ESRC SDAI project (2026–now); completed her PhD in Urban Studies in the lab (see PhD Graduates below)
       - title: Research Assistants
         members:
           - name: Xingyi Du
@@ -133,15 +138,10 @@ sections:
             slug: yunbei-ou
             photo: /assets/img/people/yunbei-ou.jpg
             url: https://www.linkedin.com/in/yunbei-ou-526887239/
-            desc: PhD in Urban Studies, SGSSS Steers PhD Studentship (2022–2026); third supervisor, with Prof. Nick Bailey and Dr David McArthur. Thesis&#58; <strong><a href="https://theses.gla.ac.uk/86042/"><em>Assessing the housing market incentives from residential building energy efficiency regulations</em></a></strong> — then Research Assistant in the lab (2026)
+            desc: PhD in Urban Studies, SGSSS Steers PhD Studentship (2022–2026); third supervisor, with Prof. Nick Bailey and Dr David McArthur. Thesis&#58; <strong><a href="https://theses.gla.ac.uk/86042/"><em>Assessing the housing market incentives from residential building energy efficiency regulations</em></a></strong> — then Research Assistant (2026), now Postdoctoral Research Associate on the MERV project in the lab
             note: 'Awards&#58; Alan Turing Institute Data Study Group 2023; Alan Turing Institute PhD Enrichment Scheme 2024. Intern&#58; Sensor Enhanced Housing Survey and 3D City Modeling'
       - title: MSc Students and Research Assistants
         members:
-          - name: Dr Yunbei Ou
-            slug: yunbei-ou
-            photo: /assets/img/people/yunbei-ou.jpg
-            url: https://www.linkedin.com/in/yunbei-ou-526887239/
-            desc: Research Assistant in the lab (2026); completed her PhD in Urban Studies in the lab — see PhD Graduates below
           - name: Mohammed Abdelaaty Hassan
             slug: mohammed-hassan
             desc: Glasgow Electrical Engineering PhD student, LoRa sensor development (2025)
