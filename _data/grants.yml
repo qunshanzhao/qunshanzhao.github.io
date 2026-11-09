@@ -1,39 +1,5 @@
 # Grants data, rendered by _pages/grants.md. Mirrors the Research Grants section of the CV
-# (declined applications are intentionally not listed here; see the full CV PDF).
-- years: '2026'
-  title: 'LINGUA FUTURA: Understanding, Valuing and Governing Europe''s Minoritised Languages for a Multilingual Future'
-  funder: Safeguarding linguistic diversity in Europe, Horizon Europe
-  role: Co-PI
-  rolegroup: coi
-  group: external
-  status: review
-  note: 'PI: Prof Bernadette O''Rourke'
-- years: '2026'
-  title: 'Cooling the Cloud: Climate Controls on Data-Centre Cooling across the UK and US'
-  funder: Royal Society International Exchanges, United Kingdom
-  role: PI
-  rolegroup: pi
-  group: external
-  status: review
-  amount: £12,000 (FEC)
-  note: 'US collaborator: Dr Xiao Huang'
-- years: '2026'
-  title: AI-Driven Assessment of Thermal Stress and Nature-Based Solutions for Social Heat Equity
-  funder: Royal Society Kan Tong Po International Fellowship 2026, United Kingdom
-  role: Co-PI
-  rolegroup: coi
-  group: external
-  status: review
-  note: 'PI: Dr Siqi Jia'
-- years: '2026'
-  title: 'Mapping Carbon Emission and Climate Resilience Trade-offs in High-Density Urban Districts: A Comparative Study of Glasgow, UK and Harbin, China'
-  funder: Royal Society International Exchanges, United Kingdom
-  role: Co-PI
-  rolegroup: coi
-  group: external
-  status: review
-  amount: £12,000 (FEC)
-  note: 'PI: Dr Pengyuan Liu'
+# (declined and under-review applications are intentionally not listed here; see the full CV PDF).
 - years: 2026–2028
   title: 'MERV: Measuring Renewables Uptake and Value in UK Housing'
   funder: Secondary Data Analysis Initiative, Economic and Social Research Council (ESRC), United Kingdom
