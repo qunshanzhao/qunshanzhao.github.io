@@ -9,6 +9,7 @@
   status: funded
   amount: £295,246 (FEC)
   note: 'PI: Prof Nick Bailey. Grant <a href="https://gtr.ukri.org/find-research-and-innovation/project/7c2187a9-e171-4792-b4f6-20d86b6df254">UKRI5675</a> · <a href="https://urbanbigdatacentre.github.io/merv/index.html">project website</a>'
+  subgroup: glasgow
 - years: 2026–2027
   title: 'From Smart Data to Health Impacts: Thermal Simulation of Indoor Environments in UK Cold Homes'
   funder: SDR UK Fellowship, Economic and Social Research Council, United Kingdom
@@ -18,6 +19,7 @@
   status: funded
   amount: £199,799 (FEC)
   note: 'Fellow: Dr Mingyu Zhu. Grant <a href="https://gtr.ukri.org/find-research-and-innovation/project/37b1c204-2602-4c06-9796-0134c9b93196">UKRI4008</a> · news: <a href="https://www.sdruk.ukri.org/2026/02/12/15-new-smart-data-research-fellowships/">SDR UK</a>, <a href="https://www.gla.ac.uk/news/headline_1246078_en.html">UoG</a>'
+  subgroup: glasgow
 - years: 2026–2027
   title: Understanding the Socio-Economic Impacts of Port Decarbonisation
   funder: SGSSS Academics Placement, United Kingdom
@@ -26,6 +28,7 @@
   group: external
   status: funded
   note: 'PI: Dr Mingyu Zhu. <a href="https://www.sgsss.ac.uk/internship/understanding-the-socio-economic-impacts-of-port-decarbonisation-using-digital-twin-modelling/">Placement page</a>'
+  subgroup: glasgow
 - years: '2026'
   title: 'Urban Analytics in the AI Era: From Smart Data to Participatory Action'
   funder: AGILE PhD School
@@ -35,6 +38,7 @@
   status: funded
   amount: €5,000
   note: <a href="https://urbanbigdatacentre.github.io/agilephdschool2026/">PhD school website</a>
+  subgroup: glasgow
 - years: '2026'
   title: Converge Net Zero Challenge 2026
   funder: Converge, United Kingdom
@@ -43,6 +47,7 @@
   group: external
   status: funded
   note: 'Team lead: Ms Xingyi Du'
+  subgroup: glasgow
 - years: '2026'
   title: Small Research Grants
   funder: Royal Geographical Society, United Kingdom
@@ -52,6 +57,7 @@
   status: funded
   amount: £2,000
   note: 'PI: Dr Mingyu Zhu. News: <a href="https://www.rgs.org/exploration/grants/projects-supported">RGS</a>'
+  subgroup: glasgow
 - years: 2025–2027
   title: 'Sensing Environmental Changes at the Fringe of the New Glasgow LEZ: Heat and Air Quality Conditions in the Gorbals'
   funder: GALLANT Innovation Fund, University of Glasgow
@@ -61,6 +67,7 @@
   status: funded
   amount: £31,489
   note: £5,000 co-funded by Crossroads Youth &amp; Community Association. <a href="https://www.gla.ac.uk/research/az/sustainablesolutions/ourprojects/gallant/innovationfundprojects/sensingchangeheatandairqualityinthegorbals/">Project page</a>
+  subgroup: glasgow
 - years: 2024–2025
   title: 'SpaceEPC: Earth Observation Thermal Satellite Data for Measuring Thermal Efficiency of Buildings'
   funder: ESA Open Call on Business Applications
@@ -70,6 +77,7 @@
   status: funded
   amount: €489,707 (FEC), €146,022 (UoG)
   note: 'Led by SatVu Ltd. ESA contract 4000145976/24/UK/AL/ek. <a href="https://business.esa.int/projects/spaceepc">Project page</a> · news: <a href="https://www.gla.ac.uk/news/headline_1143392_en.html">UoG</a>, <a href="https://www.satellitevu.com/news/from-space-to-savings-satvu-and-the-university-of-glasgow-develop-heat-loss-index-with-european-space-agency-funding">SatVu</a>'
+  subgroup: glasgow
 - years: '2025'
   title: Emerging Workshop on Geospatial Foundation Models
   funder: RGS-IBG Quantitative Methods Research Group Grant, United Kingdom
@@ -79,6 +87,7 @@
   status: funded
   amount: £1,000
   note: 'PI: Dr Weiming Huang'
+  subgroup: glasgow
 - years: 2023–2026
   title: Estimating Building Energy Efficiency and Carbon Footprint for Achieving a Net-Zero Carbon Target via Urban Sensing and AI
   funder: Royal Society International Exchanges (with NSFC), United Kingdom
@@ -88,6 +97,7 @@
   status: funded
   amount: £12,000 (FEC)
   note: Grant IEC\NSFC\223042
+  subgroup: glasgow
 - years: 2023–2025
   title: 'The Housing Environment and Energy Panel: Monitoring Indoor Residential Environments and Energy Use via Low-Cost Housing Sensors'
   funder: Understanding Society Innovation Panel, United Kingdom
@@ -96,6 +106,7 @@
   group: external
   status: funded
   note: <a href="https://www.understandingsociety.ac.uk/participants/projects/sensor/">In-home sensors</a> · <a href="https://www.understandingsociety.ac.uk/participants/projects/smartmeter/">smart meter</a>
+  subgroup: glasgow
 - years: 2023–2025
   title: Developing and Exploring Methods to Understand Human–Nature Interactions in Urban Areas Using New Forms of Big Data
   funder: Secondary Data Analysis Initiative, Economic and Social Research Council (ESRC), United Kingdom
@@ -105,6 +116,7 @@
   status: funded
   amount: £292,306 (FEC)
   note: 'PI: Dr Michael Sinclair. Grant <a href="https://gtr.ukri.org/find-research-and-innovation/project/9986c7e4-c2ea-4f7d-bcc0-0af3fbdd9cf9">ES/W012979/1</a>'
+  subgroup: glasgow
 - years: '2023'
   title: Sensor-Enhanced Housing Survey for Urban Heat Investigation in London
   funder: The Bureau of Investigative Journalism
@@ -114,6 +126,7 @@
   status: funded
   amount: £55,470 (FEC)
   note: 'Funded by the Google News Initiative, the Bill &amp; Melinda Gates Foundation, Impact on Urban Health and Necessity. News: <a href="https://www.thebureauinvestigates.com/stories/2023-12-05/revealed-escalating-effects-of-hot-summers-on-uk-housing">TBIJ</a>, <a href="https://www.mirror.co.uk/news/uk-news/uks-overheating-summer-health-crisis-31597681">the Mirror</a>, <a href="https://www.gla.ac.uk/news/headline_1026834_en.html">UoG</a>, <a href="https://www.ubdc.ac.uk/news/ubdc-data-analysis-reveals-concern-for-the-uks-overheating-homes">UBDC</a>'
+  subgroup: glasgow
 - years: '2023'
   title: Development of the spopt Location Modelling Package to Include the Capacitated p-Median Problem
   funder: AGILE funding initiative
@@ -123,6 +136,7 @@
   status: funded
   amount: £7,679 (FEC)
   note: <a href="https://www.youtube.com/watch?v=u9EOdfe82Gs">Demo video</a> · <a href="https://agile-gi.eu/images/initiatives/documents/Funding_initiative_spopt_finalreport.pdf">final report</a>
+  subgroup: glasgow
 - years: 2022–2026
   title: The Housing Market Impacts of Buildings Energy Efficiency Regulation
   funder: SGSSS Supervisor-Led ESRC Steers PhD Competition, United Kingdom
@@ -132,6 +146,7 @@
   status: funded
   amount: ≈£135k studentship
   note: With Prof Nick Bailey and Dr David McArthur. Grant ES/P000681/1 (<a href="https://gtr.ukri.org/find-research-and-innovation/project/a7bfe937-5f0a-48f0-b561-d671c2d158d9">2760675</a>)
+  subgroup: glasgow
 - years: 2022–2026
   title: Analytical Strategies for Improving Third Sector Employability Services in the Post COVID-19 Recovery
   funder: SGSSS Supervisor-Led ESRC Open Collaborative PhD Competition, United Kingdom
@@ -141,6 +156,7 @@
   status: funded
   amount: ≈£135k studentship
   note: 'With Prof Sharon Wright and Prof João Porto de Albuquerque; external partner: the Salvation Army UK. Grant ES/P000681/1 (<a href="https://gtr.ukri.org/find-research-and-innovation/project/5e6589f2-8a27-4280-a2ca-c6f1b3f3b70f">2760612</a>)'
+  subgroup: glasgow
 - years: 2022–2026
   title: 'IDEAMAPS: A Participatory Data-Modeling Ecosystem for Deprived Area Map Production in LMIC Cities'
   funder: Bill &amp; Melinda Gates Foundation
@@ -150,6 +166,7 @@
   status: funded
   amount: $2,040,337 (FEC)
   note: 'PI: Prof João Porto de Albuquerque. Includes a three-year fully funded IDEAMAPS PhD scholarship (≈£134k). News: <a href="https://www.gla.ac.uk/news/archiveofnews/2024/november/headline_1123712_en.html">UoG</a>'
+  subgroup: glasgow
 - years: 2022–2024
   title: Aalto/Glasgow Urban Analytics Open-Source Programming Camp
   funder: Turing Scheme / University of Glasgow, United Kingdom
@@ -158,6 +175,7 @@
   group: external
   status: funded
   note: 12 MSc students, 4–8 week study visits to Aalto University
+  subgroup: glasgow
 - years: '2022'
   title: Scottish British Academy Early-Career Researcher Network Hub
   funder: The British Academy, United Kingdom
@@ -166,6 +184,7 @@
   group: external
   status: funded
   note: 'News: <a href="https://www.thebritishacademy.ac.uk/news/scotland-becomes-third-early-career-researcher-network-hub-in-british-academy-pilot/">the British Academy</a>'
+  subgroup: glasgow
 - years: '2022'
   title: Glasgow 3D City Modeling
   funder: Glasgow City Council, United Kingdom
@@ -174,6 +193,7 @@
   group: external
   status: funded
   amount: £34,122 (FEC)
+  subgroup: glasgow
 - years: 2021–2026
   title: Urban Big Data Centre Data Service Extension Phases 3b and 4
   funder: Economic and Social Research Council (ESRC), United Kingdom
@@ -183,6 +203,7 @@
   status: funded
   amount: £806,040 and £3,117,260 (FEC)
   note: 'PI: Prof Nick Bailey. Grant <a href="https://gtr.ukri.org/find-research-and-innovation/project/15c4b87e-0517-4107-9ac1-c219b921717e">ES/L011921/1</a>'
+  subgroup: glasgow
 - years: '2021'
   title: Urban Mobility in Glasgow 2019–21
   funder: Glasgow City Council, United Kingdom
@@ -192,6 +213,7 @@
   status: funded
   amount: £147,819
   note: 'PI: Prof Nick Bailey'
+  subgroup: glasgow
 - years: 2020–2022
   title: Urban Big Data Centre Data Service Extension Phase 3
   funder: Economic and Social Research Council (ESRC), United Kingdom
@@ -201,6 +223,7 @@
   status: funded
   amount: £1,348,022 (FEC)
   note: 'PI: Prof Nick Bailey. Grant <a href="https://gtr.ukri.org/find-research-and-innovation/project/15c4b87e-0517-4107-9ac1-c219b921717e">ES/L011921/1</a>'
+  subgroup: glasgow
 - years: 2020–2021
   title: Urban Big Data Centre Data Service Extension Phase 3a (World Class Labs Infrastructure)
   funder: Economic and Social Research Council (ESRC), United Kingdom
@@ -210,6 +233,7 @@
   status: funded
   amount: £766,321 (FEC)
   note: 'PI: Prof Nick Bailey. News: <a href="https://www.ukri.org/news/ukri-invests-to-upgrade-uks-world-class-research-infrastructure/">UKRI</a>, <a href="https://www.ukri.org/our-work/responding-to-climate-change/developing-new-behaviours-and-solutions/how-people-move-around-cities-matters/">UKRI feature</a>'
+  subgroup: glasgow
 - years: 2019–2027
   title: Data Lab MSc Scholarship
   funder: Scottish Funding Council and European Social Fund, United Kingdom
@@ -219,6 +243,7 @@
   status: funded
   amount: £155,400
   note: 25 MSc studentships
+  subgroup: glasgow
 - years: 2019–2022
   title: Ventilation-Based Planning Methods to Respond to Urban Haze Supported by Multi-Source Spatial-Temporal Big Data
   funder: National Natural Science Foundation of China
@@ -228,6 +253,7 @@
   status: funded
   amount: ¥600,000
   note: 'PI: Dr Qingming Zhan. Grant 51878515'
+  subgroup: glasgow
 - years: 2019–2020
   title: Urban Big Data Centre Data Service Extension Phase 2
   funder: Economic and Social Research Council (ESRC), United Kingdom
@@ -237,6 +263,7 @@
   status: funded
   amount: £636,467 (FEC)
   note: 'PI: Prof Nick Bailey. Grant <a href="https://gtr.ukri.org/find-research-and-innovation/project/15c4b87e-0517-4107-9ac1-c219b921717e">ES/L011921/1</a>'
+  subgroup: glasgow
 - years: '2017'
   title: Optimizing Tree Locations and Arrangement for Mitigating Urban Heat Island Effects and Improving Human Thermal Comfort in a Hot Arid Urban Residential Environment
   funder: Dissertation Research Grant, American Association of Geographers
@@ -246,6 +273,7 @@
   status: funded
   amount: $1,000
   note: 'News: <a href="http://www.aag.org/cs/annualmeeting/annual_meeting_highlights/2017_awards">AAG</a>'
+  subgroup: asu
 - years: '2016'
   title: Imagery Grant
   funder: DigitalGlobe Foundation
@@ -254,6 +282,7 @@
   group: external
   status: funded
   note: 12 high-resolution satellite images (QuickBird, WorldView-1/2, GeoEye-1) of Chitwan, Nepal
+  subgroup: asu
 - years: '2016'
   title: Imagery Grant
   funder: European Space Agency
@@ -262,6 +291,7 @@
   group: external
   status: funded
   note: 'PI: Dr Sean Murphy. One SPOT 6 high-resolution image of Chitwan, Nepal'
+  subgroup: asu
 - years: 2026–2027
   title: 'From Demonstrator to Decision Support: Operationalising the Clyde Port Digital Twin'
   funder: ESRC Impact Acceleration Account, University of Glasgow
