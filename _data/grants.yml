@@ -271,6 +271,7 @@
   status: funded
   amount: £14,887
   note: 'PI: Dr Mingyu Zhu'
+  subgroup: glasgow
 - years: 2026–2027
   title: 'From Sensing Change to Real World Action: Addressing Overheating, Underheating, and Air Pollution Issues in Gorbals'
   funder: ESRC Impact Acceleration Account, University of Glasgow
@@ -280,6 +281,7 @@
   status: funded
   amount: £14,951
   note: 'Co-I: Xingyi Du'
+  subgroup: glasgow
 - years: 2026–2027
   title: Bridging Research and Practice for Glasgow Waterfront Regeneration
   funder: ESRC Impact Acceleration Account Private Sector Mobility Programme, University of Glasgow
@@ -289,6 +291,7 @@
   status: funded
   amount: £5,001
   note: 'PI: Dr Mingyu Zhu'
+  subgroup: glasgow
 - years: '2026'
   title: 'Just Transitions in Waterfront: Scaling Up Business User Engagement in Port-City Digital Twin'
   funder: Creative and Social Futures Fund 2025–26, University of Glasgow
@@ -298,6 +301,7 @@
   status: funded
   amount: £14,849
   note: 'Co-I: Dr Mingyu Zhu'
+  subgroup: glasgow
 - years: 2025–2026
   title: 'Digital Twin for Clyde Port: Building Collaborative Foundations for Sustainable Transitions'
   funder: ESRC Impact Acceleration Account, University of Glasgow
@@ -307,6 +311,7 @@
   status: funded
   amount: £10,300
   note: 'Co-I: Dr Mingyu Zhu'
+  subgroup: glasgow
 - years: '2025'
   title: Development of a LoRa-Capable Zero-Infrastructure Sensor Network for Long-Term, Low-Cost Environmental Monitoring
   funder: Interdisciplinary Rapid Responses Fund, College of Social Sciences, University of Glasgow
@@ -316,6 +321,7 @@
   status: funded
   amount: £3,252
   note: 'Co-I: Dr Ahmad Taha'
+  subgroup: glasgow
 - years: '2025'
   title: Sensor-Enhanced Housing Survey Phase 3
   funder: Urban Studies &amp; Social Policy Research Funding, University of Glasgow
@@ -324,6 +330,7 @@
   group: internal
   status: funded
   amount: £2,000
+  subgroup: glasgow
 - years: 2024–2025
   title: 'Gaelic Connect: A Digital Hub for Gaelic Speakers and Learners in the City of Glasgow'
   funder: Institutional Joint IAA Application, University of Glasgow
@@ -333,6 +340,7 @@
   status: funded
   amount: £43,336
   note: 'PI: Prof Bernadette O''Rourke. News: <a href="https://www.heraldscotland.com/news/24957899.new-digital-hub-hopes-connect-glasgows-gaelic-community/">the Herald</a>, <a href="https://www.gla.ac.uk/news/headline_1149994_en.html">UoG</a> · <a href="https://www.minoritylanguageplanning.gla.ac.uk/rannsachadh/gaelic-connect-glasgows-digital-gaelic-hub">website</a>'
+  subgroup: glasgow
 - years: 2023–2024
   title: An Assessment of Low-Emission Zones through Air Quality, Health Risks, and Environmental Justice by Leveraging Digital Footprint Data in Glasgow
   funder: College of Social Sciences Ambitious Interdisciplinary Research Funding, University of Glasgow
@@ -342,6 +350,7 @@
   status: funded
   amount: £4,749
   note: 'PI: Dr Ye Tian'
+  subgroup: glasgow
 - years: '2023'
   title: Sensor-Enhanced Housing Survey Phase 2
   funder: Urban Studies Research Funding, University of Glasgow
@@ -350,6 +359,7 @@
   group: internal
   status: funded
   amount: £500
+  subgroup: glasgow
 - years: '2022'
   title: Exploring the Electric Vehicle Driver Behaviours for the Sustainable Future of Charging Infrastructure
   funder: University of Glasgow China Scholarship Council (CSC) PhD Scholarship
@@ -359,6 +369,7 @@
   status: funded
   amount: ≈£127k studentship
   note: 'PhD student: Zixin Feng; with Prof Alison Heppenstall'
+  subgroup: glasgow
 - years: '2022'
   title: Development of the spopt Location Modelling Package to Include the Capacitated p-Median Problem
   funder: Research Incentivization Funding, Urban Studies, University of Glasgow
@@ -367,6 +378,7 @@
   group: internal
   status: funded
   amount: £1,500
+  subgroup: glasgow
 - years: '2022'
   title: 'Individuals'' Cycling Volumes and Socio-Demography: Evaluating Urban Cycling Infrastructure Using Crowd-Sourced Data'
   funder: Early Career Research Support Fund, School of Social &amp; Political Sciences, University of Glasgow
@@ -375,6 +387,7 @@
   group: internal
   status: funded
   amount: £1,000
+  subgroup: glasgow
 - years: '2022'
   title: Exploration of the Use of New Forms of Urban Big Data and Sensing Technologies for Creating a Sustainable and Healthy Urban Environment
   funder: Collaboration Development Fund, School of Social &amp; Political Sciences, University of Glasgow
@@ -384,6 +397,7 @@
   status: funded
   amount: £3,000
   note: With the MIT Senseable City Lab
+  subgroup: glasgow
 - years: '2022'
   title: Understanding Regional Disparity — A Job-Housing (Im)balance Perspective
   funder: College Research Fund; ECR Support Fund; Research Incentivization Funding, University of Glasgow
@@ -392,6 +406,7 @@
   group: internal
   status: funded
   amount: £5,747
+  subgroup: glasgow
 - years: '2021'
   title: Estimation and Prediction of Urban Traffic Flows in Response to COVID-19 Using Machine Learning
   funder: University of Glasgow China Scholarship Council (CSC) PhD Scholarship
@@ -401,6 +416,7 @@
   status: funded
   amount: ≈£122k studentship
   note: 'PhD student: Yue Li; with Dr Mingshu Wang'
+  subgroup: glasgow
 - years: '2021'
   title: Understanding Multilingual Citizens in the City Space
   funder: Reinvigorating Research Funding, University of Glasgow
@@ -410,6 +426,7 @@
   status: funded
   amount: £37,200
   note: 'PI: Prof Bernadette O''Rourke'
+  subgroup: glasgow
 - years: '2021'
   title: Classifying City-Level Housing Materials by Using Google Street View Images and Deep Learning
   funder: Research Incentivization Funding, Urban Studies, University of Glasgow
@@ -418,6 +435,7 @@
   group: internal
   status: funded
   amount: £1,500
+  subgroup: glasgow
 - years: '2021'
   title: Exploring Human–Nature Interactions Using New Forms of Data
   funder: College of Social Sciences Research Fund, University of Glasgow
@@ -427,6 +445,7 @@
   status: funded
   amount: £4,945
   note: 'PIs: Prof Nick Bailey and Dr Michael Sinclair'
+  subgroup: glasgow
 - years: '2020'
   title: Mitigating Urban Heat Island Effects through the Intelligent Use of Sustainable Materials
   funder: University of Edinburgh / University of Glasgow Jointly Funded PhD Studentships (Future Cities)
@@ -436,6 +455,7 @@
   status: funded
   amount: ≈£143k studentship
   note: 'PhD student: Henry Ibitolu; with Dr Chris Beckett'
+  subgroup: glasgow
 - years: '2020'
   title: Harnessing Crowd-Sourced Big Data for Driving Next-Generation Location-Based Services in Future Cities
   funder: University of Edinburgh / University of Glasgow Jointly Funded PhD Studentships (Future Cities)
@@ -444,6 +464,7 @@
   group: internal
   status: funded
   note: With Prof Tughrul Arslan; awarded but the candidate declined the offer
+  subgroup: glasgow
 - years: '2017'
   title: Impact of Tree Locations and Arrangements on Outdoor Microclimate and Human Thermal Comfort in a Compact Urban Residential Environment
   funder: CAP-LTER Graduate Grants, Arizona State University
@@ -452,6 +473,7 @@
   group: internal
   status: funded
   amount: $4,000
+  subgroup: asu
 - years: '2016'
   title: 'Validating Microclimate Benefits from Optimal Tree Location Arrangement: A Physical Scale Model Site Field Measurement'
   funder: JumpStart Research Grant, GPSA, Arizona State University
@@ -460,6 +482,7 @@
   group: internal
   status: funded
   amount: $500
+  subgroup: asu
 - years: '2015'
   title: Rooftop Surface Temperature Analysis in an Urban Residential Environment
   funder: CAP-LTER Graduate Grants, Arizona State University
@@ -468,6 +491,7 @@
   group: internal
   status: funded
   amount: $4,000
+  subgroup: asu
 - years: '2015'
   title: Tree Shade Effects on House Surface Temperature in an Urban Desert Environment
   funder: Matthew G. Bailey Scholarship Award, School of Geographical Sciences and Urban Planning, Arizona State University
@@ -476,3 +500,4 @@
   group: internal
   status: funded
   amount: $1,500
+  subgroup: asu

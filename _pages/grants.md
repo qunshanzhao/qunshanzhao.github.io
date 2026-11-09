@@ -15,7 +15,8 @@ nav_order: 3
 </div>
 
 {% assign ext_funded = site.data.grants | where: "group", "external" | where: "status", "funded" %}
-{% assign int_funded = site.data.grants | where: "group", "internal" | where: "status", "funded" %}
+{% assign int_glasgow = site.data.grants | where: "group", "internal" | where: "subgroup", "glasgow" %}
+{% assign int_asu = site.data.grants | where: "group", "internal" | where: "subgroup", "asu" %}
 
 <h2 style="margin-top:1.6rem;">External funding</h2>
 <p style="margin:4px 0 10px;opacity:0.85;">~£823k as PI and ~£8.8m as Co-I / work-package lead</p>
@@ -25,10 +26,17 @@ nav_order: 3
 {% endfor %}
 </div>
 
-<h2 style="margin-top:2rem;">Internal funding (University of Glasgow &amp; Arizona State University)</h2>
+<h2 style="margin-top:2rem;">Internal funding (University of Glasgow)</h2>
 <p style="margin:4px 0 10px;opacity:0.85;">~£315k as PI and ~£243k as Co-I</p>
 <div>
-{% for grant in int_funded %}
+{% for grant in int_glasgow %}
+  {% include grant_entry.liquid %}
+{% endfor %}
+</div>
+
+<h2 style="margin-top:2rem;">Internal funding (Arizona State University)</h2>
+<div>
+{% for grant in int_asu %}
   {% include grant_entry.liquid %}
 {% endfor %}
 </div>
