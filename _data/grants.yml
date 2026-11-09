@@ -1,0 +1,512 @@
+# Grants data, rendered by _pages/grants.md. Mirrors the Research Grants section of the CV
+# (declined applications are intentionally not listed here; see the full CV PDF).
+- years: '2026'
+  title: 'LINGUA FUTURA: Understanding, Valuing and Governing Europe''s Minoritised Languages for a Multilingual Future'
+  funder: Safeguarding linguistic diversity in Europe, Horizon Europe
+  role: Co-PI
+  rolegroup: coi
+  group: external
+  status: review
+  note: 'PI: Prof Bernadette O''Rourke'
+- years: '2026'
+  title: 'Cooling the Cloud: Climate Controls on Data-Centre Cooling across the UK and US'
+  funder: Royal Society International Exchanges, United Kingdom
+  role: PI
+  rolegroup: pi
+  group: external
+  status: review
+  amount: £12,000 (FEC)
+  note: 'US collaborator: Dr Xiao Huang'
+- years: '2026'
+  title: AI-Driven Assessment of Thermal Stress and Nature-Based Solutions for Social Heat Equity
+  funder: Royal Society Kan Tong Po International Fellowship 2026, United Kingdom
+  role: Co-PI
+  rolegroup: coi
+  group: external
+  status: review
+  note: 'PI: Dr Siqi Jia'
+- years: '2026'
+  title: 'Mapping Carbon Emission and Climate Resilience Trade-offs in High-Density Urban Districts: A Comparative Study of Glasgow, UK and Harbin, China'
+  funder: Royal Society International Exchanges, United Kingdom
+  role: Co-PI
+  rolegroup: coi
+  group: external
+  status: review
+  amount: £12,000 (FEC)
+  note: 'PI: Dr Pengyuan Liu'
+- years: 2026–2028
+  title: 'MERV: Measuring Renewables Uptake and Value in UK Housing'
+  funder: Secondary Data Analysis Initiative, Economic and Social Research Council (ESRC), United Kingdom
+  role: Co-PI
+  rolegroup: coi
+  group: external
+  status: funded
+  amount: £295,246 (FEC)
+  note: 'PI: Prof Nick Bailey. Grant <a href="https://gtr.ukri.org/find-research-and-innovation/project/7c2187a9-e171-4792-b4f6-20d86b6df254">UKRI5675</a> · <a href="https://urbanbigdatacentre.github.io/merv/index.html">project website</a>'
+- years: 2026–2027
+  title: 'From Smart Data to Health Impacts: Thermal Simulation of Indoor Environments in UK Cold Homes'
+  funder: SDR UK Fellowship, Economic and Social Research Council, United Kingdom
+  role: Fellowship Mentor
+  rolegroup: other
+  group: external
+  status: funded
+  amount: £199,799 (FEC)
+  note: 'Fellow: Dr Mingyu Zhu. Grant <a href="https://gtr.ukri.org/find-research-and-innovation/project/37b1c204-2602-4c06-9796-0134c9b93196">UKRI4008</a> · news: <a href="https://www.sdruk.ukri.org/2026/02/12/15-new-smart-data-research-fellowships/">SDR UK</a>, <a href="https://www.gla.ac.uk/news/headline_1246078_en.html">UoG</a>'
+- years: 2026–2027
+  title: Understanding the Socio-Economic Impacts of Port Decarbonisation
+  funder: SGSSS Academics Placement, United Kingdom
+  role: Co-I
+  rolegroup: coi
+  group: external
+  status: funded
+  note: 'PI: Dr Mingyu Zhu. <a href="https://www.sgsss.ac.uk/internship/understanding-the-socio-economic-impacts-of-port-decarbonisation-using-digital-twin-modelling/">Placement page</a>'
+- years: '2026'
+  title: 'Urban Analytics in the AI Era: From Smart Data to Participatory Action'
+  funder: AGILE PhD School
+  role: PI
+  rolegroup: pi
+  group: external
+  status: funded
+  amount: €5,000
+  note: <a href="https://urbanbigdatacentre.github.io/agilephdschool2026/">PhD school website</a>
+- years: '2026'
+  title: Converge Net Zero Challenge 2026
+  funder: Converge, United Kingdom
+  role: Team member
+  rolegroup: other
+  group: external
+  status: funded
+  note: 'Team lead: Ms Xingyi Du'
+- years: '2026'
+  title: Small Research Grants
+  funder: Royal Geographical Society, United Kingdom
+  role: Co-I
+  rolegroup: coi
+  group: external
+  status: funded
+  amount: £2,000
+  note: 'PI: Dr Mingyu Zhu. News: <a href="https://www.rgs.org/exploration/grants/projects-supported">RGS</a>'
+- years: 2025–2027
+  title: 'Sensing Environmental Changes at the Fringe of the New Glasgow LEZ: Heat and Air Quality Conditions in the Gorbals'
+  funder: GALLANT Innovation Fund, University of Glasgow
+  role: PI
+  rolegroup: pi
+  group: external
+  status: funded
+  amount: £31,489
+  note: £5,000 co-funded by Crossroads Youth &amp; Community Association. <a href="https://www.gla.ac.uk/research/az/sustainablesolutions/ourprojects/gallant/innovationfundprojects/sensingchangeheatandairqualityinthegorbals/">Project page</a>
+- years: 2024–2025
+  title: 'SpaceEPC: Earth Observation Thermal Satellite Data for Measuring Thermal Efficiency of Buildings'
+  funder: ESA Open Call on Business Applications
+  role: Academic PI
+  rolegroup: pi
+  group: external
+  status: funded
+  amount: €489,707 (FEC), €146,022 (UoG)
+  note: 'Led by SatVu Ltd. ESA contract 4000145976/24/UK/AL/ek. <a href="https://business.esa.int/projects/spaceepc">Project page</a> · news: <a href="https://www.gla.ac.uk/news/headline_1143392_en.html">UoG</a>, <a href="https://www.satellitevu.com/news/from-space-to-savings-satvu-and-the-university-of-glasgow-develop-heat-loss-index-with-european-space-agency-funding">SatVu</a>'
+- years: '2025'
+  title: Emerging Workshop on Geospatial Foundation Models
+  funder: RGS-IBG Quantitative Methods Research Group Grant, United Kingdom
+  role: Co-I
+  rolegroup: coi
+  group: external
+  status: funded
+  amount: £1,000
+  note: 'PI: Dr Weiming Huang'
+- years: 2023–2026
+  title: Estimating Building Energy Efficiency and Carbon Footprint for Achieving a Net-Zero Carbon Target via Urban Sensing and AI
+  funder: Royal Society International Exchanges (with NSFC), United Kingdom
+  role: PI
+  rolegroup: pi
+  group: external
+  status: funded
+  amount: £12,000 (FEC)
+  note: Grant IEC\NSFC\223042
+- years: 2023–2025
+  title: 'The Housing Environment and Energy Panel: Monitoring Indoor Residential Environments and Energy Use via Low-Cost Housing Sensors'
+  funder: Understanding Society Innovation Panel, United Kingdom
+  role: PI
+  rolegroup: pi
+  group: external
+  status: funded
+  note: <a href="https://www.understandingsociety.ac.uk/participants/projects/sensor/">In-home sensors</a> · <a href="https://www.understandingsociety.ac.uk/participants/projects/smartmeter/">smart meter</a>
+- years: 2023–2025
+  title: Developing and Exploring Methods to Understand Human–Nature Interactions in Urban Areas Using New Forms of Big Data
+  funder: Secondary Data Analysis Initiative, Economic and Social Research Council (ESRC), United Kingdom
+  role: Co-PI
+  rolegroup: coi
+  group: external
+  status: funded
+  amount: £292,306 (FEC)
+  note: 'PI: Dr Michael Sinclair. Grant <a href="https://gtr.ukri.org/find-research-and-innovation/project/9986c7e4-c2ea-4f7d-bcc0-0af3fbdd9cf9">ES/W012979/1</a>'
+- years: '2023'
+  title: Sensor-Enhanced Housing Survey for Urban Heat Investigation in London
+  funder: The Bureau of Investigative Journalism
+  role: PI
+  rolegroup: pi
+  group: external
+  status: funded
+  amount: £55,470 (FEC)
+  note: 'Funded by the Google News Initiative, the Bill &amp; Melinda Gates Foundation, Impact on Urban Health and Necessity. News: <a href="https://www.thebureauinvestigates.com/stories/2023-12-05/revealed-escalating-effects-of-hot-summers-on-uk-housing">TBIJ</a>, <a href="https://www.mirror.co.uk/news/uk-news/uks-overheating-summer-health-crisis-31597681">the Mirror</a>, <a href="https://www.gla.ac.uk/news/headline_1026834_en.html">UoG</a>, <a href="https://www.ubdc.ac.uk/news/ubdc-data-analysis-reveals-concern-for-the-uks-overheating-homes">UBDC</a>'
+- years: '2023'
+  title: Development of the spopt Location Modelling Package to Include the Capacitated p-Median Problem
+  funder: AGILE funding initiative
+  role: PI
+  rolegroup: pi
+  group: external
+  status: funded
+  amount: £7,679 (FEC)
+  note: <a href="https://www.youtube.com/watch?v=u9EOdfe82Gs">Demo video</a> · <a href="https://agile-gi.eu/images/initiatives/documents/Funding_initiative_spopt_finalreport.pdf">final report</a>
+- years: 2022–2026
+  title: The Housing Market Impacts of Buildings Energy Efficiency Regulation
+  funder: SGSSS Supervisor-Led ESRC Steers PhD Competition, United Kingdom
+  role: Third supervisor
+  rolegroup: other
+  group: external
+  status: funded
+  amount: ≈£135k studentship
+  note: With Prof Nick Bailey and Dr David McArthur. Grant ES/P000681/1 (<a href="https://gtr.ukri.org/find-research-and-innovation/project/a7bfe937-5f0a-48f0-b561-d671c2d158d9">2760675</a>)
+- years: 2022–2026
+  title: Analytical Strategies for Improving Third Sector Employability Services in the Post COVID-19 Recovery
+  funder: SGSSS Supervisor-Led ESRC Open Collaborative PhD Competition, United Kingdom
+  role: Lead supervisor
+  rolegroup: other
+  group: external
+  status: funded
+  amount: ≈£135k studentship
+  note: 'With Prof Sharon Wright and Prof João Porto de Albuquerque; external partner: the Salvation Army UK. Grant ES/P000681/1 (<a href="https://gtr.ukri.org/find-research-and-innovation/project/5e6589f2-8a27-4280-a2ca-c6f1b3f3b70f">2760612</a>)'
+- years: 2022–2026
+  title: 'IDEAMAPS: A Participatory Data-Modeling Ecosystem for Deprived Area Map Production in LMIC Cities'
+  funder: Bill &amp; Melinda Gates Foundation
+  role: Co-PI
+  rolegroup: coi
+  group: external
+  status: funded
+  amount: $2,040,337 (FEC)
+  note: 'PI: Prof João Porto de Albuquerque. Includes a three-year fully funded IDEAMAPS PhD scholarship (≈£134k). News: <a href="https://www.gla.ac.uk/news/archiveofnews/2024/november/headline_1123712_en.html">UoG</a>'
+- years: 2022–2024
+  title: Aalto/Glasgow Urban Analytics Open-Source Programming Camp
+  funder: Turing Scheme / University of Glasgow, United Kingdom
+  role: PI
+  rolegroup: pi
+  group: external
+  status: funded
+  note: 12 MSc students, 4–8 week study visits to Aalto University
+- years: '2022'
+  title: Scottish British Academy Early-Career Researcher Network Hub
+  funder: The British Academy, United Kingdom
+  role: Co-I
+  rolegroup: coi
+  group: external
+  status: funded
+  note: 'News: <a href="https://www.thebritishacademy.ac.uk/news/scotland-becomes-third-early-career-researcher-network-hub-in-british-academy-pilot/">the British Academy</a>'
+- years: '2022'
+  title: Glasgow 3D City Modeling
+  funder: Glasgow City Council, United Kingdom
+  role: PI
+  rolegroup: pi
+  group: external
+  status: funded
+  amount: £34,122 (FEC)
+- years: 2021–2026
+  title: Urban Big Data Centre Data Service Extension Phases 3b and 4
+  funder: Economic and Social Research Council (ESRC), United Kingdom
+  role: Co-PI
+  rolegroup: coi
+  group: external
+  status: funded
+  amount: £806,040 and £3,117,260 (FEC)
+  note: 'PI: Prof Nick Bailey. Grant <a href="https://gtr.ukri.org/find-research-and-innovation/project/15c4b87e-0517-4107-9ac1-c219b921717e">ES/L011921/1</a>'
+- years: '2021'
+  title: Urban Mobility in Glasgow 2019–21
+  funder: Glasgow City Council, United Kingdom
+  role: Co-PI
+  rolegroup: coi
+  group: external
+  status: funded
+  amount: £147,819
+  note: 'PI: Prof Nick Bailey'
+- years: 2020–2022
+  title: Urban Big Data Centre Data Service Extension Phase 3
+  funder: Economic and Social Research Council (ESRC), United Kingdom
+  role: Co-PI
+  rolegroup: coi
+  group: external
+  status: funded
+  amount: £1,348,022 (FEC)
+  note: 'PI: Prof Nick Bailey. Grant <a href="https://gtr.ukri.org/find-research-and-innovation/project/15c4b87e-0517-4107-9ac1-c219b921717e">ES/L011921/1</a>'
+- years: 2020–2021
+  title: Urban Big Data Centre Data Service Extension Phase 3a (World Class Labs Infrastructure)
+  funder: Economic and Social Research Council (ESRC), United Kingdom
+  role: Co-PI
+  rolegroup: coi
+  group: external
+  status: funded
+  amount: £766,321 (FEC)
+  note: 'PI: Prof Nick Bailey. News: <a href="https://www.ukri.org/news/ukri-invests-to-upgrade-uks-world-class-research-infrastructure/">UKRI</a>, <a href="https://www.ukri.org/our-work/responding-to-climate-change/developing-new-behaviours-and-solutions/how-people-move-around-cities-matters/">UKRI feature</a>'
+- years: 2019–2027
+  title: Data Lab MSc Scholarship
+  funder: Scottish Funding Council and European Social Fund, United Kingdom
+  role: PI
+  rolegroup: pi
+  group: external
+  status: funded
+  amount: £155,400
+  note: 25 MSc studentships
+- years: 2019–2022
+  title: Ventilation-Based Planning Methods to Respond to Urban Haze Supported by Multi-Source Spatial-Temporal Big Data
+  funder: National Natural Science Foundation of China
+  role: Co-PI
+  rolegroup: coi
+  group: external
+  status: funded
+  amount: ¥600,000
+  note: 'PI: Dr Qingming Zhan. Grant 51878515'
+- years: 2019–2020
+  title: Urban Big Data Centre Data Service Extension Phase 2
+  funder: Economic and Social Research Council (ESRC), United Kingdom
+  role: Co-PI
+  rolegroup: coi
+  group: external
+  status: funded
+  amount: £636,467 (FEC)
+  note: 'PI: Prof Nick Bailey. Grant <a href="https://gtr.ukri.org/find-research-and-innovation/project/15c4b87e-0517-4107-9ac1-c219b921717e">ES/L011921/1</a>'
+- years: '2017'
+  title: Optimizing Tree Locations and Arrangement for Mitigating Urban Heat Island Effects and Improving Human Thermal Comfort in a Hot Arid Urban Residential Environment
+  funder: Dissertation Research Grant, American Association of Geographers
+  role: PI
+  rolegroup: pi
+  group: external
+  status: funded
+  amount: $1,000
+  note: 'News: <a href="http://www.aag.org/cs/annualmeeting/annual_meeting_highlights/2017_awards">AAG</a>'
+- years: '2016'
+  title: Imagery Grant
+  funder: DigitalGlobe Foundation
+  role: PI
+  rolegroup: pi
+  group: external
+  status: funded
+  note: 12 high-resolution satellite images (QuickBird, WorldView-1/2, GeoEye-1) of Chitwan, Nepal
+- years: '2016'
+  title: Imagery Grant
+  funder: European Space Agency
+  role: Co-PI
+  rolegroup: coi
+  group: external
+  status: funded
+  note: 'PI: Dr Sean Murphy. One SPOT 6 high-resolution image of Chitwan, Nepal'
+- years: 2026–2027
+  title: 'From Demonstrator to Decision Support: Operationalising the Clyde Port Digital Twin'
+  funder: ESRC Impact Acceleration Account, University of Glasgow
+  role: Co-I
+  rolegroup: coi
+  group: internal
+  status: funded
+  amount: £14,887
+  note: 'PI: Dr Mingyu Zhu'
+- years: 2026–2027
+  title: 'From Sensing Change to Real World Action: Addressing Overheating, Underheating, and Air Pollution Issues in Gorbals'
+  funder: ESRC Impact Acceleration Account, University of Glasgow
+  role: PI
+  rolegroup: pi
+  group: internal
+  status: funded
+  amount: £14,951
+  note: 'Co-I: Xingyi Du'
+- years: 2026–2027
+  title: Bridging Research and Practice for Glasgow Waterfront Regeneration
+  funder: ESRC Impact Acceleration Account Private Sector Mobility Programme, University of Glasgow
+  role: Co-I
+  rolegroup: coi
+  group: internal
+  status: funded
+  amount: £5,001
+  note: 'PI: Dr Mingyu Zhu'
+- years: '2026'
+  title: 'Just Transitions in Waterfront: Scaling Up Business User Engagement in Port-City Digital Twin'
+  funder: Creative and Social Futures Fund 2025–26, University of Glasgow
+  role: PI
+  rolegroup: pi
+  group: internal
+  status: funded
+  amount: £14,849
+  note: 'Co-I: Dr Mingyu Zhu'
+- years: 2025–2026
+  title: 'Digital Twin for Clyde Port: Building Collaborative Foundations for Sustainable Transitions'
+  funder: ESRC Impact Acceleration Account, University of Glasgow
+  role: PI
+  rolegroup: pi
+  group: internal
+  status: funded
+  amount: £10,300
+  note: 'Co-I: Dr Mingyu Zhu'
+- years: '2025'
+  title: Development of a LoRa-Capable Zero-Infrastructure Sensor Network for Long-Term, Low-Cost Environmental Monitoring
+  funder: Interdisciplinary Rapid Responses Fund, College of Social Sciences, University of Glasgow
+  role: PI
+  rolegroup: pi
+  group: internal
+  status: funded
+  amount: £3,252
+  note: 'Co-I: Dr Ahmad Taha'
+- years: '2025'
+  title: Sensor-Enhanced Housing Survey Phase 3
+  funder: Urban Studies &amp; Social Policy Research Funding, University of Glasgow
+  role: PI
+  rolegroup: pi
+  group: internal
+  status: funded
+  amount: £2,000
+- years: 2024–2025
+  title: 'Gaelic Connect: A Digital Hub for Gaelic Speakers and Learners in the City of Glasgow'
+  funder: Institutional Joint IAA Application, University of Glasgow
+  role: Co-PI
+  rolegroup: coi
+  group: internal
+  status: funded
+  amount: £43,336
+  note: 'PI: Prof Bernadette O''Rourke. News: <a href="https://www.heraldscotland.com/news/24957899.new-digital-hub-hopes-connect-glasgows-gaelic-community/">the Herald</a>, <a href="https://www.gla.ac.uk/news/headline_1149994_en.html">UoG</a> · <a href="https://www.minoritylanguageplanning.gla.ac.uk/rannsachadh/gaelic-connect-glasgows-digital-gaelic-hub">website</a>'
+- years: 2023–2024
+  title: An Assessment of Low-Emission Zones through Air Quality, Health Risks, and Environmental Justice by Leveraging Digital Footprint Data in Glasgow
+  funder: College of Social Sciences Ambitious Interdisciplinary Research Funding, University of Glasgow
+  role: Co-PI
+  rolegroup: coi
+  group: internal
+  status: funded
+  amount: £4,749
+  note: 'PI: Dr Ye Tian'
+- years: '2023'
+  title: Sensor-Enhanced Housing Survey Phase 2
+  funder: Urban Studies Research Funding, University of Glasgow
+  role: PI
+  rolegroup: pi
+  group: internal
+  status: funded
+  amount: £500
+- years: '2022'
+  title: Exploring the Electric Vehicle Driver Behaviours for the Sustainable Future of Charging Infrastructure
+  funder: University of Glasgow China Scholarship Council (CSC) PhD Scholarship
+  role: First supervisor
+  rolegroup: other
+  group: internal
+  status: funded
+  amount: ≈£127k studentship
+  note: 'PhD student: Zixin Feng; with Prof Alison Heppenstall'
+- years: '2022'
+  title: Development of the spopt Location Modelling Package to Include the Capacitated p-Median Problem
+  funder: Research Incentivization Funding, Urban Studies, University of Glasgow
+  role: PI
+  rolegroup: pi
+  group: internal
+  status: funded
+  amount: £1,500
+- years: '2022'
+  title: 'Individuals'' Cycling Volumes and Socio-Demography: Evaluating Urban Cycling Infrastructure Using Crowd-Sourced Data'
+  funder: Early Career Research Support Fund, School of Social &amp; Political Sciences, University of Glasgow
+  role: PI
+  rolegroup: pi
+  group: internal
+  status: funded
+  amount: £1,000
+- years: '2022'
+  title: Exploration of the Use of New Forms of Urban Big Data and Sensing Technologies for Creating a Sustainable and Healthy Urban Environment
+  funder: Collaboration Development Fund, School of Social &amp; Political Sciences, University of Glasgow
+  role: PI
+  rolegroup: pi
+  group: internal
+  status: funded
+  amount: £3,000
+  note: With the MIT Senseable City Lab
+- years: '2022'
+  title: Understanding Regional Disparity — A Job-Housing (Im)balance Perspective
+  funder: College Research Fund; ECR Support Fund; Research Incentivization Funding, University of Glasgow
+  role: PI
+  rolegroup: pi
+  group: internal
+  status: funded
+  amount: £5,747
+- years: '2021'
+  title: Estimation and Prediction of Urban Traffic Flows in Response to COVID-19 Using Machine Learning
+  funder: University of Glasgow China Scholarship Council (CSC) PhD Scholarship
+  role: First supervisor
+  rolegroup: other
+  group: internal
+  status: funded
+  amount: ≈£122k studentship
+  note: 'PhD student: Yue Li; with Dr Mingshu Wang'
+- years: '2021'
+  title: Understanding Multilingual Citizens in the City Space
+  funder: Reinvigorating Research Funding, University of Glasgow
+  role: Co-I
+  rolegroup: coi
+  group: internal
+  status: funded
+  amount: £37,200
+  note: 'PI: Prof Bernadette O''Rourke'
+- years: '2021'
+  title: Classifying City-Level Housing Materials by Using Google Street View Images and Deep Learning
+  funder: Research Incentivization Funding, Urban Studies, University of Glasgow
+  role: PI
+  rolegroup: pi
+  group: internal
+  status: funded
+  amount: £1,500
+- years: '2021'
+  title: Exploring Human–Nature Interactions Using New Forms of Data
+  funder: College of Social Sciences Research Fund, University of Glasgow
+  role: Co-PI
+  rolegroup: coi
+  group: internal
+  status: funded
+  amount: £4,945
+  note: 'PIs: Prof Nick Bailey and Dr Michael Sinclair'
+- years: '2020'
+  title: Mitigating Urban Heat Island Effects through the Intelligent Use of Sustainable Materials
+  funder: University of Edinburgh / University of Glasgow Jointly Funded PhD Studentships (Future Cities)
+  role: Second supervisor
+  rolegroup: other
+  group: internal
+  status: funded
+  amount: ≈£143k studentship
+  note: 'PhD student: Henry Ibitolu; with Dr Chris Beckett'
+- years: '2020'
+  title: Harnessing Crowd-Sourced Big Data for Driving Next-Generation Location-Based Services in Future Cities
+  funder: University of Edinburgh / University of Glasgow Jointly Funded PhD Studentships (Future Cities)
+  role: Second supervisor
+  rolegroup: other
+  group: internal
+  status: funded
+  note: With Prof Tughrul Arslan; awarded but the candidate declined the offer
+- years: '2017'
+  title: Impact of Tree Locations and Arrangements on Outdoor Microclimate and Human Thermal Comfort in a Compact Urban Residential Environment
+  funder: CAP-LTER Graduate Grants, Arizona State University
+  role: PI
+  rolegroup: pi
+  group: internal
+  status: funded
+  amount: $4,000
+- years: '2016'
+  title: 'Validating Microclimate Benefits from Optimal Tree Location Arrangement: A Physical Scale Model Site Field Measurement'
+  funder: JumpStart Research Grant, GPSA, Arizona State University
+  role: PI
+  rolegroup: pi
+  group: internal
+  status: funded
+  amount: $500
+- years: '2015'
+  title: Rooftop Surface Temperature Analysis in an Urban Residential Environment
+  funder: CAP-LTER Graduate Grants, Arizona State University
+  role: PI
+  rolegroup: pi
+  group: internal
+  status: funded
+  amount: $4,000
+- years: '2015'
+  title: Tree Shade Effects on House Surface Temperature in an Urban Desert Environment
+  funder: Matthew G. Bailey Scholarship Award, School of Geographical Sciences and Urban Planning, Arizona State University
+  role: PI
+  rolegroup: pi
+  group: internal
+  status: funded
+  amount: $1,500

@@ -1,0 +1,9 @@
+<div class="grant" data-role="{{ grant.rolegroup }}" style="display:flex;gap:14px;margin:12px 0;align-items:baseline;">
+  <span style="flex-shrink:0;min-width:86px;font-weight:700;font-size:0.92em;opacity:0.85;">{{ grant.years }}</span>
+  <div>
+    <strong>{{ grant.title }}</strong> — {{ grant.funder }}
+    <span style="display:inline-block;padding:1px 9px;border-radius:1rem;font-size:0.76em;font-weight:600;vertical-align:1px;{% if grant.rolegroup == 'pi' %}background:rgba(181,9,172,0.12);color:var(--global-theme-color, #b509ac);{% elsif grant.rolegroup == 'coi' %}background:rgba(25,113,194,0.12);color:#1971c2;{% else %}background:rgba(128,128,128,0.15);{% endif %}">{{ grant.role }}</span>
+    {% if grant.amount %}<span style="display:inline-block;padding:1px 9px;border-radius:1rem;font-size:0.76em;border:1px solid rgba(128,128,128,0.35);vertical-align:1px;">{{ grant.amount }}</span>{% endif %}
+    {% if grant.note %}<br><small style="opacity:0.85;">{{ grant.note }}</small>{% endif %}
+  </div>
+</div>

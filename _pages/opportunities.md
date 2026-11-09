@@ -3,7 +3,7 @@ layout: page
 permalink: /opportunities/
 title: Opportunities
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 *Update: 07/10/2026*

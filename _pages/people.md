@@ -4,7 +4,7 @@ permalink: /people/
 title: People
 description: Current and past members of the Urban Sensing & Analytics Lab at the University of Glasgow.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 <!-- Roster data lives in _data/people.yml; avatars in assets/img/people/.

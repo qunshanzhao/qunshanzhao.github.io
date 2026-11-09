@@ -4,7 +4,7 @@ permalink: /impact/
 title: Impact
 description: Selected impact case studies — how our research with new forms of urban big data shapes policy and practice.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 Urban analytics is an applied field that brings the newest developments in data science and AI into the traditional urban planning domain. My aim has always been to positively influence policy and practice in using new forms of urban big data and advanced quantitative methods to understand urban phenomena — and to use credible, persuasive evidence to improve the form and sustainability of the built environment.
