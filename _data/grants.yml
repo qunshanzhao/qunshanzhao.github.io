@@ -27,7 +27,7 @@
   rolegroup: coi
   group: external
   status: funded
-  note: 'PI: Dr Mingyu Zhu. <a href="https://www.sgsss.ac.uk/internship/understanding-the-socio-economic-impacts-of-port-decarbonisation-using-digital-twin-modelling/">Placement page</a>'
+  note: 'PI: Dr Mingyu Zhu. <a href="https://www.sgsss.ac.uk/internships/">Placement page</a>'
   subgroup: glasgow
 - years: '2026'
   title: 'Urban Analytics in the AI Era: From Smart Data to Participatory Action'
@@ -232,7 +232,7 @@
   group: external
   status: funded
   amount: £766,321 (FEC)
-  note: 'PI: Prof Nick Bailey. News: <a href="https://www.ukri.org/news/ukri-invests-to-upgrade-uks-world-class-research-infrastructure/">UKRI</a>, <a href="https://www.ukri.org/our-work/responding-to-climate-change/developing-new-behaviours-and-solutions/how-people-move-around-cities-matters/">UKRI feature</a>'
+  note: 'PI: Prof Nick Bailey. News: <a href="https://web.archive.org/web/20211114084025/https://www.ukri.org/news/ukri-invests-to-upgrade-uks-world-class-research-infrastructure/">UKRI</a>, <a href="https://web.archive.org/web/20211129121050/https://www.ukri.org/our-work/responding-to-climate-change/developing-new-behaviours-and-solutions/how-people-move-around-cities-matters/">UKRI feature</a>'
   subgroup: glasgow
 - years: 2019–2027
   title: Data Lab MSc Scholarship
@@ -272,7 +272,7 @@
   group: external
   status: funded
   amount: $1,000
-  note: 'News: <a href="http://www.aag.org/cs/annualmeeting/annual_meeting_highlights/2017_awards">AAG</a>'
+  note: 'News: <a href="https://web.archive.org/web/20181210015758/http://www.aag.org/cs/annualmeeting/annual_meeting_highlights/2017_awards">AAG</a>'
   subgroup: asu
 - years: '2016'
   title: Imagery Grant
@@ -369,7 +369,7 @@
   group: internal
   status: funded
   amount: £43,336
-  note: 'PI: Prof Bernadette O''Rourke. News: <a href="https://www.heraldscotland.com/news/24957899.new-digital-hub-hopes-connect-glasgows-gaelic-community/">the Herald</a>, <a href="https://www.gla.ac.uk/news/headline_1149994_en.html">UoG</a> · <a href="https://www.minoritylanguageplanning.gla.ac.uk/rannsachadh/gaelic-connect-glasgows-digital-gaelic-hub">website</a>'
+  note: 'PI: Prof Bernadette O''Rourke. News: <a href="https://www.heraldscotland.com/news/24957899.new-digital-hub-hopes-connect-glasgows-gaelic-community/">the Herald</a>, <a href="https://www.gla.ac.uk/news/headline_1149994_en.html">UoG</a>'
   subgroup: glasgow
 - years: 2023–2024
   title: An Assessment of Low-Emission Zones through Air Quality, Health Risks, and Environmental Justice by Leveraging Digital Footprint Data in Glasgow
