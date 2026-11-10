@@ -29,7 +29,7 @@ nav_order: 3
 <div class="grant-section" data-src="external">
 
 <h2 style="margin-top:1.6rem;">External funding (University of Glasgow)</h2>
-<p style="margin:4px 0 10px;opacity:0.85;">~£823k as PI and ~£8.8m as Co-I / work-package lead</p>
+<p style="margin:4px 0 10px;opacity:0.85;">~£850k as PI and ~£9.2m as Co-I / work-package lead</p>
 <div>
 {% for grant in ext_glasgow %}
   {% include grant_entry.liquid %}
@@ -48,7 +48,7 @@ nav_order: 3
 <div class="grant-section" data-src="internal">
 
 <h2 style="margin-top:2rem;">Internal funding (University of Glasgow)</h2>
-<p style="margin:4px 0 10px;opacity:0.85;">~£315k as PI and ~£243k as Co-I</p>
+<p style="margin:4px 0 10px;opacity:0.85;">~£315k as PI and ~£253k as Co-I</p>
 <div>
 {% for grant in int_glasgow %}
   {% include grant_entry.liquid %}
